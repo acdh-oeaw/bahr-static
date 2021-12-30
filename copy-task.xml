@@ -1,0 +1,34 @@
+<project basedir="." name="copyfiles">
+    <delete dir="./data/editions"/>
+    <mkdir dir="./data/editions"/>
+    <copy todir="./data/editions/" flatten="true">
+        <fileset dir="./Hermann-Bahr_Arthur-Schnitzler-master/app/data/diaries">
+            <include name="D*.xml"/>
+        </fileset>
+        <fileset dir="./Hermann-Bahr_Arthur-Schnitzler-master/app/data/letters">
+            <include name="L*.xml"/>
+        </fileset>
+        <fileset dir="./Hermann-Bahr_Arthur-Schnitzler-master/app/data/texts">
+            <include name="T*.xml"/>
+        </fileset>
+    </copy>
+    
+    <delete dir="./data/indices"/>
+    <mkdir dir="./data/indices"/>
+    <copy todir="./data/indices/" flatten="true">
+        <fileset dir="./Hermann-Bahr_Arthur-Schnitzler-master/app/data/indices">
+            <include name="list*.xml"/>
+        </fileset>
+    </copy>
+    
+    <delete dir="./data/meta"/>
+    <mkdir dir="./data/meta"/>
+    <copy todir="./data/meta/" flatten="true">
+        <fileset dir="./Hermann-Bahr_Arthur-Schnitzler-master/app/data/meta">
+            <include name="E*.xml"/>
+            <include name="*.rdf"/>
+        </fileset>
+    </copy>
+    <move file="./data/meta/E000005.xml" tofile="./data/meta/about.xml"/>
+    <delete dir="./Hermann-Bahr_Arthur-Schnitzler-master"/>
+</project>
