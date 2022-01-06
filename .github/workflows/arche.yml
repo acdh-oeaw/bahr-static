@@ -24,9 +24,6 @@ jobs:
     - name: Fetch Data
       run: |
         ./transform.sh
-    - name: Build
-      run: |
-        ant
     - name: ingestion  dependencies
       run: |
         composer require "acdh-oeaw/arche-lib-ingest ^3"
