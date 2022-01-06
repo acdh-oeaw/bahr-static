@@ -22,8 +22,6 @@ jobs:
         echo "downloading saxon"
         wget https://sourceforge.net/projects/saxon/files/Saxon-HE/9.9/SaxonHE9-9-1-7J.zip/download && unzip download -d saxon && rm -rf download
     - name: Fetch Data
-      env:
-        GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
       run: |
         ./fetch_data.sh
     - name: Build
