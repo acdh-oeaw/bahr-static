@@ -26,7 +26,7 @@ jobs:
         ./transform.sh
     - name: ingestion  dependencies
       run: |
-        composer require "acdh-oeaw/arche-lib-ingest ^3"
+        composer require "acdh-oeaw/arche-lib-ingest ^2"
     - name: ingest arche
       run: |
         php -f ingestion_script.php html/arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}}
