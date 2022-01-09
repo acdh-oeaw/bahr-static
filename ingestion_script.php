@@ -5,6 +5,7 @@ if ($argc < 5) {
 }
 
 use acdhOeaw\arche\lib\Repo;
+use acdhOeaw\arche\lib\RepoResource;
 use acdhOeaw\arche\lib\ingest\MetadataCollection;
 use acdhOeaw\arche\lib\ingest\IndexerException;
 include 'vendor/autoload.php';
@@ -20,8 +21,13 @@ $graph = new MetadataCollection($repo, $argv[1]);
 $graph->preprocess();
 try {
     $repo->begin();
-    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_FAIL);
-    $repo->commit();
+    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_INCLUDE);
+    foreach ($resources as $i) {
+        if (!($i instanceof RepoResource)) {
+            print_r($i);
+        }
+    }
+    $repo->rollback();
     echo "\n######################################################\nImport ended\n######################################################\n";
 } catch (GuzzleHttp\Exception\RequestException $e) {
     echo "\n######################################################\nImport failed\n######################################################\n";
