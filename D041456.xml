@@ -103,7 +103,35 @@
             <p>Darf nicht baden.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb3557">
+                  <persName>
+                     <surname>Widmann</surname>
+                     <forename>Joseph Victor</forename>
+                  </persName>
+                  <birth>
+                     <date when="1842-02-20">20. 2. 1842</date>
+                     <placeName>
+                        <settlement>Brněnské Ivanovice</settlement>
+                        <idno type="PMB">#pmb50515</idno>
+                        <idno type="geonames">https://www.geonames.org/3078619/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1911-11-06">6. 11. 1911</date>
+                     <placeName>
+                        <settlement>Bern</settlement>
+                        <idno type="PMB">#pmb1223</idno>
+                        <idno type="geonames">https://www.geonames.org/2661552/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 1. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Die Rahl], [Mitte November 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030069.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -158,33 +186,5 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb3557">
-                  <persName>
-                     <surname>Widmann</surname>
-                     <forename>Joseph Victor</forename>
-                  </persName>
-                  <birth>
-                     <date when="1842-02-20">20. 2. 1842</date>
-                     <placeName>
-                        <settlement>Brněnské Ivanovice</settlement>
-                        <idno type="PMB">#pmb50515</idno>
-                        <idno type="geonames">https://www.geonames.org/3078619/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1911-11-06">6. 11. 1911</date>
-                     <placeName>
-                        <settlement>Bern</settlement>
-                        <idno type="PMB">#pmb1223</idno>
-                        <idno type="geonames">https://www.geonames.org/2661552/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118632302/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_21294</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3557</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3557</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 1. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Die Rahl], [Mitte November 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030069.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

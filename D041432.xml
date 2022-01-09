@@ -113,57 +113,7 @@
                </subst> des <rs type="person" ref="#pmb20643">Lukian</rs>: eine Hure liegt mit einem im Bett, der in eine andere Hur verliebt ist, u. sie vermiest ihm jene körperlich so, daß er lieber mit ihr schlaft. 12, recht albern, nur hübsch, wie der junge Mensch sich nachts aus dem Hause schleicht.</p>
          </div>
       </body>
-   <back><listPlace><place xml:id="pmb891">
-                  <placeName>Bremen</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">53.07516 8.80777</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2944388/</idno>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q24879/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4008135-7/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb891</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb890">
-                  <placeName>Hannover</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">52.37052 9.73322</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2910831/</idno>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1715/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb890</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb20643">
-                  <persName>
-                     <surname>Lucian</surname>
-                  </persName>
-                  <birth>
-                     <date when="0120-01-01">0120?</date>
-                     <placeName>
-                        <settlement>Samosata</settlement>
-                        <idno type="PMB">#pmb28134</idno>
-                        <idno type="geonames"/>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="0180-01-01">0180?</date>
-                     <placeName>
-                        <settlement>Alexandria?</settlement>
-                        <idno type="PMB">#pmb28136</idno>
-                        <idno type="geonames"/>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17716</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28133</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 19. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041429.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb11284">
+   <back><listPerson><person xml:id="pmb11284">
                   <persName>
                      <surname>Eysoldt</surname>
                      <forename>Gertrud</forename>
@@ -217,6 +167,31 @@
                   <idno type="gnd">https://d-nb.info/gnd/11870933X/</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3425</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb20643">
+                  <persName>
+                     <surname>Lucian</surname>
+                  </persName>
+                  <birth>
+                     <date when="0120-01-01">0120?</date>
+                     <placeName>
+                        <settlement>Samosata</settlement>
+                        <idno type="PMB">#pmb28134</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="0180-01-01">0180?</date>
+                     <placeName>
+                        <settlement>Alexandria?</settlement>
+                        <idno type="PMB">#pmb28136</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17716</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28133</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 19. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041428.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041429.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -245,5 +220,30 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="pmb891">
+                  <placeName>Bremen</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">53.07516 8.80777</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2944388/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q24879/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4008135-7/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb891</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb890">
+                  <placeName>Hannover</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">52.37052 9.73322</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2910831/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1715/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb890</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041432.xml"/></linkGrp></event></listEvent></place>
+               </listPlace></back></text>
 </TEI>

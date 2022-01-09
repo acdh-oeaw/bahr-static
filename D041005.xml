@@ -76,7 +76,20 @@
                </anchor>« <rs type="work" subtype="implied" ref="#pmb31267">stehn</rs> als die begabtesten Vertreter Jung Oest.: <rs type="person" ref="#pmb10815">Bahr</rs>, <rs type="person" ref="#pmb2425">Doermann</rs>, <rs type="person" ref="#pmb2416">David</rs>, ich.– </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listOrg><org xml:id="pmb29429">
+                  <orgName>Le Matin</orgName>
+                  <desc>
+                     <gloss ana="i972">Tageszeitungsredaktion</gloss>
+                  </desc>
+                  <place corresp="pmb182">
+                     <placeName>Paris</placeName>
+                     <location>
+                        <geo decls="LatLng">48.85341 2.3488</geo>
+                     </location>
+                  </place>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29429</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
+               </listOrg><listPerson><person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -214,18 +227,5 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson><listOrg><org xml:id="pmb29429">
-                  <orgName>Le Matin</orgName>
-                  <desc>
-                     <gloss ana="i972">Tageszeitungsredaktion</gloss>
-                  </desc>
-                  <place corresp="pmb182">
-                     <placeName>Paris</placeName>
-                     <location>
-                        <geo decls="LatLng">48.85341 2.3488</geo>
-                     </location>
-                  </place>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29429</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
-               </listOrg></back></text>
+               </listPerson></back></text>
 </TEI>

@@ -97,42 +97,7 @@
             <p part="N">Grundidee, ungefähr: Ihr macht es euch bequem, und nennt es Weltanschauung.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb28816">
-                  <persName>
-                     <surname>Oberndorfer</surname>
-                     <forename>Ida</forename>
-                  </persName>
-                  <occupation code="Hausgehilfin"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28816</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb4798">
+   <back><listPerson><person xml:id="pmb4798">
                   <persName>
                      <surname>Lang</surname>
                      <forename>Marie</forename>
@@ -159,31 +124,6 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17298</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4798</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb25665">
-                  <persName>
-                     <surname>Strindberg</surname>
-                     <forename>Frida</forename>
-                  </persName>
-                  <birth>
-                     <date when="1872-04-04">4. 4. 1872</date>
-                     <placeName>
-                        <settlement>Mondsee</settlement>
-                        <idno type="PMB">#pmb53759</idno>
-                        <idno type="geonames">https://www.geonames.org/2771277/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1943-06-28">28. 6. 1943</date>
-                     <placeName>
-                        <settlement>Salzburg</settlement>
-                        <idno type="PMB">#pmb30</idno>
-                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
-                     </placeName>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/118828843/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20531</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb25665</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb4801">
                   <persName>
                      <surname>Lang</surname>
@@ -230,6 +170,66 @@
                      </placeName>
                   </death>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28817</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               <person xml:id="pmb28816">
+                  <persName>
+                     <surname>Oberndorfer</surname>
+                     <forename>Ida</forename>
+                  </persName>
+                  <occupation code="Hausgehilfin"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28816</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb25665">
+                  <persName>
+                     <surname>Strindberg</surname>
+                     <forename>Frida</forename>
+                  </persName>
+                  <birth>
+                     <date when="1872-04-04">4. 4. 1872</date>
+                     <placeName>
+                        <settlement>Mondsee</settlement>
+                        <idno type="PMB">#pmb53759</idno>
+                        <idno type="geonames">https://www.geonames.org/2771277/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1943-06-28">28. 6. 1943</date>
+                     <placeName>
+                        <settlement>Salzburg</settlement>
+                        <idno type="PMB">#pmb30</idno>
+                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
+                     </placeName>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/118828843/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20531</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb25665</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

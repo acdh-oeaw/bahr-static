@@ -99,61 +99,7 @@
             <p>Die Woche gelesen: <rs type="person" ref="#pmb2121">Schnitzlers</rs> »<rs type="work" ref="#pmb29905">Ruf des Lebens</rs>« und »<rs type="work" ref="#pmb29903">Zwischenspiel</rs>«, in <rs type="person" ref="#pmb12668">Friedrich Schlegels</rs> »<rs type="work" ref="#pmb31183">Fragmenten</rs>«, <rs type="person" ref="#pmb3641">Lagarde</rs>, <rs type="person" ref="#pmb12323">Mörike</rs>, <rs type="person" ref="#pmb3644">Alexander Marwitz</rs>.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb12668">
-                  <persName>
-                     <surname>Schlegel</surname>
-                     <forename>Friedrich von</forename>
-                  </persName>
-                  <birth>
-                     <date when="1772-03-10">10. 3. 1772</date>
-                     <placeName>
-                        <settlement>Hannover</settlement>
-                        <idno type="PMB">#pmb890</idno>
-                        <idno type="geonames">https://www.geonames.org/2910831/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1829-01-12">12. 1. 1829</date>
-                     <placeName>
-                        <settlement>Dresden</settlement>
-                        <idno type="PMB">#pmb866</idno>
-                        <idno type="geonames">https://www.geonames.org/2935020/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118607987/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19717</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12668</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12948">
+   <back><listPerson><person xml:id="pmb12948">
                   <persName>
                      <surname>Thimig</surname>
                      <forename>Hugo</forename>
@@ -181,32 +127,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12948</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12948</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 11. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 12. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041358.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 9. 1914</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041363.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 2. 11. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041561.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hugo Thimig, 25. 10. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041580.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 4. 10. 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041401.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Elisabeth Steinrück, 13. 12. 1915</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041456.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Wiener Brief, [25.–30.] 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12323">
-                  <persName>
-                     <surname>Mörike</surname>
-                     <forename>Eduard</forename>
-                  </persName>
-                  <birth>
-                     <date when="1804-09-08">8. 9. 1804</date>
-                     <placeName>
-                        <settlement>Ludwigsburg</settlement>
-                        <idno type="PMB">#pmb56124</idno>
-                        <idno type="geonames">https://www.geonames.org/2875392/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1875-06-04">4. 6. 1875</date>
-                     <placeName>
-                        <settlement>Stuttgart</settlement>
-                        <idno type="PMB">#pmb872</idno>
-                        <idno type="geonames">https://www.geonames.org/2825297/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <idno type="gnd">https://d-nb.info/gnd/118583107/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18204</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12323</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb3641">
                   <persName>
                      <surname>Lagarde</surname>
@@ -233,6 +153,86 @@
                   <idno type="gnd">https://d-nb.info/gnd/118725971/</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3641</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb12668">
+                  <persName>
+                     <surname>Schlegel</surname>
+                     <forename>Friedrich von</forename>
+                  </persName>
+                  <birth>
+                     <date when="1772-03-10">10. 3. 1772</date>
+                     <placeName>
+                        <settlement>Hannover</settlement>
+                        <idno type="PMB">#pmb890</idno>
+                        <idno type="geonames">https://www.geonames.org/2910831/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1829-01-12">12. 1. 1829</date>
+                     <placeName>
+                        <settlement>Dresden</settlement>
+                        <idno type="PMB">#pmb866</idno>
+                        <idno type="geonames">https://www.geonames.org/2935020/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118607987/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19717</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12668</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb3638">
+                  <persName>
+                     <surname>Drugulin</surname>
+                     <forename>Egbert Johannes</forename>
+                  </persName>
+                  <birth>
+                     <date when="1858-01-01">1858</date>
+                     <placeName>
+                        <settlement>Magdeburg</settlement>
+                        <idno type="PMB">#pmb918</idno>
+                        <idno type="geonames">https://www.geonames.org/2874544/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1945-01-01">1945</date>
+                     <placeName>
+                        <settlement>Leipzig</settlement>
+                        <idno type="PMB">#pmb864</idno>
+                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Druckereibesitzer"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116034521/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3638</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
                <person xml:id="pmb3644">
                   <persName>
                      <surname>Marwitz</surname>
@@ -258,6 +258,32 @@
                   <sex>male</sex>
                   <idno type="gnd">https://d-nb.info/gnd/118578464/</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3644</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb12323">
+                  <persName>
+                     <surname>Mörike</surname>
+                     <forename>Eduard</forename>
+                  </persName>
+                  <birth>
+                     <date when="1804-09-08">8. 9. 1804</date>
+                     <placeName>
+                        <settlement>Ludwigsburg</settlement>
+                        <idno type="PMB">#pmb56124</idno>
+                        <idno type="geonames">https://www.geonames.org/2875392/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1875-06-04">4. 6. 1875</date>
+                     <placeName>
+                        <settlement>Stuttgart</settlement>
+                        <idno type="PMB">#pmb872</idno>
+                        <idno type="geonames">https://www.geonames.org/2825297/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <idno type="gnd">https://d-nb.info/gnd/118583107/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18204</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12323</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
@@ -287,32 +313,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb3638">
-                  <persName>
-                     <surname>Drugulin</surname>
-                     <forename>Egbert Johannes</forename>
-                  </persName>
-                  <birth>
-                     <date when="1858-01-01">1858</date>
-                     <placeName>
-                        <settlement>Magdeburg</settlement>
-                        <idno type="PMB">#pmb918</idno>
-                        <idno type="geonames">https://www.geonames.org/2874544/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1945-01-01">1945</date>
-                     <placeName>
-                        <settlement>Leipzig</settlement>
-                        <idno type="PMB">#pmb864</idno>
-                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Druckereibesitzer"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/116034521/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3638</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041479.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listPlace><place xml:id="pmb14">
                   <placeName>Burgtheater</placeName>
                   <desc>

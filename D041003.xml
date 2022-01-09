@@ -84,7 +84,51 @@
             <p>Wahrhaft tragikomisch ist das lächerliche an Leuten, die einem durch Pietät über alles erhaben sein sollten.–</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb26899">
+                  <persName>
+                     <surname>Weizmann</surname>
+                     <forename>Adolf</forename>
+                  </persName>
+                  <birth>
+                     <date when="1859-09-03">3. 9. 1859</date>
+                     <placeName>
+                        <settlement>Uherský Ostroh</settlement>
+                        <idno type="PMB">#pmb43680</idno>
+                        <idno type="geonames">https://www.geonames.org/3063735/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date>1898.02.?</date>
+                  </death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21217</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb26899</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 4. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041003.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041027.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb16672">
+                  <persName>
+                     <surname>Friedmann</surname>
+                     <forename>Theodor</forename>
+                  </persName>
+                  <birth>
+                     <date when="1860-07-31">31. 7. 1860</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1914-12-28">28. 12. 1914</date>
+                     <placeName>
+                        <settlement>Gainfarn</settlement>
+                        <idno type="PMB">#pmb41007</idno>
+                        <idno type="geonames">https://www.geonames.org/2779029/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Arzt/Ärztin"/>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15237</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb16672</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 4. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041003.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -111,25 +155,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb26899">
-                  <persName>
-                     <surname>Weizmann</surname>
-                     <forename>Adolf</forename>
-                  </persName>
-                  <birth>
-                     <date when="1859-09-03">3. 9. 1859</date>
-                     <placeName>
-                        <settlement>Uherský Ostroh</settlement>
-                        <idno type="PMB">#pmb43680</idno>
-                        <idno type="geonames">https://www.geonames.org/3063735/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date>1898.02.?</date>
-                  </death>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21217</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb26899</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 4. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041003.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041027.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb23757">
                   <persName>
                      <surname>Russo</surname>
@@ -153,31 +178,6 @@
                   </death>
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19479</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb23757</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 4. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041003.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb16672">
-                  <persName>
-                     <surname>Friedmann</surname>
-                     <forename>Theodor</forename>
-                  </persName>
-                  <birth>
-                     <date when="1860-07-31">31. 7. 1860</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1914-12-28">28. 12. 1914</date>
-                     <placeName>
-                        <settlement>Gainfarn</settlement>
-                        <idno type="PMB">#pmb41007</idno>
-                        <idno type="geonames">https://www.geonames.org/2779029/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Arzt/Ärztin"/>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15237</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb16672</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 4. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041003.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb14953">
                   <persName>
