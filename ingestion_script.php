@@ -21,7 +21,7 @@ $graph = new MetadataCollection($repo, $argv[1]);
 $graph->preprocess();
 try {
     $repo->begin();
-    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_INCLUDE);
+    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_INCLUDE, 8);
     foreach ($resources as $i) {
         if (!($i instanceof RepoResource)) {
             print_r($i);
