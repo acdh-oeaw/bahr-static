@@ -81,81 +81,7 @@
             <p>Mit <rs type="person" ref="#pmb12435">C. P.</rs> gen. <rs type="place" ref="#pmb234">Krautstofl</rs>.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb20400">
-                  <persName>
-                     <surname>Lichtenstern</surname>
-                     <forename>Vilma</forename>
-                  </persName>
-                  <birth>
-                     <date when="1885-08-30">30. 8. 1885</date>
-                     <placeName>
-                        <settlement>Perchtoldsdorf</settlement>
-                        <idno type="PMB">#pmb44699</idno>
-                        <idno type="geonames">https://www.geonames.org/7871856/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1927-06-04">4. 6. 1927</date>
-                     <placeName>
-                        <settlement>Sollenau</settlement>
-                        <idno type="PMB">#pmb20402</idno>
-                        <idno type="geonames"/>
-                     </placeName>
-                  </death>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17510</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20400</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 22. 1. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041342.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 29. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 9. 10. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041658.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 21. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041668.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb27980">
-                  <persName>
-                     <surname>Zeisler</surname>
-                     <forename>Teresa</forename>
-                  </persName>
-                  <birth>
-                     <date when="1864-10-26">26. 10. 1864</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1945-07-02">1945</date>
-                     <placeName>
-                        <settlement>Chicago</settlement>
-                        <idno type="PMB">#pmb880</idno>
-                        <idno type="geonames">https://www.geonames.org/4887398/</idno>
-                     </placeName>
-                  </death>
-                  <sex>female</sex>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27980</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb27442">
-                  <persName>
-                     <surname>Zeisler</surname>
-                     <forename>Joseph</forename>
-                  </persName>
-                  <birth>
-                     <date when="1858-10-07">7. 10. 1858</date>
-                     <placeName>
-                        <settlement>Bielsko-Biała</settlement>
-                        <idno type="PMB">#pmb48098</idno>
-                        <idno type="geonames">https://www.geonames.org/3103402/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1919-08-31">31. 8. 1919</date>
-                     <placeName>
-                        <settlement>Mackinac Island</settlement>
-                        <idno type="PMB">#pmb45397</idno>
-                        <idno type="geonames">https://www.geonames.org/5000451/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Dermatologe/in"/>
-                  <sex>male</sex>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21524</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27442</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12435">
+   <back><listPerson><person xml:id="pmb12435">
                   <persName>
                      <surname>Pollaczek</surname>
                      <forename>Clara Katharina</forename>
@@ -183,32 +109,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12435</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12435</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 17. 12. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041166.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 12. 7. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041331.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 7. 1927</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 3. 1928</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041384.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 6. 10. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041385.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 3. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041386.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 9. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041389.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 5. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041536.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 10. 1930</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041537.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto P. Schinnerer, 6. 2. 1930</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041462.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 9. 10. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041658.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12104">
-                  <persName>
-                     <surname>Lohner</surname>
-                     <forename>Alfred</forename>
-                  </persName>
-                  <birth>
-                     <date when="1900-07-16">16. 7. 1900</date>
-                     <placeName>
-                        <settlement>Basel</settlement>
-                        <idno type="PMB">#pmb854</idno>
-                        <idno type="geonames">https://www.geonames.org/2661604/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1990-12-09">9. 12. 1990</date>
-                     <placeName>
-                        <settlement>Baden bei Wien</settlement>
-                        <idno type="PMB">#pmb662</idno>
-                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schauspieler*in"/>
-                  <idno type="gnd">https://d-nb.info/gnd/117196746/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17667</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12104</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
@@ -236,22 +136,55 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb19273">
+               <person xml:id="pmb20400">
                   <persName>
-                     <surname>Kende</surname>
-                     <forename>Ferdinand</forename>
+                     <surname>Lichtenstern</surname>
+                     <forename>Vilma</forename>
                   </persName>
                   <birth>
-                     <date when="1897-11-15">15. 11. 1897</date>
+                     <date when="1885-08-30">30. 8. 1885</date>
                      <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <settlement>Perchtoldsdorf</settlement>
+                        <idno type="PMB">#pmb44699</idno>
+                        <idno type="geonames">https://www.geonames.org/7871856/</idno>
                      </placeName>
                   </birth>
-                  <occupation code="Bankier*in"/>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16811</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb19273</idno>
+                  <death>
+                     <date when="1927-06-04">4. 6. 1927</date>
+                     <placeName>
+                        <settlement>Sollenau</settlement>
+                        <idno type="PMB">#pmb20402</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </death>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17510</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20400</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 22. 1. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041342.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 29. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 9. 10. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041658.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 21. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041668.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb12104">
+                  <persName>
+                     <surname>Lohner</surname>
+                     <forename>Alfred</forename>
+                  </persName>
+                  <birth>
+                     <date when="1900-07-16">16. 7. 1900</date>
+                     <placeName>
+                        <settlement>Basel</settlement>
+                        <idno type="PMB">#pmb854</idno>
+                        <idno type="geonames">https://www.geonames.org/2661604/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1990-12-09">9. 12. 1990</date>
+                     <placeName>
+                        <settlement>Baden bei Wien</settlement>
+                        <idno type="PMB">#pmb662</idno>
+                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schauspieler*in"/>
+                  <idno type="gnd">https://d-nb.info/gnd/117196746/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17667</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12104</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb23619">
                   <persName>
@@ -270,31 +203,48 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19402</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb23619</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb15108">
+               <person xml:id="pmb19273">
                   <persName>
-                     <surname>Costa</surname>
-                     <forename>Felix</forename>
+                     <surname>Kende</surname>
+                     <forename>Ferdinand</forename>
                   </persName>
                   <birth>
-                     <date when="1887-08-30">30. 8. 1887</date>
+                     <date when="1897-11-15">15. 11. 1897</date>
                      <placeName>
                         <settlement>Wien</settlement>
                         <idno type="PMB">#pmb50</idno>
                         <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </placeName>
                   </birth>
-                  <death>
-                     <date when="1942-07-02">1942</date>
+                  <occupation code="Bankier*in"/>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16811</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb19273</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb27442">
+                  <persName>
+                     <surname>Zeisler</surname>
+                     <forename>Joseph</forename>
+                  </persName>
+                  <birth>
+                     <date when="1858-10-07">7. 10. 1858</date>
                      <placeName>
-                        <settlement>Vernichtungslager Maly Trostinez</settlement>
-                        <idno type="PMB">#pmb4549</idno>
-                        <idno type="geonames"/>
+                        <settlement>Bielsko-Biała</settlement>
+                        <idno type="PMB">#pmb48098</idno>
+                        <idno type="geonames">https://www.geonames.org/3103402/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1919-08-31">31. 8. 1919</date>
+                     <placeName>
+                        <settlement>Mackinac Island</settlement>
+                        <idno type="PMB">#pmb45397</idno>
+                        <idno type="geonames">https://www.geonames.org/5000451/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Verlagslektor*in"/>
+                  <occupation code="Dermatologe/in"/>
                   <sex>male</sex>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14284</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15108</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21524</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27442</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
@@ -324,28 +274,57 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson><listPlace><place xml:id="pmb50">
-                  <placeName>Wien</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.2066 16.37341</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-               </place>
-               <place xml:id="pmb233">
-                  <placeName>Schloßtheater</placeName>
-                  <desc>
-                     <gloss ana="i4">Theater</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.186847449339 16.306940407638</geo>
-                  </location>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb880">
+               <person xml:id="pmb27980">
+                  <persName>
+                     <surname>Zeisler</surname>
+                     <forename>Teresa</forename>
+                  </persName>
+                  <birth>
+                     <date when="1864-10-26">26. 10. 1864</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1945-07-02">1945</date>
+                     <placeName>
+                        <settlement>Chicago</settlement>
+                        <idno type="PMB">#pmb880</idno>
+                        <idno type="geonames">https://www.geonames.org/4887398/</idno>
+                     </placeName>
+                  </death>
+                  <sex>female</sex>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27980</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb15108">
+                  <persName>
+                     <surname>Costa</surname>
+                     <forename>Felix</forename>
+                  </persName>
+                  <birth>
+                     <date when="1887-08-30">30. 8. 1887</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1942-07-02">1942</date>
+                     <placeName>
+                        <settlement>Vernichtungslager Maly Trostinez</settlement>
+                        <idno type="PMB">#pmb4549</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </death>
+                  <occupation code="Verlagslektor*in"/>
+                  <sex>male</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14284</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb15108</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></person>
+               </listPerson><listPlace><place xml:id="pmb880">
                   <placeName>Chicago</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>
@@ -366,6 +345,27 @@
                      <geo decls="LatLng">48.21422 16.35709</geo>
                   </location>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb233">
+                  <placeName>Schloßtheater</placeName>
+                  <desc>
+                     <gloss ana="i4">Theater</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.186847449339 16.306940407638</geo>
+                  </location>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 8. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041336.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb50">
+                  <placeName>Wien</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.2066 16.37341</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+               </place>
                </listPlace><listOrg><org xml:id="pmb36907">
                   <orgName>Paul Zsolnay Verlag</orgName>
                   <desc>

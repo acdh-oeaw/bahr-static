@@ -146,7 +146,18 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29371</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29371</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 26. 6. 192[2]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041136.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Arthur Schnitzler, 9. 7. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Hermann Bahr, 7. 11. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041647.xml"/></linkGrp></event></listEvent></org>
-               </listOrg><listPlace><place xml:id="pmb50">
+               </listOrg><listPlace><place xml:id="pmb175">
+                  <placeName>Amerika</placeName>
+                  <desc>
+                     <gloss ana="i38">Land</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">32.530833 -117.02</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb175</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 5. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041536.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 26. 6. 192[2]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041136.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 3. 1. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041656.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 26. 6. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041657.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 9. 10. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041658.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 30. 8. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041661.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 7. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041662.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb50">
                   <placeName>Wien</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>
@@ -158,46 +169,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
                </place>
-               <place xml:id="pmb175">
-                  <placeName>Amerika</placeName>
-                  <desc>
-                     <gloss ana="i38">Land</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">32.530833 -117.02</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/6255149/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb175</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 5. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041536.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 26. 6. 192[2]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041136.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 3. 1. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041656.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 26. 6. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041657.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 9. 10. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041658.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 30. 8. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041661.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 7. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041662.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb2276">
-                  <persName>
-                     <surname>Thayer</surname>
-                     <forename>Scofield</forename>
-                  </persName>
-                  <birth>
-                     <date when="1889-12-12">12. 12. 1889</date>
-                     <placeName>
-                        <settlement>Worcester</settlement>
-                        <idno type="PMB">#pmb2277</idno>
-                        <idno type="geonames"/>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1982-07-09">9. 7. 1982</date>
-                     <placeName>
-                        <settlement>Edgartown</settlement>
-                        <idno type="PMB">#pmb53796</idno>
-                        <idno type="geonames">https://www.geonames.org/4935645/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Journalist*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/119282062/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20692</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2276</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2276</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 26. 6. 192[2]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041136.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Arthur Schnitzler, 9. 7. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Hermann Bahr, 7. 11. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041647.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
+               </listPlace><listPerson><person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -252,5 +224,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb2276">
+                  <persName>
+                     <surname>Thayer</surname>
+                     <forename>Scofield</forename>
+                  </persName>
+                  <birth>
+                     <date when="1889-12-12">12. 12. 1889</date>
+                     <placeName>
+                        <settlement>Worcester</settlement>
+                        <idno type="PMB">#pmb2277</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1982-07-09">9. 7. 1982</date>
+                     <placeName>
+                        <settlement>Edgartown</settlement>
+                        <idno type="PMB">#pmb53796</idno>
+                        <idno type="geonames">https://www.geonames.org/4935645/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Journalist*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/119282062/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20692</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2276</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2276</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 26. 6. 192[2]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041136.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Arthur Schnitzler, 9. 7. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Scofield Thayer an Hermann Bahr, 7. 11. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041647.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

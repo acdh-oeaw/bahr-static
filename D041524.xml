@@ -102,22 +102,7 @@
                </anchor>.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb28117">
-                  <persName>
-                     <surname>Herakleitos</surname>
-                  </persName>
-                  <death>
-                     <date>ca. 480 v. u. Z.</date>
-                     <placeName>
-                        <settlement>Kusadasi</settlement>
-                        <idno type="PMB">#pmb34903</idno>
-                        <idno type="geonames">https://www.geonames.org/7522155/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Philosoph*in"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28117</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 17. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041426.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 9. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041524.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Lebendige Stunden, 15. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030013.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb3817">
+   <back><listPerson><person xml:id="pmb3817">
                   <persName>
                      <surname>Diels</surname>
                      <forename>Hermann</forename>
@@ -171,5 +156,20 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb28117">
+                  <persName>
+                     <surname>Herakleitos</surname>
+                  </persName>
+                  <death>
+                     <date>ca. 480 v. u. Z.</date>
+                     <placeName>
+                        <settlement>Kusadasi</settlement>
+                        <idno type="PMB">#pmb34903</idno>
+                        <idno type="geonames">https://www.geonames.org/7522155/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Philosoph*in"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28117</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 17. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041426.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 9. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041524.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Lebendige Stunden, 15. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030013.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

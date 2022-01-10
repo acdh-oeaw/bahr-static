@@ -100,35 +100,7 @@
                <rs type="work" subtype="implied" ref="#pmb29855"/>Man interviewt mich hin u. her.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb11955">
-                  <persName>
-                     <surname>Koerber</surname>
-                     <forename>Ernest von</forename>
-                  </persName>
-                  <birth>
-                     <date when="1850-11-06">6. 11. 1850</date>
-                     <placeName>
-                        <settlement>Trient</settlement>
-                        <idno type="PMB">#pmb954</idno>
-                        <idno type="geonames">https://www.geonames.org/3165243/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1919-03-05">5. 3. 1919</date>
-                     <placeName>
-                        <settlement>Baden bei Wien</settlement>
-                        <idno type="PMB">#pmb662</idno>
-                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Politiker*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118713434/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16977</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11955</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11955</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 2. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041439.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 4. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041441.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 9. 2. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Hugo von Hofmannsthal, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041485.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr beim Ministerpräsidenten, 5. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030068.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12775">
+   <back><listPerson><person xml:id="pmb12775">
                   <persName>
                      <surname>Sieghart</surname>
                      <forename>Rudolf</forename>
@@ -183,5 +155,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb11955">
+                  <persName>
+                     <surname>Koerber</surname>
+                     <forename>Ernest von</forename>
+                  </persName>
+                  <birth>
+                     <date when="1850-11-06">6. 11. 1850</date>
+                     <placeName>
+                        <settlement>Trient</settlement>
+                        <idno type="PMB">#pmb954</idno>
+                        <idno type="geonames">https://www.geonames.org/3165243/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1919-03-05">5. 3. 1919</date>
+                     <placeName>
+                        <settlement>Baden bei Wien</settlement>
+                        <idno type="PMB">#pmb662</idno>
+                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Politiker*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118713434/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_16977</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11955</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11955</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 2. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041439.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 4. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041441.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 9. 2. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Hugo von Hofmannsthal, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041485.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr beim Ministerpräsidenten, 5. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030068.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

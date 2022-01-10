@@ -114,49 +114,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb28303">
-                  <persName>
-                     <surname>Mühling</surname>
-                     <forename>Adolph</forename>
-                  </persName>
-                  <birth>
-                     <date when="1819-01-01">1819</date>
-                  </birth>
-                  <death>
-                     <date when="1910-01-01">1910</date>
-                  </death>
-                  <occupation code="Hotelbesitzer"/>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28303</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28303</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 15. 10. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041251.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2385">
-                  <persName>
-                     <surname>Halm</surname>
-                     <forename>Alfred</forename>
-                  </persName>
-                  <birth>
-                     <date when="1861-12-09">9. 12. 1861</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1951-02-05">5. 2. 1951</date>
-                     <placeName>
-                        <settlement>Berlin</settlement>
-                        <idno type="PMB">#pmb168</idno>
-                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schauspieler*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/116420022/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2385</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2385</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 15. 10. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041251.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -183,6 +141,21 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
+               <person xml:id="pmb28303">
+                  <persName>
+                     <surname>Mühling</surname>
+                     <forename>Adolph</forename>
+                  </persName>
+                  <birth>
+                     <date when="1819-01-01">1819</date>
+                  </birth>
+                  <death>
+                     <date when="1910-01-01">1910</date>
+                  </death>
+                  <occupation code="Hotelbesitzer"/>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28303</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28303</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 15. 10. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041251.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb12899">
                   <persName>
                      <surname>Sudermann</surname>
@@ -211,6 +184,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12899</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12899</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 10. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041115.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 9. 9. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041164.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 10. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041289.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 7. 1908</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041294.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041349.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 11. 5. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041412.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 15. 10. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041251.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Alois Bahr, 1. 12. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041356.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 20. 10. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041379.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 7. 11. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041586.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stephan Epstein an Hermann Bahr, 15. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041645.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Alfred Deutsch-German: Wiener Porträts. XLVI. Hermann Bahr, 5. 4. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030040.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2385">
+                  <persName>
+                     <surname>Halm</surname>
+                     <forename>Alfred</forename>
+                  </persName>
+                  <birth>
+                     <date when="1861-12-09">9. 12. 1861</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1951-02-05">5. 2. 1951</date>
+                     <placeName>
+                        <settlement>Berlin</settlement>
+                        <idno type="PMB">#pmb168</idno>
+                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schauspieler*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116420022/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2385</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2385</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 15. 10. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041251.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>

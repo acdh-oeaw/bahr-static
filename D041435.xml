@@ -102,34 +102,7 @@
             <p>Vorige Woche schön, bis Samstag, wo es regnerisch und kühl wurde. Jetzt wieder hellere und wärmere Tage.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2680">
-                  <persName>
-                     <surname>Schratt</surname>
-                     <forename>Katharina</forename>
-                  </persName>
-                  <birth>
-                     <date when="1853-09-11">11. 9. 1853</date>
-                     <placeName>
-                        <settlement>Baden bei Wien</settlement>
-                        <idno type="PMB">#pmb662</idno>
-                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1940-04-17">17. 4. 1940</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schauspieler*in"/>
-                  <sex>female</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118759280/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19877</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2680</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 11. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 14. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041435.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb11941">
+   <back><listPerson><person xml:id="pmb11941">
                   <persName>
                      <surname>Klimt</surname>
                      <forename>Gustav</forename>
@@ -184,5 +157,32 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb2680">
+                  <persName>
+                     <surname>Schratt</surname>
+                     <forename>Katharina</forename>
+                  </persName>
+                  <birth>
+                     <date when="1853-09-11">11. 9. 1853</date>
+                     <placeName>
+                        <settlement>Baden bei Wien</settlement>
+                        <idno type="PMB">#pmb662</idno>
+                        <idno type="geonames">https://www.geonames.org/2782067/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1940-04-17">17. 4. 1940</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schauspieler*in"/>
+                  <sex>female</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118759280/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19877</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2680</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 11. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041062.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 14. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041435.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

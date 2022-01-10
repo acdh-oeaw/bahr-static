@@ -53,7 +53,7 @@
                   <placeName ref="#pmb50">[Wien]</placeName>
                </placeAddressee>
                <dateSender>
-                  <date when="1911-11-00" n="1">November 1911</date>
+                  <date when="1911-11" n="1">November 1911</date>
                </dateSender>
                <context/>
             </correspDesc>
@@ -104,32 +104,7 @@
             </postscript>
          </div>
       </body>
-   <back><listPlace><place xml:id="pmb50">
-                  <placeName>Wien</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.2066 16.37341</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-               </place>
-               <place xml:id="pmb864">
-                  <placeName>Leipzig</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">51.33962 12.37129</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2879139/</idno>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2079/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4035206-7/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Lektüredatum Die dreifache Warnung], 5. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041610.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kraus an Arthur Schnitzler, 4. 3. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041523.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Widmungsexemplar Bayreuth, November 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041581.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Widmungsexemplar Buch der Jugend, Dezember 1908</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041582.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, [10.] 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041583.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Altenberg und Georg Engländer an Hermann Bahr, [Mitte April 1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Brahm an Hermann Bahr, 29. 9. 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041624.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Widmungsexemplar Das Märchen, [Mitte Mai] 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041691.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Erotisch, 22. 6. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -184,5 +159,30 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="pmb864">
+                  <placeName>Leipzig</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">51.33962 12.37129</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2879139/</idno>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q2079/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4035206-7/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb864</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Lektüredatum Die dreifache Warnung], 5. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041610.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Karl Kraus an Arthur Schnitzler, 4. 3. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041523.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Widmungsexemplar Bayreuth, November 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041581.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Widmungsexemplar Buch der Jugend, Dezember 1908</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041582.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, [10.] 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041583.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Altenberg und Georg Engländer an Hermann Bahr, [Mitte April 1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Brahm an Hermann Bahr, 29. 9. 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041624.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Widmungsexemplar Das Märchen, [Mitte Mai] 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041691.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Erotisch, 22. 6. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb50">
+                  <placeName>Wien</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.2066 16.37341</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>

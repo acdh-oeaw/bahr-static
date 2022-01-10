@@ -38,7 +38,7 @@
             <idno type="handle">https://hdl.handle.net/21.11115/0000-000E-8AAB-6</idno>
          </publicationStmt>
          <sourceDesc>
-            <origDate when="1905-12-00" n="1">Dezember 1905</origDate>
+            <origDate when="1905-12" n="1">Dezember 1905</origDate>
             <listWit>
                <witness n="1">
                   <msDesc>
@@ -140,7 +140,34 @@
             </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb13107">
+   <back><listPerson><person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               <person xml:id="pmb13107">
                   <persName>
                      <surname>Wied</surname>
                      <forename>Gustav</forename>
@@ -194,60 +221,6 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18334</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12311</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 7. 1. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041384.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Münchner Hoftheater Pläne [I], Dezember 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030062.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb12605">
-                  <persName>
-                     <surname>Sachs</surname>
-                     <forename>Hans</forename>
-                  </persName>
-                  <birth>
-                     <date when="1494-11-05">5. 11. 1494</date>
-                     <placeName>
-                        <settlement>Nürnberg</settlement>
-                        <idno type="PMB">#pmb44172</idno>
-                        <idno type="geonames">https://www.geonames.org/2861650/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1576-01-19">19. 1. 1576</date>
-                     <placeName>
-                        <settlement>Nürnberg</settlement>
-                        <idno type="PMB">#pmb44172</idno>
-                        <idno type="geonames">https://www.geonames.org/2861650/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <idno type="gnd">https://d-nb.info/gnd/118604597/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19503</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12605</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12605</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Münchner Hoftheater Pläne [I], Dezember 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030062.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
                <person xml:id="pmb11057">
                   <persName>
                      <surname>Byron</surname>
@@ -275,6 +248,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11057</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11057</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Erotisch, 22. 6. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Münchner Hoftheater Pläne [I], Dezember 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030062.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb12605">
+                  <persName>
+                     <surname>Sachs</surname>
+                     <forename>Hans</forename>
+                  </persName>
+                  <birth>
+                     <date when="1494-11-05">5. 11. 1494</date>
+                     <placeName>
+                        <settlement>Nürnberg</settlement>
+                        <idno type="PMB">#pmb44172</idno>
+                        <idno type="geonames">https://www.geonames.org/2861650/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1576-01-19">19. 1. 1576</date>
+                     <placeName>
+                        <settlement>Nürnberg</settlement>
+                        <idno type="PMB">#pmb44172</idno>
+                        <idno type="geonames">https://www.geonames.org/2861650/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <idno type="gnd">https://d-nb.info/gnd/118604597/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_19503</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12605</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12605</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Münchner Hoftheater Pläne [I], Dezember 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030062.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listPlace><place xml:id="pmb9">
                   <placeName>Königlich Bayerische Hoftheater</placeName>
                   <desc>

@@ -41,7 +41,7 @@
             <p>Machine-Readable Transcriptions of the Correspondence between Hermann Bahr and Arthur Schnitzler</p>
          </seriesStmt>
          <sourceDesc>
-            <origDate when="1901-02-00" n="01">[Anfang Februar 1901?]</origDate>
+            <origDate when="1901-02" n="01">[Anfang Februar 1901?]</origDate>
             <listWit>
                <witness n="1">
                   <msDesc>
@@ -152,35 +152,7 @@
                   <idno type="gnd">https://d-nb.info/gnd/4267026-3/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb433</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 3. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041160.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Feuilletonentwurf zu Episode], [Anfang Februar 1901?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030076.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 1. Januar [1921], 16. 1. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030083.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb12877">
-                  <persName>
-                     <surname>Strindberg</surname>
-                     <forename>August</forename>
-                  </persName>
-                  <birth>
-                     <date when="1849-01-22">22. 1. 1849</date>
-                     <placeName>
-                        <settlement>Stockholm</settlement>
-                        <idno type="PMB">#pmb1119</idno>
-                        <idno type="geonames">https://www.geonames.org/2673730/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1912-05-14">14. 5. 1912</date>
-                     <placeName>
-                        <settlement>Stockholm</settlement>
-                        <idno type="PMB">#pmb1119</idno>
-                        <idno type="geonames">https://www.geonames.org/2673730/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118619314/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20530</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12877</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12877</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Feuilletonentwurf zu Episode], [Anfang Februar 1901?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030076.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
+               </listPlace><listPerson><person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -235,5 +207,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb12877">
+                  <persName>
+                     <surname>Strindberg</surname>
+                     <forename>August</forename>
+                  </persName>
+                  <birth>
+                     <date when="1849-01-22">22. 1. 1849</date>
+                     <placeName>
+                        <settlement>Stockholm</settlement>
+                        <idno type="PMB">#pmb1119</idno>
+                        <idno type="geonames">https://www.geonames.org/2673730/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1912-05-14">14. 5. 1912</date>
+                     <placeName>
+                        <settlement>Stockholm</settlement>
+                        <idno type="PMB">#pmb1119</idno>
+                        <idno type="geonames">https://www.geonames.org/2673730/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118619314/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20530</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12877</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12877</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Feuilletonentwurf zu Episode], [Anfang Februar 1901?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030076.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

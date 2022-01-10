@@ -92,60 +92,36 @@
       <body>
          <div type="writingSession" n="1">
             <p>
-               <date when="1905-01-00" n="01"/>Zum »<rs type="work" ref="#pmb29899">Freiwild</rs>«.</p>
+               <date when="1905-01" n="01"/>Zum »<rs type="work" ref="#pmb29899">Freiwild</rs>«.</p>
             <p>189<space unit="chars" quantity="3"/>– Es gab noch keinen <rs type="person" ref="#pmb3349">Bilse</rs>. Es gab auch kein <rs type="person" ref="#pmb10915">Beierlein</rs>. Prinz <rs type="person" ref="#pmb28437">Alonso</rs> u. Herr <rs type="person" ref="#pmb14637">Brüll</rs> hatten noch nicht das Duell gebannt. Da kam ein <rs type="person" subtype="implied" ref="#pmb2121">junger Autor</rs>, bisher mehr dem<pb/> erotischen zu getan, nun aber von sich gedrängt, ins Allgemeine zu trachten, auf den <unclear>Einfall</unclear>
             </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb3349">
+   <back><listPerson><person xml:id="pmb10915">
                   <persName>
-                     <surname>Bilse</surname>
-                     <forename>Fritz Oswald</forename>
+                     <surname>Beyerlein</surname>
+                     <forename>Franz Adam</forename>
                   </persName>
                   <birth>
-                     <date when="1878-03-31">31. 3. 1878</date>
+                     <date when="1871-03-22">22. 3. 1871</date>
                      <placeName>
-                        <settlement>Kirn</settlement>
-                        <idno type="PMB">#pmb55093</idno>
-                        <idno type="geonames"/>
+                        <settlement>Meißen</settlement>
+                        <idno type="PMB">#pmb61002</idno>
+                        <idno type="geonames">https://www.geonames.org/2872155/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1951-08-30">30. 8. 1951</date>
+                     <date when="1949-02-27">27. 2. 1949</date>
                      <placeName>
-                        <settlement>Eberswalde</settlement>
-                        <idno type="PMB">#pmb48619</idno>
-                        <idno type="geonames">https://www.geonames.org/2933882/</idno>
+                        <settlement>Leipzig</settlement>
+                        <idno type="PMB">#pmb864</idno>
+                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
                      </placeName>
                   </death>
                   <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/120939126/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3349</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3349</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang 1905?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041475.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Freiwild, 29. 1. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030023.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb28437">
-                  <persName>
-                     <surname>Alfonso de Borbón y Austria del Este</surname>
-                  </persName>
-                  <birth>
-                     <date when="1849-01-01">1849</date>
-                     <placeName>
-                        <settlement>London</settlement>
-                        <idno type="PMB">#pmb224</idno>
-                        <idno type="geonames">https://www.geonames.org/2643743/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1936-01-01">1936</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Infant von Spanien"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28437</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/116159952/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13705</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10915</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang 1905?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041475.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Freiwild, 29. 1. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030023.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb14637">
                   <persName>
@@ -199,31 +175,28 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb10915">
+               <person xml:id="pmb28437">
                   <persName>
-                     <surname>Beyerlein</surname>
-                     <forename>Franz Adam</forename>
+                     <surname>Alfonso de Borbón y Austria del Este</surname>
                   </persName>
                   <birth>
-                     <date when="1871-03-22">22. 3. 1871</date>
+                     <date when="1849-01-01">1849</date>
                      <placeName>
-                        <settlement>Meißen</settlement>
-                        <idno type="PMB">#pmb61002</idno>
-                        <idno type="geonames">https://www.geonames.org/2872155/</idno>
+                        <settlement>London</settlement>
+                        <idno type="PMB">#pmb224</idno>
+                        <idno type="geonames">https://www.geonames.org/2643743/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1949-02-27">27. 2. 1949</date>
+                     <date when="1936-01-01">1936</date>
                      <placeName>
-                        <settlement>Leipzig</settlement>
-                        <idno type="PMB">#pmb864</idno>
-                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <idno type="gnd">https://d-nb.info/gnd/116159952/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13705</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10915</idno>
+                  <occupation code="Infant von Spanien"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28437</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang 1905?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041475.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Freiwild, 29. 1. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030023.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
@@ -253,5 +226,32 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb3349">
+                  <persName>
+                     <surname>Bilse</surname>
+                     <forename>Fritz Oswald</forename>
+                  </persName>
+                  <birth>
+                     <date when="1878-03-31">31. 3. 1878</date>
+                     <placeName>
+                        <settlement>Kirn</settlement>
+                        <idno type="PMB">#pmb55093</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1951-08-30">30. 8. 1951</date>
+                     <placeName>
+                        <settlement>Eberswalde</settlement>
+                        <idno type="PMB">#pmb48619</idno>
+                        <idno type="geonames">https://www.geonames.org/2933882/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/120939126/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb3349</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3349</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang 1905?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041475.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Freiwild, 29. 1. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030023.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

@@ -87,29 +87,29 @@
             <p part="N">»<c rendition="#dots" n="4" place="center"/> doch dass sie jetzt bis in die kleinsten <rs type="place" ref="#pmb314">bayrischen</rs> und <rs type="place" ref="#pmb41240">österreichischen</rs> Landorte hinein vom Volke verehrt wird, ja dass in keiner Dorfkirche ja fast schon auch in keinem Gebetbuch ihr Bild fehlt, ist seltsam. Gerade die Bilder befremden <del rend="strikethrough">ujn</del> unseren Geschmack zunächst, sie süsseln, man hat den Eindruck: sie kokettieren mit dem lieben Gott. Erst wer die Heilige näher kennen lernt, sei es aus Schilderungen ihres Lebens, sei es durch unmittelbaren Verkehr mit ihr im Gebet wird der hohen Kraft inne, die von ihr ausstrahlt.« </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb28452">
+   <back><listPerson><person xml:id="pmb28448">
                   <persName>
-                     <surname>Theresa von Ávila</surname>
-                     <forename>Teresa</forename>
+                     <surname>Bernoville</surname>
+                     <forename>Gaëtan</forename>
                   </persName>
                   <birth>
-                     <date when="1515-01-01">1515</date>
+                     <date when="1889-01-01">1889</date>
                      <placeName>
-                        <settlement>Ávila</settlement>
-                        <idno type="PMB">#pmb28453</idno>
+                        <settlement>Saint-Jean-de-Luz</settlement>
+                        <idno type="PMB">#pmb28449</idno>
                         <idno type="geonames"/>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1582-01-01">1582</date>
+                     <date when="1960-01-01">1960</date>
                      <placeName>
-                        <settlement>Alba de Tormes</settlement>
-                        <idno type="PMB">#pmb28455</idno>
-                        <idno type="geonames"/>
+                        <settlement>Paris</settlement>
+                        <idno type="PMB">#pmb182</idno>
+                        <idno type="geonames">https://www.geonames.org/2988507/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Heilige*r"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28452</idno>
+                  <occupation code="Journalist*in"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28448</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Aus dem Tagebuch von Hermann Bahr, 31. 3. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030006.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2121">
                   <persName>
@@ -138,30 +138,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb28448">
-                  <persName>
-                     <surname>Bernoville</surname>
-                     <forename>Gaëtan</forename>
-                  </persName>
-                  <birth>
-                     <date when="1889-01-01">1889</date>
-                     <placeName>
-                        <settlement>Saint-Jean-de-Luz</settlement>
-                        <idno type="PMB">#pmb28449</idno>
-                        <idno type="geonames"/>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1960-01-01">1960</date>
-                     <placeName>
-                        <settlement>Paris</settlement>
-                        <idno type="PMB">#pmb182</idno>
-                        <idno type="geonames">https://www.geonames.org/2988507/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Journalist*in"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28448</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Aus dem Tagebuch von Hermann Bahr, 31. 3. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030006.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -190,6 +166,30 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb28452">
+                  <persName>
+                     <surname>Theresa von Ávila</surname>
+                     <forename>Teresa</forename>
+                  </persName>
+                  <birth>
+                     <date when="1515-01-01">1515</date>
+                     <placeName>
+                        <settlement>Ávila</settlement>
+                        <idno type="PMB">#pmb28453</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1582-01-01">1582</date>
+                     <placeName>
+                        <settlement>Alba de Tormes</settlement>
+                        <idno type="PMB">#pmb28455</idno>
+                        <idno type="geonames"/>
+                     </placeName>
+                  </death>
+                  <occupation code="Heilige*r"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28452</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Aus dem Tagebuch von Hermann Bahr, 31. 3. 1929</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030006.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listPlace><place xml:id="pmb314">
                   <placeName>Bayern</placeName>
                   <desc>

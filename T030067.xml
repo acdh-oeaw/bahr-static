@@ -93,22 +93,7 @@
             <p rend="center" part="N">(In Erinnerung an meinen lieben <rs type="work" subtype="implied" ref="#pmb29935">Anatol</rs>.)</p>
          </div>
       </body>
-   <back><listOrg><org xml:id="pmb29496">
-                  <orgName>Österreichische Rundschau</orgName>
-                  <desc>
-                     <date from="1904-01-01" from-custom="1904" to="1924-01-01" to-custom="1924">1904–1924</date>
-                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
-                  </desc>
-                  <place corresp="pmb50">
-                     <placeName>Wien</placeName>
-                     <location>
-                        <geo decls="LatLng">48.2066 16.37341</geo>
-                     </location>
-                  </place>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29496</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29496</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 1. 1909</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 22. 9. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gedruckte Widmung in Hermann Bahr: Die tiefe Natur, 1. 12. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030067.xml"/></linkGrp></event></listEvent></org>
-               </listOrg><listPerson><person xml:id="pmb10815">
+   <back><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -136,5 +121,20 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listOrg><org xml:id="pmb29496">
+                  <orgName>Österreichische Rundschau</orgName>
+                  <desc>
+                     <date from="1904-01-01" from-custom="1904" to="1924-01-01" to-custom="1924">1904–1924</date>
+                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
+                  </desc>
+                  <place corresp="pmb50">
+                     <placeName>Wien</placeName>
+                     <location>
+                        <geo decls="LatLng">48.2066 16.37341</geo>
+                     </location>
+                  </place>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29496</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29496</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 1. 1909</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041041.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 22. 9. 1910</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041058.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gedruckte Widmung in Hermann Bahr: Die tiefe Natur, 1. 12. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030067.xml"/></linkGrp></event></listEvent></org>
+               </listOrg></back></text>
 </TEI>
