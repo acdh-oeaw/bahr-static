@@ -21,22 +21,12 @@ $graph = new MetadataCollection($repo, $argv[1]);
 $graph->preprocess();
 try {
     $repo->begin();
-    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_INCLUDE, 8);
-    foreach ($resources as $i) {
-        if (!($i instanceof RepoResource)) {
-            print_r($i);
-        }
-    }
-    $repo->rollback();
+    $resources = $graph->import('https://id.acdh.oeaw.ac.at/', MetadataCollection::SKIP, MetadataCollection::ERRMODE_PASS, 8);
+    $repo->commit();
     echo "\n######################################################\nImport ended\n######################################################\n";
-} catch (GuzzleHttp\Exception\RequestException $e) {
-    echo "\n######################################################\nImport failed\n######################################################\n";
-    echo "HTTP response code " . $e->getResponse()->getStatusCode() . "\n";
-    echo $e->getResponse()->getBody() . "\n";
-    exit(2);
 } catch (IndexerException $e) {
     echo "\n######################################################\nImport failed\n######################################################\n";
     echo $e->getMessage() . "\n";
-    exit(3);
+    exit(1);
 }
 
