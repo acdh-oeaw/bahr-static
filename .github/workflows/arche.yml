@@ -24,9 +24,9 @@ jobs:
     - name: Fetch Data
       run: |
         ./transform.sh
-    - name: ingestion  dependencies
+    - name: ingestion dependencies
       run: |
-        composer require "acdh-oeaw/arche-lib-ingest ^3"
-    - name: ingest arche
+        composer require "acdh-oeaw/arche-ingest:^1"
+    - name: ingest arche-cols
       run: |
-        php -f ingestion_script.php html/arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}}
+        vendor/bin/arche-import-metadata html/arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}}
