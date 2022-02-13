@@ -121,7 +121,7 @@
                 
                 <acdh:Resource rdf:about="{$id}">
                     <acdh:hasIdentifier rdf:resource="{$flatId}"/>
-                    <!--<acdh:hasPid><xsl:value-of select=".//tei:idno[@type='handle']/text()"/></acdh:hasPid>-->
+                    <acdh:hasPid><xsl:value-of select=".//tei:idno[@type='handle']/text()"/></acdh:hasPid>
                     <acdh:hasTitle xml:lang="de"><xsl:value-of select=".//tei:title[@level='a'][1]/text()"/></acdh:hasTitle>
                     <!--<acdh:hasCoverage xml:lang="de"><xsl:value-of select="$datum"/></acdh:hasCoverage>-->
                     <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
