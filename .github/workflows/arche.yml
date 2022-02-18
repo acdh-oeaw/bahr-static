@@ -29,11 +29,11 @@ jobs:
         composer require "acdh-oeaw/arche-ingest:^1"
     - name: ingest arche-md
       run: |
-        vendor/bin/arche-import-metadata html/arche.rdf https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}}
+        vendor/bin/arche-import-metadata html/arche.rdf https://arche-curation.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}}
     - name: Copy XML Files to to_ingest 
       run: |
         mkdir $PWD/to_ingest
         find -path "./data/editions/*.xml" -exec cp -prv '{}' './to_ingest' ';'
     - name: ingest binaries
       run: |
-        vendor/bin/arche-import-binary to_ingest https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler https://arche-dev.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --skip not_exist
+        vendor/bin/arche-import-binary to_ingest https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler https://arche-curation.acdh-dev.oeaw.ac.at/api ${{secrets.ARCHE_LOGIN}} ${{secrets.ARCHE_PASSWORD}} --skip not_exist
