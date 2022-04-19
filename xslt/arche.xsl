@@ -42,6 +42,29 @@
                     </xsl:for-each>
                 </acdh:Collection>
             </xsl:for-each>
+            <xsl:for-each select="collection('../data/indices')//tei:TEI">
+                <xsl:variable name="partOf">
+                    <xsl:value-of select="@xml:base"/>
+                </xsl:variable>
+                <xsl:variable name="id">
+                    <xsl:value-of select="concat($partOf, '/', @xml:id)"/>
+                </xsl:variable>
+                <xsl:variable name="flatId">
+                    <xsl:value-of select="concat($TopColId, '/', @xml:id)"/>
+                </xsl:variable>
+                
+                <acdh:Resource rdf:about="{$id}">
+                    <acdh:hasIdentifier rdf:resource="{$flatId}"/>
+                    <acdh:hasPid><xsl:value-of select=".//tei:idno[@type='URI'][1]/text()"/></acdh:hasPid>
+                    <acdh:hasTitle xml:lang="de"><xsl:value-of select=".//tei:title[@level='a'][1]/text()"/></acdh:hasTitle>
+                    <acdh:hasAccessRestriction rdf:resource="https://vocabs.acdh.oeaw.ac.at/archeaccessrestrictions/public"/>
+                    <acdh:hasCategory rdf:resource="https://vocabs.acdh.oeaw.ac.at/archecategory/text/tei"/>
+                    <acdh:hasLanguage rdf:resource="https://vocabs.acdh.oeaw.ac.at/iso6393/deu"/>
+                    <acdh:isPartOf rdf:resource="{$partOf}"/>
+                    <!--                    <acdh:hasCoverageStartDate rdf:datatype="http://www.w3.org/2001/XMLSchema#date"><xsl:value-of select="$datum"/></acdh:hasCoverageStartDate>-->
+                    <xsl:copy-of select="$constants"/>
+                </acdh:Resource>
+            </xsl:for-each>
             <xsl:for-each select="collection('../data/editions')//tei:TEI">
                 <xsl:variable name="datum" as="xs:date?">
                     <xsl:choose>
