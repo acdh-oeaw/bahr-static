@@ -14,7 +14,7 @@
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
-                                        <String>index</String>
+                                        <String>search</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -141,7 +141,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>index</String>
+                                    <String>search</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -159,7 +159,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xslt/index.xsl</String>
+                                    <String>${pdu}/xslt/search.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -177,10 +177,10 @@
                                     <Boolean>true</Boolean>
                                 </field>
                                 <field name="openInBrowser">
-                                    <Boolean>false</Boolean>
+                                    <Boolean>true</Boolean>
                                 </field>
                                 <field name="outputResource">
-                                    <String>${pd}/html/index.html</String>
+                                    <String>${pd}/html/search.html</String>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
