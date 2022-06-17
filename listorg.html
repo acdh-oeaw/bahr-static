@@ -1,0 +1,981 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="Institutionenregister" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title>Institutionenregister</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-lg navbar-light">
+               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" title="HBASBW" alt="HBASBW" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="HBASBW" itemprop="url">HBASBW</a><span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                     <ul id="main-menu" class="navbar-nav">
+                        <li class="nav-item dropdown"><a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item dropdown"><a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Personen" href="listperson.html" class="nav-link">Personen</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listplace.html" class="nav-link">Orte</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listorg.html" class="nav-link">Institutionen</a></li>
+                              <div class="dropdown-divider"></div>
+                              <li class="nav-item dropdown-submenu"><a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="ARCHE" href="arche.rdf" class="nav-link">ARCHE-MD</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
+                     </ul>
+                     <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search"><input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" /><button type="submit" class="navbar-search-icon"><i data-feather="search"></i></button></form>
+                  </div>
+               </div>
+            </nav>
+         </div>
+         <div class="container-fluid">
+            <div class="card">
+               <div class="card-header">
+                  <h1>Institutionenregister</h1>
+               </div>
+               <div class="card-body">
+                  <table class="table table-striped display" id="tocTable" style="width:100%">
+                     <thead>
+                        <tr>
+                           <th scope="col">Name</th>
+                           <th scope="col">ID</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Académie Française</td>
+                           <td><a href="pmb29290.html">pmb29290</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ahn &amp; Simrock</td>
+                           <td><a href="pmb29630.html">pmb29630</a></td>
+                        </tr>
+                        <tr>
+                           <td>Akademie der Tonkunst</td>
+                           <td><a href="pmb29279.html">pmb29279</a></td>
+                        </tr>
+                        <tr>
+                           <td>Akademisch-dramatischer Verein München</td>
+                           <td><a href="pmb29265.html">pmb29265</a></td>
+                        </tr>
+                        <tr>
+                           <td>Akademischer Verein für Kunst und Literatur</td>
+                           <td><a href="pmb29767.html">pmb29767</a></td>
+                        </tr>
+                        <tr>
+                           <td>Albert Ahn</td>
+                           <td><a href="pmb29711.html">pmb29711</a></td>
+                        </tr>
+                        <tr>
+                           <td>Albert Langen</td>
+                           <td><a href="pmb29654.html">pmb29654</a></td>
+                        </tr>
+                        <tr>
+                           <td>Albia</td>
+                           <td><a href="pmb29294.html">pmb29294</a></td>
+                        </tr>
+                        <tr>
+                           <td>Allgemeine Bodencreditanstalt</td>
+                           <td><a href="pmb29244.html">pmb29244</a></td>
+                        </tr>
+                        <tr>
+                           <td>Allgemeine Zeitung</td>
+                           <td><a href="pmb29722.html">pmb29722</a></td>
+                        </tr>
+                        <tr>
+                           <td>An der schönen blauen Donau</td>
+                           <td><a href="pmb29698.html">pmb29698</a></td>
+                        </tr>
+                        <tr>
+                           <td>Arbeiter-Zeitung</td>
+                           <td><a href="pmb29644.html">pmb29644</a></td>
+                        </tr>
+                        <tr>
+                           <td>B. Firnberg</td>
+                           <td><a href="pmb29384.html">pmb29384</a></td>
+                        </tr>
+                        <tr>
+                           <td>B. G. Teubner</td>
+                           <td><a href="pmb29210.html">pmb29210</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bauernfeldpreis</td>
+                           <td><a href="pmb29675.html">pmb29675</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bayreuther Festspiele</td>
+                           <td><a href="pmb29811.html">pmb29811</a></td>
+                        </tr>
+                        <tr>
+                           <td>Berliner Börsen-Courier</td>
+                           <td><a href="pmb29406.html">pmb29406</a></td>
+                        </tr>
+                        <tr>
+                           <td>Berliner Neueste Nachrichten</td>
+                           <td><a href="pmb29207.html">pmb29207</a></td>
+                        </tr>
+                        <tr>
+                           <td>Berliner Tageblatt</td>
+                           <td><a href="pmb29329.html">pmb29329</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bibliographisches Bureau</td>
+                           <td><a href="pmb29716.html">pmb29716</a></td>
+                        </tr>
+                        <tr>
+                           <td>Blätter für die Kunst</td>
+                           <td><a href="pmb29695.html">pmb29695</a></td>
+                        </tr>
+                        <tr>
+                           <td>Brakls Rubinverlag</td>
+                           <td><a href="pmb29655.html">pmb29655</a></td>
+                        </tr>
+                        <tr>
+                           <td>Breitkopf und Härtel</td>
+                           <td><a href="pmb29697.html">pmb29697</a></td>
+                        </tr>
+                        <tr>
+                           <td>Brünner Sonntagszeitung</td>
+                           <td><a href="pmb29730.html">pmb29730</a></td>
+                        </tr>
+                        <tr>
+                           <td>Brünner Tagesbote</td>
+                           <td><a href="pmb29728.html">pmb29728</a></td>
+                        </tr>
+                        <tr>
+                           <td>Budapester Orpheumgesellschaft</td>
+                           <td><a href="pmb29774.html">pmb29774</a></td>
+                        </tr>
+                        <tr>
+                           <td>Bukum (Aktiengesellschaft für Buch-, Kunst- und Musikalienhandlung</td>
+                           <td><a href="pmb29740.html">pmb29740</a></td>
+                        </tr>
+                        <tr>
+                           <td>Burgmusik</td>
+                           <td><a href="pmb29246.html">pmb29246</a></td>
+                        </tr>
+                        <tr>
+                           <td>Carl Spängle &amp; Co.</td>
+                           <td><a href="pmb29385.html">pmb29385</a></td>
+                        </tr>
+                        <tr>
+                           <td>Commerz- und Privat-Bank AG</td>
+                           <td><a href="pmb29211.html">pmb29211</a></td>
+                        </tr>
+                        <tr>
+                           <td>Concordia</td>
+                           <td><a href="pmb29752.html">pmb29752</a></td>
+                        </tr>
+                        <tr>
+                           <td>Constable &amp; Co</td>
+                           <td><a href="pmb29746.html">pmb29746</a></td>
+                        </tr>
+                        <tr>
+                           <td>Corriere della sera</td>
+                           <td><a href="pmb29658.html">pmb29658</a></td>
+                        </tr>
+                        <tr>
+                           <td>Cosmopolis</td>
+                           <td><a href="pmb29206.html">pmb29206</a></td>
+                        </tr>
+                        <tr>
+                           <td>Cosmos. Handweiser für Naturfreunde</td>
+                           <td><a href="pmb29790.html">pmb29790</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Abend</td>
+                           <td><a href="pmb29712.html">pmb29712</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Kunstwart</td>
+                           <td><a href="pmb29649.html">pmb29649</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Merker</td>
+                           <td><a href="pmb29560.html">pmb29560</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Morgen. Wiener Montagsblatt</td>
+                           <td><a href="pmb29398.html">pmb29398</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der neue Tag</td>
+                           <td><a href="pmb29640.html">pmb29640</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Scherer</td>
+                           <td><a href="pmb29662.html">pmb29662</a></td>
+                        </tr>
+                        <tr>
+                           <td>Der Tag</td>
+                           <td><a href="pmb29650.html">pmb29650</a></td>
+                        </tr>
+                        <tr>
+                           <td>Deutsche Passstelle</td>
+                           <td><a href="pmb29788.html">pmb29788</a></td>
+                        </tr>
+                        <tr>
+                           <td>Deutscher Bühnenverein Berlin</td>
+                           <td><a href="pmb29769.html">pmb29769</a></td>
+                        </tr>
+                        <tr>
+                           <td>Deutscher Schulverein</td>
+                           <td><a href="pmb29763.html">pmb29763</a></td>
+                        </tr>
+                        <tr>
+                           <td>Deutsche Zeitung</td>
+                           <td><a href="pmb29424.html">pmb29424</a></td>
+                        </tr>
+                        <tr>
+                           <td>Deutschösterreichischer Bühnenverein</td>
+                           <td><a href="pmb29205.html">pmb29205</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die 11 Scharfrichter</td>
+                           <td><a href="pmb29779.html">pmb29779</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Fackel</td>
+                           <td><a href="pmb29308.html">pmb29308</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Gegenwart</td>
+                           <td><a href="pmb29808.html">pmb29808</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Gesellschaft</td>
+                           <td><a href="pmb29440.html">pmb29440</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Hilfe</td>
+                           <td><a href="pmb29493.html">pmb29493</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die literarische Welt</td>
+                           <td><a href="pmb29708.html">pmb29708</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Nation</td>
+                           <td><a href="pmb29807.html">pmb29807</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Schaubühne/Die Weltbühne</td>
+                           <td><a href="pmb29348.html">pmb29348</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die vornehme Welt</td>
+                           <td><a href="pmb29719.html">pmb29719</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die weißen Blätter</td>
+                           <td><a href="pmb29387.html">pmb29387</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Zeit</td>
+                           <td><a href="pmb29626.html">pmb29626</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Zeit. Wiener Wochenschrift</td>
+                           <td><a href="pmb29209.html">pmb29209</a></td>
+                        </tr>
+                        <tr>
+                           <td>Die Zukunft</td>
+                           <td><a href="pmb29631.html">pmb29631</a></td>
+                        </tr>
+                        <tr>
+                           <td>Donauverlag</td>
+                           <td><a href="pmb29643.html">pmb29643</a></td>
+                        </tr>
+                        <tr>
+                           <td>Dorotheum</td>
+                           <td><a href="pmb29803.html">pmb29803</a></td>
+                        </tr>
+                        <tr>
+                           <td>Dürr &amp; Weber</td>
+                           <td><a href="pmb29203.html">pmb29203</a></td>
+                        </tr>
+                        <tr>
+                           <td>E. Pierson’s Verlag</td>
+                           <td><a href="pmb29771.html">pmb29771</a></td>
+                        </tr>
+                        <tr>
+                           <td>Engelhorn</td>
+                           <td><a href="pmb29200.html">pmb29200</a></td>
+                        </tr>
+                        <tr>
+                           <td>Erdgeist</td>
+                           <td><a href="pmb29633.html">pmb29633</a></td>
+                        </tr>
+                        <tr>
+                           <td>Erich Reiß</td>
+                           <td><a href="pmb29750.html">pmb29750</a></td>
+                        </tr>
+                        <tr>
+                           <td>Evening Post</td>
+                           <td><a href="pmb29736.html">pmb29736</a></td>
+                        </tr>
+                        <tr>
+                           <td>Extrapost</td>
+                           <td><a href="pmb29717.html">pmb29717</a></td>
+                        </tr>
+                        <tr>
+                           <td>F. Fontane</td>
+                           <td><a href="pmb29661.html">pmb29661</a></td>
+                        </tr>
+                        <tr>
+                           <td>Frankfurter Zeitung</td>
+                           <td><a href="pmb29442.html">pmb29442</a></td>
+                        </tr>
+                        <tr>
+                           <td>Franz-Grillparzer-Preis</td>
+                           <td><a href="pmb29677.html">pmb29677</a></td>
+                        </tr>
+                        <tr>
+                           <td>Freie Bühne (Verein für modernes Leben)</td>
+                           <td><a href="pmb29781.html">pmb29781</a></td>
+                        </tr>
+                        <tr>
+                           <td>Freie Schlesische Presse</td>
+                           <td><a href="pmb29725.html">pmb29725</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gebrüder Paetel Verlag</td>
+                           <td><a href="pmb29660.html">pmb29660</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gemütliche Harmonie</td>
+                           <td><a href="pmb29213.html">pmb29213</a></td>
+                        </tr>
+                        <tr>
+                           <td>Georg Stilke</td>
+                           <td><a href="pmb29709.html">pmb29709</a></td>
+                        </tr>
+                        <tr>
+                           <td>Gideon Carl Sarasin</td>
+                           <td><a href="pmb29690.html">pmb29690</a></td>
+                        </tr>
+                        <tr>
+                           <td>Goethebund</td>
+                           <td><a href="pmb29667.html">pmb29667</a></td>
+                        </tr>
+                        <tr>
+                           <td>Grazer Tagblatt</td>
+                           <td><a href="pmb29201.html">pmb29201</a></td>
+                        </tr>
+                        <tr>
+                           <td>Haas &amp; Grabherr</td>
+                           <td><a href="pmb29199.html">pmb29199</a></td>
+                        </tr>
+                        <tr>
+                           <td>Hagenbund</td>
+                           <td><a href="pmb29754.html">pmb29754</a></td>
+                        </tr>
+                        <tr>
+                           <td>Heinemann</td>
+                           <td><a href="pmb29742.html">pmb29742</a></td>
+                        </tr>
+                        <tr>
+                           <td>Heinrich Minden</td>
+                           <td><a href="pmb29663.html">pmb29663</a></td>
+                        </tr>
+                        <tr>
+                           <td>Hermann Barsdorf</td>
+                           <td><a href="pmb29693.html">pmb29693</a></td>
+                        </tr>
+                        <tr>
+                           <td>Herrmann-Bank</td>
+                           <td><a href="pmb29240.html">pmb29240</a></td>
+                        </tr>
+                        <tr>
+                           <td>Herz</td>
+                           <td><a href="pmb29739.html">pmb29739</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ignaz Bittmann</td>
+                           <td><a href="pmb29388.html">pmb29388</a></td>
+                        </tr>
+                        <tr>
+                           <td>Illustrirtes Wiener Extrablatt</td>
+                           <td><a href="pmb29720.html">pmb29720</a></td>
+                        </tr>
+                        <tr>
+                           <td>Insel-Verlag</td>
+                           <td><a href="pmb29751.html">pmb29751</a></td>
+                        </tr>
+                        <tr>
+                           <td>Internationaler Pressekongress</td>
+                           <td><a href="pmb29390.html">pmb29390</a></td>
+                        </tr>
+                        <tr>
+                           <td>Intimes Theater für dramatische Experimente</td>
+                           <td><a href="pmb49228.html">pmb49228</a></td>
+                        </tr>
+                        <tr>
+                           <td>J. C. B. Mohr</td>
+                           <td><a href="pmb29696.html">pmb29696</a></td>
+                        </tr>
+                        <tr>
+                           <td>J. Eisenstein  &amp; Co.</td>
+                           <td><a href="pmb29461.html">pmb29461</a></td>
+                        </tr>
+                        <tr>
+                           <td>J. Singer  &amp; Co.</td>
+                           <td><a href="pmb29369.html">pmb29369</a></td>
+                        </tr>
+                        <tr>
+                           <td>Jesuiten (Gesellschaft Jesu)</td>
+                           <td><a href="pmb29297.html">pmb29297</a></td>
+                        </tr>
+                        <tr>
+                           <td>Josef Migotti. Hoflieferant für Knabenkleider</td>
+                           <td><a href="pmb29250.html">pmb29250</a></td>
+                        </tr>
+                        <tr>
+                           <td>Journal des débats</td>
+                           <td><a href="pmb29221.html">pmb29221</a></td>
+                        </tr>
+                        <tr>
+                           <td>Jugend</td>
+                           <td><a href="pmb29408.html">pmb29408</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kaiser Karl-Gesellschaft</td>
+                           <td><a href="pmb29760.html">pmb29760</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kapuziner</td>
+                           <td><a href="pmb29219.html">pmb29219</a></td>
+                        </tr>
+                        <tr>
+                           <td>Katholikenbund</td>
+                           <td><a href="pmb29261.html">pmb29261</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kehlendorfer</td>
+                           <td><a href="pmb29227.html">pmb29227</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kikeriki</td>
+                           <td><a href="pmb29394.html">pmb29394</a></td>
+                        </tr>
+                        <tr>
+                           <td>Knopf</td>
+                           <td><a href="pmb29738.html">pmb29738</a></td>
+                        </tr>
+                        <tr>
+                           <td>Kölnische Zeitung</td>
+                           <td><a href="pmb29646.html">pmb29646</a></td>
+                        </tr>
+                        <tr>
+                           <td>Konservatorium der Gesellschaft der Musikfreunde</td>
+                           <td><a href="pmb29805.html">pmb29805</a></td>
+                        </tr>
+                        <tr>
+                           <td>Landesbildungsamt Salzburg für die Volkswehr</td>
+                           <td><a href="pmb29230.html">pmb29230</a></td>
+                        </tr>
+                        <tr>
+                           <td>Langenscheidt</td>
+                           <td><a href="pmb29653.html">pmb29653</a></td>
+                        </tr>
+                        <tr>
+                           <td>La Revue (ancienne Revue des Revues)</td>
+                           <td><a href="pmb29674.html">pmb29674</a></td>
+                        </tr>
+                        <tr>
+                           <td>Latinité. Revue des pays d’Occident</td>
+                           <td><a href="pmb29759.html">pmb29759</a></td>
+                        </tr>
+                        <tr>
+                           <td>Lazarus-Orden</td>
+                           <td><a href="pmb29818.html">pmb29818</a></td>
+                        </tr>
+                        <tr>
+                           <td>Le Figaro</td>
+                           <td><a href="pmb29706.html">pmb29706</a></td>
+                        </tr>
+                        <tr>
+                           <td>Le Matin</td>
+                           <td><a href="pmb29429.html">pmb29429</a></td>
+                        </tr>
+                        <tr>
+                           <td>Literarische Gesellschaft</td>
+                           <td><a href="pmb29772.html">pmb29772</a></td>
+                        </tr>
+                        <tr>
+                           <td>Literarische Gesellschaft in Halle</td>
+                           <td><a href="pmb29224.html">pmb29224</a></td>
+                        </tr>
+                        <tr>
+                           <td>L’Idée libre</td>
+                           <td><a href="pmb29438.html">pmb29438</a></td>
+                        </tr>
+                        <tr>
+                           <td>Magazin für die Literatur des Auslandes</td>
+                           <td><a href="pmb29625.html">pmb29625</a></td>
+                        </tr>
+                        <tr>
+                           <td>Manz’sche Verlags- und Universitätsbuchhandlung</td>
+                           <td><a href="pmb29216.html">pmb29216</a></td>
+                        </tr>
+                        <tr>
+                           <td>Marianische Männerkongregation</td>
+                           <td><a href="pmb29204.html">pmb29204</a></td>
+                        </tr>
+                        <tr>
+                           <td>Marmorek &amp; Beywasser Kohlehandlung</td>
+                           <td><a href="pmb29786.html">pmb29786</a></td>
+                        </tr>
+                        <tr>
+                           <td>Meinhardt-Bernauer’sche Bühnen</td>
+                           <td><a href="pmb29809.html">pmb29809</a></td>
+                        </tr>
+                        <tr>
+                           <td>Meininger</td>
+                           <td><a href="pmb29236.html">pmb29236</a></td>
+                        </tr>
+                        <tr>
+                           <td>Metro Goldwyn Mayer Filmgesellschaft</td>
+                           <td><a href="pmb29748.html">pmb29748</a></td>
+                        </tr>
+                        <tr>
+                           <td>Mitchell Kennerley</td>
+                           <td><a href="pmb29745.html">pmb29745</a></td>
+                        </tr>
+                        <tr>
+                           <td>Moderne Dichtung/Moderne Rundschau</td>
+                           <td><a href="pmb29417.html">pmb29417</a></td>
+                        </tr>
+                        <tr>
+                           <td>Moderne Kunst in Meister-Holzschnitten</td>
+                           <td><a href="pmb29524.html">pmb29524</a></td>
+                        </tr>
+                        <tr>
+                           <td>Moderne Welt</td>
+                           <td><a href="pmb29404.html">pmb29404</a></td>
+                        </tr>
+                        <tr>
+                           <td>Monistenbund</td>
+                           <td><a href="pmb29764.html">pmb29764</a></td>
+                        </tr>
+                        <tr>
+                           <td>Münchener Neue Secession</td>
+                           <td><a href="pmb29286.html">pmb29286</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neue Freie Presse</td>
+                           <td><a href="pmb29351.html">pmb29351</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neue Rundschau, Neue Deutsche Rundschau, Freie Bühne</td>
+                           <td><a href="pmb29212.html">pmb29212</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neues Pester Journal</td>
+                           <td><a href="pmb29732.html">pmb29732</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neues Wiener Journal</td>
+                           <td><a href="pmb29320.html">pmb29320</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neues Wiener Tagblatt</td>
+                           <td><a href="pmb29414.html">pmb29414</a></td>
+                        </tr>
+                        <tr>
+                           <td>Neue Zürcher Zeitung</td>
+                           <td><a href="pmb29672.html">pmb29672</a></td>
+                        </tr>
+                        <tr>
+                           <td>Niederösterreichische Statthalterei</td>
+                           <td><a href="pmb29253.html">pmb29253</a></td>
+                        </tr>
+                        <tr>
+                           <td>Nobelpreis</td>
+                           <td><a href="pmb29679.html">pmb29679</a></td>
+                        </tr>
+                        <tr>
+                           <td>Observer. Alexander Weigl’s Unternehmen für Zeitungssausschnitte</td>
+                           <td><a href="pmb29796.html">pmb29796</a></td>
+                        </tr>
+                        <tr>
+                           <td>Österreichischer Gewerbeverein</td>
+                           <td><a href="pmb29778.html">pmb29778</a></td>
+                        </tr>
+                        <tr>
+                           <td>Österreichischer Journalistenbund</td>
+                           <td><a href="pmb29800.html">pmb29800</a></td>
+                        </tr>
+                        <tr>
+                           <td>Österreichischer Lloyd</td>
+                           <td><a href="pmb29770.html">pmb29770</a></td>
+                        </tr>
+                        <tr>
+                           <td>Österreichische Rundschau</td>
+                           <td><a href="pmb29496.html">pmb29496</a></td>
+                        </tr>
+                        <tr>
+                           <td>Österreichische Volks-Zeitung</td>
+                           <td><a href="pmb29421.html">pmb29421</a></td>
+                        </tr>
+                        <tr>
+                           <td>Papierzentrale</td>
+                           <td><a href="pmb29239.html">pmb29239</a></td>
+                        </tr>
+                        <tr>
+                           <td>Passamt</td>
+                           <td><a href="pmb29234.html">pmb29234</a></td>
+                        </tr>
+                        <tr>
+                           <td>Paul Zsolnay Verlag</td>
+                           <td><a href="pmb36907.html">pmb36907</a></td>
+                        </tr>
+                        <tr>
+                           <td>Pensionsanstalt deutscher Journalisten und Schriftsteller</td>
+                           <td><a href="pmb29757.html">pmb29757</a></td>
+                        </tr>
+                        <tr>
+                           <td>Pester Lloyd</td>
+                           <td><a href="pmb29306.html">pmb29306</a></td>
+                        </tr>
+                        <tr>
+                           <td>Philipp Reclam jun.</td>
+                           <td><a href="pmb29666.html">pmb29666</a></td>
+                        </tr>
+                        <tr>
+                           <td>Phöbus</td>
+                           <td><a href="pmb29700.html">pmb29700</a></td>
+                        </tr>
+                        <tr>
+                           <td>Piusverein zur Förderung der katholischen Presse in Österreich</td>
+                           <td><a href="pmb29776.html">pmb29776</a></td>
+                        </tr>
+                        <tr>
+                           <td>Politiken</td>
+                           <td><a href="pmb29628.html">pmb29628</a></td>
+                        </tr>
+                        <tr>
+                           <td>Preußische Akademie (Sektion für Dichtkunst)</td>
+                           <td><a href="pmb29761.html">pmb29761</a></td>
+                        </tr>
+                        <tr>
+                           <td>Preussische Jahrbücher</td>
+                           <td><a href="pmb29704.html">pmb29704</a></td>
+                        </tr>
+                        <tr>
+                           <td>Reclams Universum</td>
+                           <td><a href="pmb29196.html">pmb29196</a></td>
+                        </tr>
+                        <tr>
+                           <td>Reichspost</td>
+                           <td><a href="pmb29637.html">pmb29637</a></td>
+                        </tr>
+                        <tr>
+                           <td>Reichswehr</td>
+                           <td><a href="pmb29304.html">pmb29304</a></td>
+                        </tr>
+                        <tr>
+                           <td>Revue des Revues</td>
+                           <td><a href="pmb29624.html">pmb29624</a></td>
+                        </tr>
+                        <tr>
+                           <td>Rikola </td>
+                           <td><a href="pmb29758.html">pmb29758</a></td>
+                        </tr>
+                        <tr>
+                           <td>S. Fischer Verlag</td>
+                           <td><a href="pmb29639.html">pmb29639</a></td>
+                        </tr>
+                        <tr>
+                           <td>Salzburger Chronik</td>
+                           <td><a href="pmb29656.html">pmb29656</a></td>
+                        </tr>
+                        <tr>
+                           <td>Salzburger Nachrichten</td>
+                           <td><a href="pmb29298.html">pmb29298</a></td>
+                        </tr>
+                        <tr>
+                           <td>Salzburger Volksblatt</td>
+                           <td><a href="pmb29686.html">pmb29686</a></td>
+                        </tr>
+                        <tr>
+                           <td>Salzburger Wacht</td>
+                           <td><a href="pmb29688.html">pmb29688</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sankt-Olav-Orden</td>
+                           <td><a href="pmb29242.html">pmb29242</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sascha Filmgesellschaft</td>
+                           <td><a href="pmb29734.html">pmb29734</a></td>
+                        </tr>
+                        <tr>
+                           <td>Saubermänner</td>
+                           <td><a href="pmb29794.html">pmb29794</a></td>
+                        </tr>
+                        <tr>
+                           <td>Schutzverband deutscher Schriftsteller</td>
+                           <td><a href="pmb29337.html">pmb29337</a></td>
+                        </tr>
+                        <tr>
+                           <td>Simon  &amp; Schuster</td>
+                           <td><a href="pmb29648.html">pmb29648</a></td>
+                        </tr>
+                        <tr>
+                           <td>Simplicissimus</td>
+                           <td><a href="pmb29714.html">pmb29714</a></td>
+                        </tr>
+                        <tr>
+                           <td>Sozialistische Monatshefte</td>
+                           <td><a href="pmb29701.html">pmb29701</a></td>
+                        </tr>
+                        <tr>
+                           <td>Soziologische Gesellschaft</td>
+                           <td><a href="pmb29765.html">pmb29765</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stewart Kidd</td>
+                           <td><a href="pmb29744.html">pmb29744</a></td>
+                        </tr>
+                        <tr>
+                           <td>Stock</td>
+                           <td><a href="pmb29741.html">pmb29741</a></td>
+                        </tr>
+                        <tr>
+                           <td>Südbahn-Gesellschaft</td>
+                           <td><a href="pmb29218.html">pmb29218</a></td>
+                        </tr>
+                        <tr>
+                           <td>Süddeutsche Monatshefte</td>
+                           <td><a href="pmb29590.html">pmb29590</a></td>
+                        </tr>
+                        <tr>
+                           <td>Süddeutsches Antiquariat</td>
+                           <td><a href="pmb29255.html">pmb29255</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tagespost</td>
+                           <td><a href="pmb29682.html">pmb29682</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tagespost</td>
+                           <td><a href="pmb29684.html">pmb29684</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tägliche Rundschau</td>
+                           <td><a href="pmb29691.html">pmb29691</a></td>
+                        </tr>
+                        <tr>
+                           <td>Tauchnitz</td>
+                           <td><a href="pmb29652.html">pmb29652</a></td>
+                        </tr>
+                        <tr>
+                           <td>Theatiner-Verlag</td>
+                           <td><a href="pmb29223.html">pmb29223</a></td>
+                        </tr>
+                        <tr>
+                           <td>The Christian Commonwealth</td>
+                           <td><a href="pmb29710.html">pmb29710</a></td>
+                        </tr>
+                        <tr>
+                           <td>The Dial</td>
+                           <td><a href="pmb29371.html">pmb29371</a></td>
+                        </tr>
+                        <tr>
+                           <td>The Germanic Review</td>
+                           <td><a href="pmb29743.html">pmb29743</a></td>
+                        </tr>
+                        <tr>
+                           <td>The London Mercury</td>
+                           <td><a href="pmb29705.html">pmb29705</a></td>
+                        </tr>
+                        <tr>
+                           <td>The Times</td>
+                           <td><a href="pmb29792.html">pmb29792</a></td>
+                        </tr>
+                        <tr>
+                           <td>Ullstein Verlag</td>
+                           <td><a href="pmb29681.html">pmb29681</a></td>
+                        </tr>
+                        <tr>
+                           <td>Vaterland</td>
+                           <td><a href="pmb29791.html">pmb29791</a></td>
+                        </tr>
+                        <tr>
+                           <td>Velhagen &amp; Klasings Monatshefte</td>
+                           <td><a href="pmb29632.html">pmb29632</a></td>
+                        </tr>
+                        <tr>
+                           <td>Verein der Literaturfreunde</td>
+                           <td><a href="pmb29634.html">pmb29634</a></td>
+                        </tr>
+                        <tr>
+                           <td>Verein gegen Trunksucht</td>
+                           <td><a href="pmb29237.html">pmb29237</a></td>
+                        </tr>
+                        <tr>
+                           <td>Volksbildungsverein</td>
+                           <td><a href="pmb29813.html">pmb29813</a></td>
+                        </tr>
+                        <tr>
+                           <td>Vorwärts</td>
+                           <td><a href="pmb29783.html">pmb29783</a></td>
+                        </tr>
+                        <tr>
+                           <td>Vossische Zeitung</td>
+                           <td><a href="pmb29331.html">pmb29331</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wanderbühne des österreichischen Volksbildungsamtes</td>
+                           <td><a href="pmb29815.html">pmb29815</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wassermann</td>
+                           <td><a href="pmb29232.html">pmb29232</a></td>
+                        </tr>
+                        <tr>
+                           <td>Weltausstellung 1893</td>
+                           <td><a href="pmb29318.html">pmb29318</a></td>
+                        </tr>
+                        <tr>
+                           <td>Weltblatt</td>
+                           <td><a href="pmb29621.html">pmb29621</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Abendpost</td>
+                           <td><a href="pmb29622.html">pmb29622</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Allgemeine Zeitung</td>
+                           <td><a href="pmb29670.html">pmb29670</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Bibliophilengesellschaft</td>
+                           <td><a href="pmb29197.html">pmb29197</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Bilder</td>
+                           <td><a href="pmb29724.html">pmb29724</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Literatur-Zeitung</td>
+                           <td><a href="pmb29715.html">pmb29715</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Musik- und Theatergesellschaft</td>
+                           <td><a href="pmb29801.html">pmb29801</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Philharmoniker</td>
+                           <td><a href="pmb29378.html">pmb29378</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Rundschau</td>
+                           <td><a href="pmb29749.html">pmb29749</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Sonn- und Montagszeitung</td>
+                           <td><a href="pmb29525.html">pmb29525</a></td>
+                        </tr>
+                        <tr>
+                           <td>Wiener Verlag</td>
+                           <td><a href="pmb29636.html">pmb29636</a></td>
+                        </tr>
+                        <tr>
+                           <td>Zisterzienser</td>
+                           <td><a href="pmb29292.html">pmb29292</a></td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </div>
+            </div>
+         </div>
+         <div class="wrapper fundament-default-footer" id="wrapper-footer-full" style="margin-top: 4em;">
+            <div class="container" id="footer-full-content" tabindex="-1">
+               <div class="footer-separator">
+                  CONTACT
+                  </div>
+               <div class="row">
+                  <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
+                     <div class="textwidget custom-html-widget"><a href="/"><img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" class="image" alt="ACDH Logo" style="max-width: 100%; height: auto;" title="ACDH Logo" /></a></div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
+                     <div class="textwidget custom-html-widget">
+                        <p>
+                           ACDH-CH OEAW
+                           <br />
+                           Austrian Centre for Digital Humanities and Cultural Heritage
+                           <br />
+                           Austrian Academy of Sciences
+                           </p>
+                        <p>
+                           Sonnenfelsgasse 19
+                           <br />
+                           1010 Vienna
+                           </p>
+                        <p>
+                           T: +43 1 51581-2200
+                           <br />
+                           E: <a href="mailto:acdh@oeaw.ac.at">acdh@oeaw.ac.at</a></p>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                     <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
+                     <div class="row">
+                        <div class="textwidget custom-html-widget">
+                           <h6 class="font-weight-bold">HELPDESK</h6>
+                           <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
+                              topics.</p>
+                           <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto" style="margin-left:0 !important;">
+                           <div class="textwidget custom-html-widget">
+                              <p style="margin-bottom:0 !important;">Social: </p>
+                           </div>
+                           <div class="row">
+                              <div class="textwidget custom-html-widget col-md-4"><a id="github-logo" title="GitHub" href="https://github.com/acdh-oeaw/bahr-static" class="nav-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                                       <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"></path></svg></a></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;"><a href="imprint.html">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script><script>
+                        $(document).ready(function () {
+                        createDataTable('tocTable')
+                        });
+                    </script></div>
+   </body>
+</html>

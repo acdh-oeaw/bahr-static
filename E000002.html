@@ -1,0 +1,1862 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-title" content="" />
+      <link rel="profile" href="http://gmpg.org/xfn/11" />
+      <title></title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel="stylesheet" id="fundament-styles" href="dist/fundament/css/fundament.min.css" type="text/css" />
+      <link rel="stylesheet" href="css/style.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/jq-3.3.1/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.css" /><script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/typesense-instantsearch-adapter@2/dist/typesense-instantsearch-adapter.min.js"></script><script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.5.1/dist/algoliasearch-lite.umd.js" integrity="sha256-EXPXz4W6pQgfYY3yTpnDa3OH8/EPn16ciVsPQ/ypsjk=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.8.3/dist/instantsearch.production.min.js" integrity="sha256-LAGhRRdtVoD6RLo2qDQsU2mp+XVSciKRC8XPOBWmofM=" crossorigin="anonymous"></script></head>
+   <body class="page">
+      <div class="hfeed site" id="page">
+         <div class="wrapper-fluid wrapper-navbar sticky-navbar" id="wrapper-navbar"><a class="skip-link screen-reader-text sr-only" href="#content">Skip to content</a><nav class="navbar navbar-expand-lg navbar-light">
+               <div class="container"><a href="index.html" class="navbar-brand custom-logo-link" rel="home" itemprop="url"><img src="dist/fundament/images/fundament_logo.svg" class="img-fluid" title="HBASBW" alt="HBASBW" itemprop="logo" /></a><a class="navbar-brand site-title-with-logo" rel="home" href="index.html" title="HBASBW" itemprop="url">HBASBW</a><span style="margin-left:-1.7em;" class="badge bg-light text-dark">in development</span><button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+                     <ul id="main-menu" class="navbar-nav">
+                        <li class="nav-item dropdown"><a title="Papers" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Projekt <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Auden-Musulin Correspondence" href="about.html" class="nav-link">Über das Projekt</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item dropdown"><a title="Indexes" href="#" data-toggle="dropdown" class="nav-link dropdown-toggle">Register <span class="caret"></span></a><ul class=" dropdown-menu" role="menu">
+                              <li class="nav-item dropdown-submenu"><a title="Personen" href="listperson.html" class="nav-link">Personen</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listplace.html" class="nav-link">Orte</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="Orte" href="listorg.html" class="nav-link">Institutionen</a></li>
+                              <div class="dropdown-divider"></div>
+                              <li class="nav-item dropdown-submenu"><a title="GND-BEACON" href="beacon.txt" class="nav-link">GND-BEACON</a></li>
+                              <li class="nav-item dropdown-submenu"><a title="ARCHE" href="arche.rdf" class="nav-link">ARCHE-MD</a></li>
+                           </ul>
+                        </li>
+                        <li class="nav-item"><a title="Editionseinheiten" href="toc.html" class="nav-link">Editionseinheiten</a></li>
+                     </ul>
+                     <form class="form-inline my-2 my-lg-0 navbar-search-form" method="get" action="search.html" role="search"><input class="form-control navbar-search" id="s" name="q" type="text" placeholder="Search" value="" autocomplete="off" /><button type="submit" class="navbar-search-icon"><i data-feather="search"></i></button></form>
+                  </div>
+               </div>
+            </nav>
+         </div>
+         <div class="container-fluid">
+            <div class="card">
+               <div class="card-header">
+                  <h1></h1>
+               </div>
+               <div class="card-body">
+                  
+                  <div id="d9e107">
+                     
+                     <p id="d9e109">Der vorliegende Band ›Briefwechsel, Aufzeichnungen, Dokumente‹ von Hermann Bahr und Arthur
+                        Schnitzler reiht sich gegen Ende der Editionen bedeutender Korrespondenzen
+                        von Autoren der Wiener Moderne ein. Ihm vorangegangen sind eine Vielzahl von Quellentexten zu ›Wien
+                        um 1900‹, die es ermöglichen, Beziehungen, Netzwerke und die Genese von
+                        Werken nachzuvollziehen. Der Briefwechsel zwischen Hermann Bahr und Arthur Schnitzler
+                        umfasst gerade einmal 201 Briefe, Karten, Telegramme und Widmungsexemplare von Bahr sowie im Gegenzug 152 von Schnitzler und ist daher vom Umfang her nicht sonderlich
+                        bedeutsam. Überhaupt erweist sich bei näherem Hinsehen der niedergeschriebene
+                        Austausch zwischen dem heutzutage prominentesten Schriftsteller und dem zentralen
+                        Theoretiker ›Jung-Wiens‹ augenfällig als abfallendes Moment.Das lässt
+                        sich auch als Zeitsymptom begreifen, vgl. Jörg Schuster: »Was leisten
+                        Briefe dieser Zeit, was bringen sie auf kommunikativem Wege hervor? Das
+                        Resultat fällt zunächst einmal desillusionierend aus. [] Als produktiv erweisen sich Briefe somit eher auf vermittelte Weise
+                        – sie sind von Nutzen für die im engeren Sinne poetische Produktion, indem sie
+                        die Einsamkeit des Autors wahren, aber auch konkret im Sinne einer
+                        Experimentierwerkstatt. Die eigene poietische Leistung von Briefen scheint
+                        dagegen gering.« (Jörg Schuster: »Kunstleben«.
+                        Zur Kulturpoetik des Briefs um 1900 – Korrespondenzen Hugo von Hofmannsthals
+                        und Rainer Maria Rilkes. Paderborn: Wilhelm Fink
+                        
+                        2014, S. 387) Es handelt sich zumeist um
+                        Geschäftliches, ein wenig um Liebesangelegenheiten, gelegentlich um getauschte
+                        Manuskripte und Einschätzungen dazu. Zwar sind diese Urteile interessant, und gerade
+                        Bahrs erste Reaktion zu einem Werk besitzt
+                        häufig verblüffende Haltbarkeit. Gegenseitige Inspiration oder auch nur Humor – und
+                        damit Momente, in denen beide an etwas Gemeinsamem schaffen, unterbleiben jedoch
+                        weitgehend.</p>
+                     
+                     <p id="d9e163">Über den wichtigsten Grund, warum die Korrespondenz nicht die an sie herangetragene
+                        Erwartung einlösen kann, wird man sich schnell einigen können: Beide Protagonisten
+                        leben bis 1913 in der gleichen Stadt und konferieren, wenn es
+                        erforderlich ist, mündlich. Nicht einmal eine schriftliche Anfrage, ob es zu einem
+                        Treffen kommen kann, erfordert eine schriftliche Antwort: Schnitzler ist schon ab 1889 telefonisch
+                        erreichbar (vgl. 
+                        Tb
+                        
+                        16. und 20. 11. 1889
+                        , ab Ende 1893 regelmäßig), Bahr ab 1894 gleich unter zwei Nummern, im Redaktionsbüro der neugegründeten
+                        Zeit (Telefonnr. 6415, )
+                        und in seiner Privatwohnung in der Lammgasse (Nr.
+                        4531). Doch nicht das Telefon verursacht die eigentliche Leerstelle, sondern der
+                        briefliche Austausch ist ein überlieferter Teil einer ansonsten nur in Facetten
+                        verschriftlichten Kommunikation.</p>
+                     
+                     <p id="d9e197">Wir haben uns als eigentliches Ziel gesetzt, diese Kommunikation zwischen Hermann Bahr und Arthur Schnitzler zu rekonstruieren. Es ist uns bewusst, dass es sich dabei
+                        stets um eine Annäherung handeln wird und die überlieferten Zeugnisse nur
+                        Stellvertreter eines ohnehin zu keinem Zeitpunkt vorhandenen Ganzen darstellen. Der
+                        große Vorteil, den wir in diesem Zugang erkennen, ist, dass er sich historischen
+                        Ereignissen nähert. Keine Teleologie der Freundschaft hin zu zweifelhaften
+                        Schlusspunkten (Schnitzler: »Wenn mir
+                        meine Vergangenheit erscheint, bist du mir immer Einer der nächsten, und so kann
+                        es auch in der Gegenwart nicht anders sein.«,  oder
+                        Bahrs Nachrufe 1931, die ihn
+                        nicht mehr im Vollbesitz seiner geistigen Kräfte zeigen,  und
+                        ) steht in unserem Interesse – obzwar sich auch diese aus
+                        den präsentierten Dokumenten ziehen lässt –, sondern wie sich zu bestimmten
+                        Zeitläufen, in bestimmten Situationen und Kontexten die Interaktion gestaltete.
+                        Entsprechend, vermuten wir, wird die vorwiegende Rezeption unseres Bandes auf
+                        bestimmte Jahre, auf bestimmte Ereignisse, Personen und Werke fokussieren. Oder,
+                        entlang von Bahrs berühmter Mach-Rezeption ausgedrückt, nicht das abgegrenzte
+                        charakterliche Ich zweier Briefschreiber steht im Zentrum, sondern die Interaktion,
+                        die ihr Austausch zeitigt: »[] nicht auf die
+                        bestimmte Unterscheidbarkeit von anderen und nicht auf die scharfe Begrenzung
+                        kommt es an, denn alle diese Momente variieren schon im individuellen Leben von
+                        selbst, und deren Veränderung wird vom Individuum sogar angestrebt. Wichtig ist
+                        nur die Kontinuität. Die Kontinuität ist aber nur ein Mittel, den Inhalt des Ich
+                        vorzubereiten und zu sichern.«
+                        
+                        Hermann Bahr: Das unrettbare Ich. In: Neues Wiener Tagblatt, Jg. 37, Nr. 99, 10. 4. 1903, S.
+                        1–4, hier: S. 4.
+                        
+                        
+                        </p>
+                     
+                     <p id="d9e252">Für die Rekonstruktion der Kommunikation greifen wir auf die verschiedensten
+                        Zeugnisse zurück und sind damit zutiefst den bisher erschienenen Editionen
+                        verpflichtet. Die Position als Nachzügler ermöglicht unserer Edition auf Schultern
+                        von Riesen zu stehen. Am wichtigsten: auf der des von der Österreichischen Akademie
+                        der Wissenschaften 1981–2000 herausgegebenen Tagebuchs von Arthur Schnitzler. Dieser hat wiederum selbst zu verschiedenen
+                        seiner Freunde Auszüge aus dem Tagebuch angelegt, »Charakteristiken« (). Zu Bahr hat er 101 von
+                        414 Erwähnungen abschreiben lassen. Mag man sich auch vorstellen, dass er die
+                        Zusammenstellung seiner Urteile in einem holistischen Sinne als Summe seines
+                        Verhältnisses zu Bahr verstanden habe, so sind
+                        selbst die 414 Stellen nicht alles, was es zu sagen gibt.Wie Schnitzler sich die
+                        Verwendung vorgestellt haben könnte, lässt sich aus dem Text Max Burckhard () erahnen. Weitgehend
+                        eine Auswertung des Tagebuchs – darin vergleichbar der Autobiografie Leben und Nachklang, Werk und Widerhall (JiW)
+                        –, steht die Detailtreue übergreifenden Einordnungen im Weg. Denn
+                        natürlich schrieb Schnitzler nicht jede
+                        Begegnung auf, sondern nur als bedeutsam eingestufte,Vgl. den Brief von Andrian an Michel vom 27. 2.
+                        1900 () und die Rekonstruktion möglicher Treffen
+                        in Theatervorstellungen, . und
+                        selbstredend ist es stets eine subjektive Perspektive, die damit eingenommen wird.
+                        Sein Interesse an Charakteristik betonte er in einer autobiografischen Notiz –
+                        »Auch von manchen Erlebnissen meiner Freunde wird die Rede sein, nicht nur,
+                        wenn solche Erlebnisse Einfluß auf meine Entwicklung genommen haben, sondern wenn
+                        sie zur Charakterisierung der Leute dienen, mit denen ich verkehrt habe.«Abgedruckt im Anhang von 
+                        JiW 323 (
+                        DLA, A:Schnitzler, 85.1.201).
+                        
+                        Schnitzlers Vorliebe für Selbstbeobachtung,
+                        Typologie und Psychologie weist auf ein forschendes Ich, das als ruhender Beobachter
+                        innere Vorgänge studiert. Demgegenüber zeigen bei Bahr eine Reihe von Begriffen, dass ihm der
+                        entgegengesetzte Blickwinkel zentral ist. Das Ich fungiert als Spiegel des Außen und
+                        ist entsprechend instabil: Von der »Nervenkunst« der frühen Neunzigerjahre über den
+                        Impressionismus bis hin zum »Augenmusik« genannten Expressionismus geht es dabei um
+                        Reize, Vorgänge an der Oberfläche, die das Ich aufzeichnet. In seltenen Momenten und
+                        Bereichen fügen sich diese Zugänge wie zwei Seiten einer Münze aneinander.
+                        Offensichtlich ist, es sind zwei diametrale Persönlichkeiten. Stellt man dem Tagebuch
+                        Schnitzlers die Aufzeichnungen Bahrs
+                        Der Begriff »Tagebuch« ist bei
+                        Bahr doppelt schwierig. Erst als er die
+                        vierzig deutlich überschritten hatte, werden die Aufzeichnungen primär eine
+                        chronologische Ereignisdokumentation. Andererseits entwickelte Bahr – parallel dazu – eine Textsorte »Tagebuch«, die er
+                        als Kolumne über die Jahre in mehreren Zeitschriften und Zeitungen publizierte und
+                        in denen der behauptete Zusammenhang bestimmter Tage mit bestimmten Ereignissen
+                        nur lose gegeben ist. gegenüber, dann ergibt sich nicht einfach ein
+                        zweiter Blick auf dieselben Ereignisse. Dem »Herrn aus Linz« bleiben die eigenen Emotionen fremd; über sein
+                        persönliches Verhältnis zum anderen verraten seine eigenen Äußerungen wenig. Lässt
+                        uns Schnitzler teilhaben an den Schwankungen
+                        zwischen Verachtung und Zuneigung, denen seine Beziehung zum vierzehn Monate Jüngeren
+                        unterworfen ist, bleibt eine solche Fragestellung bei Bahr fruchtlos. Psychologie taucht vorwiegend als Werkzeug des
+                        Kritikers auf und wird dazu eingesetzt, den künstlerischen Werdegang zu erläutern.
+                        So
+                        dominiert in seinen Texten die ständige Suche nach journalistischen, ästhetischen
+                        und
+                        politischen Positionierungen. Wann immer Schnitzler Gefühle beschreibt, schreibt Bahr Text. Wendet man diese Zuspitzung wiederum auf die präsentierte
+                        Kommunikation an, so erweist sich die sich beim Lesen einstellende Parteilichkeit
+                        für
+                        Schnitzler als verführerische Falle. Im Einsamen Weg heißt es: »Wir bringen einander die
+                        Stichworte so geschickt – es gibt pathetische Leute, die solche Beziehungen
+                        Freundschaft nennen.«Diese
+                        Stelle alludiert auch Eugen Brüll in seinem
+                        Nachwort zur Reclam-Ausgabe Die dreifache Warnung.
+                        Bei seiner Lektüre am 5. 11. 1931 strich sie sich Bahr an, vgl. das Exemplar Universitätsbibliothek Salzburg, 36.881-I.
+                        
+                        Bahr zitiert das in einer Rezension, um daran anzuhängen:
+                        »Eigentlich ist es nur Assoziation, wie die Psychologen sagen: der ›Freund‹
+                        ruft Erinnerungen aus einer Zeit auf, in der wir uns selbst noch lieber
+                        hatten.« () Misst man eine Freundschaft statt an
+                        den Erinnerungen, die sie auslöst, an dem Nutzen für den jeweils anderen und den
+                        Wirkungen, die sie zeitigt, kehrt sich das Verhältnis um. Aus diesem Blickwinkel –
+                        öffentliches Eintreten für den anderen – ist es Bahr, der »unermüdlich um Deinen [Schnitzlers] Ruhm in Nord u. Süd bemüht« () ist, während der Andere – wiederum zugespitzt – vor allem negative Urteile über
+                        die literarische Produktion des Freundes im Tagebuch festhält.</p>
+                     
+                     <p id="d9e413">
+                        Bahrs literarisches Werk, das sich von Anfang
+                        an durch mindere Qualität auszeichnet, zeitigt keine Auswirkungen auf Schnitzlers Schaffen. Zwar teilen sie in den
+                        Theaterstücken ihre Vorliebe für Themen wie Ehebruch und Treue, die Fragwürdigkeit
+                        des Duells (bei Bahr: Der Meister und Der
+                        Athlet) und finden sich bei beiden Schilderungen des Wiener Geldadels (Wienerinnen, Das
+                        weite Land), doch sind das zu keiner Zeit Alleinstellungsmerkmale. Das eine
+                        nachweisbare Zitat Bahrs im Werk Schnitzlers, die Figur des ›Meister‹ im Großen Wurstl, ist, weil zugleich Beer-Hofmann zitiert wird, mehr Persiflage auf die äußere Erwartungshaltung
+                        einer Gruppe als Bezugnahme auf den ursprünglichen Text selbst. Auf die Kritiken,
+                        die
+                        sie sich nach Lektüre von Manuskripten zukommen lassen, folgen, soweit bekannt, nie
+                        entsprechende Umarbeitungen der betreffenden Texte.</p>
+                     
+                     <p id="d9e455">Anders verhält es sich mit den kritischen Aufsätzen von Bahr, wie Die neue
+                        Psychologie (1890), mit denen er das medizinische Interesse Schnitzlers an Psychologie für literarische Bearbeitungen
+                        aktivierbar macht.Vgl. die Zusammenstellung von
+                        Achim Aurnhammer: Arthur Schnitzlers intertextuelles
+                        Erzählen. Berlin, Boston: de Gruyter 2013, S. 72
+                        (linguae  litterae 22).
+                         Oder wenn zum Abschluss einer Rezension des Puppenspielers () der Wunsch geäußert wird, Schnitzler solle die letzte Nacht vor einer neuen
+                        Zeit schildern, und der Angesprochene das nach eigenen Angaben im Ruf des Lebens aufgreift. Dieser Wunsch ist auch in weiterer
+                        Hinsicht bedeutsam. Bahr dürfte eine Variation
+                        dieses Wunsches verwendet haben, als er in seinen späten Rückblicken Schnitzlers Gesamtwerk als Chronik der letzten
+                        Tage vor dem Untergang der k. u. k. Monarchie zu er- und verklären sucht. Doch müsste
+                        man die Frage nach dem ›Österreichischen‹, die in Bahrs eigener Geistesbiografie so dominant wird, vor einem fundierten Urteil
+                        in einen größeren Zusammenhang in der Rezeptionsgeschichte Schnitzlers stellen. Nur für Bahr selbst kann seine 1908 begonnene Reihe »Österreichischer Romane« als Beweis herhalten, dass er auf der Suche nach einem
+                        geistesgeschichtlich verbindenden Moment war.</p>
+                     
+                     <p id="d9e517">Der den hier abgedruckten Dokumenten inhärente Kontrast aus Emotion und Strategie,
+                        aus Chronist und Akteur bewirkt gute Lesbarkeit. Doch es genügt nicht, die
+                        Wandelbarkeit des Ichs zu behaupten, der Blick muss vom Ich aufs literarische Feld
+                        ausgeweitet werden, die Kommunikation sich für die Gruppe öffnen. Es gibt Beispiele
+                        von gleichlautenden Briefen an unterschiedliche Empfänger, wie jenen Brief, den Bahr am 27. 4. 1907 () nahezu identisch an Schnitzler und an Beer-Hofmann
+                        schreibt. Es gibt auch das sich manifestierende Motiv innerhalb der Gruppe, sich über
+                        die (mangelhaften) stilistischen Mittel Bahrs
+                        und dessen Pose lustig zu machen (vgl. Beer-Hofmann, ; vgl. Hofmannsthal, ; vgl. Schnitzler, ). Geeigneter, den Nutzen der
+                        verbreiterten Kommunikation darzustellen, sind die Dokumente Anfang April
+                        1894 (): Die Korrespondenz selbst würde sich auf Bahrs Absage einer ersten Radfahrstunde
+                        beschränken (2. 4. 1894). Anhand des Eintrags vom 1. 4. in
+                        Schnitzlers Tagebuch könnte sich allenfalls
+                        noch vermuten lassen, dass es sich auf ein Gespräch bezieht, das sie im Prater geführt hatten. Die Einbeziehung eines Briefes
+                        an Richard Beer-Hofmann, den dieser Bahr weiterschicken solle, und dessen Antwort,
+                        die genaue Kenntnis von Bahrs Antwort zeigt,
+                        illustriert hingegen, dass das Gespräch nicht exklusiv zwischen zwei Personen geführt
+                        wurde.</p>
+                     
+                     <p id="d9e580">Den Informationsfluss innerhalb der Wiener Moderne sichtbar zu machen ist auch der Grund, warum mutmaßlich lässliche
+                        Aussagen in Briefen Dritter berücksichtigt werden. Denn wenn Beer-Hofmann
+                        
+                        Schnitzler aufträgt, »Grüße an Bahr, 
+                        Hofmannsthal
+                         etc.« () auszurichten, dann werden dadurch auch immer
+                        Zusammengehörigkeiten produziert, indem der Absender verrät, wem von seinen Freunden
+                        er den Empfänger nahestehend sieht. Schwieriger nachzuvollziehen, nichtsdestoweniger
+                        genauso bezeichnend ist es, wenn die Grüße fehlen, wie auf einer Karte von Karl Kraus an Schnitzler. Darauf lässt Karl Rosner
+                        an Bahr, Beer-Hofmann und 
+                        Hofmannsthal
+                         Grüße ausrichten, Kraus verzichtet, sich
+                        dem anzuschließen ().</p>
+                     
+                     <p id="d9e633">Häufig läuft der Informationsaustausch über Dritte und verdichtet sich die
+                        Kommunikation an bestimmten Personen: Hofmannsthal, Salten, Beer-Hofmann, Trebitsch,
+                        Brahm oder Olga Schnitzler nehmen zu bestimmten Zeitpunkten diese Rolle ein. Während
+                        solche Interaktionen einen zufälligen Moment enthalten, schaffen sie doch auch, wenn
+                        man sie auf das Ganze legt, einen Erkenntniswert: Es gibt, über die ganze Dauer der
+                        Freundschaft betrachtet, keinen singulären Dritten im Bunde. Verschiebungen im
+                        Freundeskreis sind alltäglich.</p>
+                     
+                     <p id="d9e655">Spätestens als sich Schnitzler eine Stelle aus
+                        der Deutschen Zeitung vom 28. 3. 1899
+                        notiert (), lässt sich bei ihm eine Außenwahrnehmung der
+                        Beziehung zu Bahr festmachen. Das abschätzige
+                        Wort für das, wozu er nicht gehören will, lautet »Clique«, und fortan werden immer
+                        wieder öffentlich sichtbare Aktionen und Handlungen danach abgeklopft, ob man von
+                        einer »Clique« sprechen wird. Während er also danach trachtet, möglichst wenig mit
+                        Bahr assoziiert zu werden, lässt sich bei
+                        diesem eine gegenläufige Bewegung feststellen. Zu der erträumten Gruppe der
+                        Neunzigerjahre – ›Jung-Wien‹ beschlagwortet – tritt nach der Jahrhundertwende die Ernüchterung ein, dass es
+                        keinen Nachwuchs gebe. Von der erhofften Jugendbewegung, die aus der Hauptstadt in
+                        die Provinz hätte ausstrahlen sollen, bleibt ihm nur das kleine »Dreigestirn« Beer-Hofmann, Hofmannsthal, Schnitzler, von dem er
+                        noch 1927 schwärmt ().</p>
+                     
+                     <p id="d9e692">Die private Freundschaft wird begleitet von der zunehmenden Institutionalisierung
+                        der
+                        beiden. Mehrere öffentliche Funktionen, die sie einnehmen, wie etwa, dass sie von
+                        1907 bis 1908 Vorstandsmitglieder der Union dramatischer Autoren und Komponisten in Wien waren, die
+                        Ernennung zu korrespondierenden Mitgliedern der Preussischen Akademie der Wissenschaften
+                        
+                        1926, die Zugehörigkeit zum Preisrichterkollegium des von Lippowitz
+                        
+                        1930 ausgelobten Burgtheaterringes,
+                        all diese Funktionen dürften ohne gemeinsame Tätigkeit geblieben sein. Zumindest
+                        tauchen sie innerhalb der in diesem Band präsentierten vorwiegend privaten Dokumente
+                        nicht auf. Die Aufmerksamkeit, die ihnen seit dem fünfzigsten und, neuerlich, seit
+                        dem sechzigsten Geburtstag zukommt, gipfelt in einem Preisausschreiben, das das Neue Wiener Tagblatt im Sommer 1930
+                        veranstaltet, um die berühmtesten Österreicher zu ermitteln. Schnitzler landet unter den
+                        Künstlern auf Platz zwei (nach Karl Schönherr),
+                        Bahr auf Platz acht.
+                        [O. V.:] Die berühmtesten Oesterreicher. Das
+                        Ergebnis unsres Preissausschreibens. In: Neues Wiener Tagblatt, Jg. 64, Nr. 224, 15. 8. 1930, S.
+                        4.
+                         Immerhin fordert Bahr für Schnitzler den Nobelpreis (), aber davon abgesehen unterbleibt die
+                        gegenseitige Wahrnehmung ihrer hervorragenden Rolle im Kulturbetrieb. </p>
+                     
+                     <p id="d9e765">Die in diesem Netzwerk marginalisierten Stimmen gehören den Frauen. Das beginnt bei
+                        den im gesamten autobiografischen Werk – ganz im Gegensatz zu den Vätern – unscharf
+                        bleibenden Konturen der jeweiligen Mütter. Parallelisiert man Bahrs und Schnitzlers
+                        Leben mit den Entwicklungen der Emanzipation der Frauen, so sind beide – bei Bahr in zweiter Ehe, bei Schnitzler bis zur Scheidung 1921 – mit Frauen
+                        verheiratet, die sich bemühen, selbstständig erfolgreich zu sein. Es ist dies ein
+                        langer Weg vom »Geliebte verschaffen« () der Bürgersöhne der
+                        frühen Jahre. Die Dokumente unserer Edition deuten nur an ihren äußersten Rändern
+                        eine andere Wirklichkeit dieser ›wilden‹ Jahre an, in der die ›süßen Mädel‹ nicht
+                        nur
+                        Objekte, sondern politische Akteure sind. Einmal besucht Felix Salten seine wegen sozialistischen Äußerungen inhaftierte
+                        Freundin Charlotte Glas im Gefängnis (), ein anderes Mal erwähnt
+                        Schnitzler im Umfeld Peter Altenbergs eine Anna, »Typus der Prostituirten, welche vom Stubenmädchen auf
+                        gedient hat« (), die von Alfred Polgar mit vollem Namen Anna Boschek genannt wird
+                        
+                        Alfred Polgar: Fünfzig Jahre Friedell. In: Die Weltbühne, Jg. 24, H. 6, 7. 2. 1928,
+                        S. 220.
+                         und die damit den Namen mit der Gewerkschafterin und
+                        sozialdemokratischen Politikerin Anna Boschek
+                        teilt. Wir haben von der Identifizierung der Prostituierten mit der Politikerin
+                        abgesehen, weil wir den Einzelfall auf das Typologische verschoben wissen möchten:
+                        Die Frauen, die in den präsentierten Dokumenten vorkommen, werden von den Männern
+                        nicht politisch aufgefasst, waren es aber womöglich.
+                        </p>
+                     
+                     <p id="d9e836">Eine andere Frau überschreitet die Wahrnehmungsgrenze kaum: Eingelegt in ein
+                        Notizbuch Bahrs, das er 1897/98
+                        verwendete (
+                        TMW, VM 1779 Ba), findet sich eine Visitenkarte:
+                        »
+                        Ida Grünwald
+                         / Typewriterin / v. 9–2 Uhr. / VII.,
+                        Mariahilferstr. 88a.« Es handelt sich um eine Schreiberin, die für
+                        Hofmannsthal und Schnitzler und womöglich Bahr () tätig war. Doch schon der Zeitraum und das
+                        Ausmaß ihrer Beschäftigung für die Autoren lässt sich nicht genau bestimmen, und ihre
+                        Abschriften dürften für gewöhnlich in den Druckereien geblieben sein, sodass auch
+                        diese Zeugen fehlen. Die Zusammenstellung der Dokumente zeigt vor allem Männer in
+                        der
+                        Kommunikation, in der für Frauen nur wenige Rollen reserviert sind. Trotzdem: Bahrs Einsatz für die Gleichberechtigung und das
+                        Wahlrecht der Frau ist glaubwürdig, obgleich oder gerade weil er sich parallel zu
+                        seiner katholisch-konservativen Wende abspielt, und mit Vorträgen zum
+                        Frauenstimmrecht, während er am ersten Gipfel seines Ruhms ist – kurz vor dem 1.
+                        Weltkrieg –, belegbar. Schnitzlers lange
+                        Weigerung zu heiraten wurde schon als Ablehnung patriarchaler Rollen aufgefasst. Es
+                        dürfte eher das Verständnis sein, das er seinen Protagonistinnen entgegenbringt,
+                        durch das er sich um die Frauenrechte verdient gemacht hat.</p>
+                     
+                     <p id="d9e880">Kürzt man die Vorgänge in Schnitzlers
+                        Privatleben nach 1891 auf ›offizielle‹ Momente, ergibt das eine straffe
+                        Liste: Geburt des Sohnes Heinrich 1902, Heirat
+                        mit Olga Gussmann
+                        
+                        1903, im selben Jahr Übersiedlung in die Spöttelgasse, Geburt der Tochter Lili
+                        
+                        1909, Übersiedlung in die Sternwartestraße
+                        
+                        1910, Scheidung 1921, Suizid der Tochter
+                        
+                        1928. Trotzdem ist davon in den abgedruckten Dokumenten kaum die Rede.
+                        Zu der Heirat gratuliert Bahr zu früh (), zur eigentlichen gar nicht; Heinrich kommt kurz nach der Geburt indirekt vor (»dass ich nicht für
+                        mich allein zu sorgen habe«
+                        ) und ansonsten erst 1904 (); die Geburt der Tochter
+                        wird zeitnah gemeldet, ihr Tod bleibt unkommentiert. Wenigstens die Übersiedlungen
+                        lassen sich an den geänderten Adressen ablesen. Deshalb und weil die äußerlichen
+                        Wirkungen zumeist Bahr zufallen, sind sein
+                        Leben und die sich ergebenden Änderungen in der folgenden chronologischen Aufstellung
+                        prominenter vertreten. </p>
+                     1891
+                     
+                     <p id="d9e954">Am 27. 4. 1891 notiert sich Schnitzler im Tagebuch, er habe die Bekanntschaft Hermann Bahrs im Kaffeehaus gemacht. Gekannt haben sie sich zu
+                        diesem Zeitpunkt bereits, spätestens seit im Juli 1890 von Schnitzler
+                        
+                        Anatols Hochzeitsmorgen und von Bahr ein Aufsatz über Octave
+                        Feuillet und Jean Richepin (Von welschen Litteraturen. II und III) zugleich in
+                        der von Eduard Michael Kafka in Brünn herausgegebenen Modernen Dichtung erschienen
+                        waren (). Als Bahr ins
+                        Kaffeehaus kam, war er bereits ›wer‹,Es ist anzunehmen, dass Schnitzler den Wagner-Kommers am
+                        5. 3. 1883, der Bahrs
+                        Verweis von der Universität Wien bewirkte,
+                        mitbekommen hat. Gering ist der Berührungspunkt bei der Deutschen Wochenschrift von Heinrich Friedjung, für die Bahr über Jahre nicht durchgängig, aber immer wieder tätig
+                        war. In ihr erschien während einer solchen Publikationspause im Dezember
+                        1886
+                        
+                        Schnitzlers erste veröffentlichte
+                        Prosaarbeit, Er wartet auf den vazierenden
+                        Gott. Vgl. auch die Erinnerung Hofmannsthals, .  ein im Deutschen Reich und in Österreich publizierender Autor, der einen Roman (Die gute
+                        Schule, 1890), eine Erzählungssammlung (Fin de
+                        Siècle, 1890), eine Sammlung von Kritiken und theoretischen Aufsätzen (Zur Kritik der Moderne, 1889, auf
+                        1890 vordatiert) und mehrere Schauspiele veröffentlicht hatte. Und
+                        schon damals, nach Lebensstationen in Paris und Berlin, war Bahr ein emsiger Propagator von
+                        Autoren und Künstlern, die in der Metropole Wien nicht bekannt waren. </p>
+                     
+                     <p id="d9e1079">Als die beiden zusammentrafen, zählte Bahr 27
+                        Jahre und war zumindest eine Halbprominenz; Schnitzler wenig mehr als ein dichtender Mediziner, kurz vor seinem 29.
+                        Geburtstag, der zu diesem Zeitpunkt nur Kleinigkeiten – Szenen, Gedichte, kürzere
+                        Prosa – publiziert hatte, einer der Ältesten innerhalb einer Liste von Personen, die
+                        von diesem selbst bereits zu Beginn des Jahres als »Jung Wien« (A. S. Tb
+                        
+                        14. 2., 23. 3. 1891
+                        ) bezeichnet worden waren – einer Liste, in der Bahr logischerweise noch fehlt und die in einer Momentaufnahme
+                        so aussah: »Schwarzkopf, Karlweis, Schupp, Kafka, Joachim, Hofmann, Goldmann, Kulka, Korff, Specht, Dörmann, Salten, Loris, Léon, Waldberg, Schik,
+                        ich.–« (A. S. Tb
+                        
+                        17. 3. 1891
+                        )
+                        Kafka und Jaques Joachim waren die Herausgeber der Modernen Rundschau, wie nach einer Neuaufstellung, Redaktionssitzwechsel und
+                        Umstellung auf halbmonatliches Erscheinen die Moderne
+                        Dichtung nunmehr hieß. Die Moderne
+                        Dichtung/Moderne Rundschau war in den zwei Jahren ihres Erscheinens das
+                        wichtigste Medium neuerer österreichischer literarischer Tendenzen.Zur (nur unvollständig
+                        erfolgenden und uneinheitlich bleibenden) Kristallisation einer ›Moderne‹ in der
+                        Zeitschrift vgl. zuletzt Konrad Heumann: Was ist modern?
+                        Hofmannsthals Publikationstaktik in Eduard Michael Kafkas Zeitschrift
+                        »Moderne Dichtung«. Hg. Wilhelm Hemecker, Cornelius Mitterer, David
+                        Österle. Berlin, Boston: de Gruyter 2017, S. 7–37.
+                        
+                        </p>
+                     
+                     <p id="d9e1202">In Berlin bestand zuerst ein Theaterverein Freie Bühne,
+                        motiviert durch den Plan, Schauspiele von Henrik
+                        Ibsen aufzuführen. Auf ihn folgte die gleichnamige Zeitschrift. Im etwas über 100 Kilometer
+                        nördlich von Wien liegenden Brünn hatte der Theaterverein Ibsenbund dieselbe
+                        MotivationNicht nur bedeutsame Überlappungen bei
+                        der Autorenliste machten es zu einem Schwesterprojekt der Freien Bühne in Berlin, sondern Kafka verhandelte im
+                        Sommer 1890 mit S. Fischer
+                        über die Zusammenführung. Und als die Wiener Zeitschrift im Folgejahr eingestellt wurde, ernannte man im letzten Heft die
+                        Berliner Zeitschrift zur Erbin und Fortführerin. Bahrs bedeutende Rolle in der Frühzeit beider Hefte beweist sein Gespür,
+                        sich an Knotenpunkte neuer Strömungen zu setzen. (Zur Rolle bei der Freien Bühne vgl. Gerd-Hermann Susen: »Das Alte kracht in allen Fugen!« Hermann Bahr und die Freie Bühne für
+                        modernes Leben. In: H. B. ÖKeA
+                        39–54.) und vollzog eine parallele Entwicklung, indem mit der
+                        Modernen Dichtung ein publizistisches Organ
+                        geschaffen wurde.Vgl. Kafka an Bahr, 19. 7.
+                        1889, 
+                        TMW, AM 19304 Ba. Nachdem sich die
+                        Zeitschrift von Brünn gelöst hatte und nach Wien übersiedelt war, folgte hier wiederum im Juli 1891 die Gründung
+                        einer Wiener Freien Bühne.</p>
+                     
+                     <p id="d9e1298">Der Theatergründung vorangegangen war eine ›offizielle‹ Anerkennung Ibsens, indem am 11. 4. 1891
+                        
+                        Die Kronprätendenten am Hofburgtheater gegeben wurde. Der Direktor, der eine Erneuerung
+                        des verstaubten Spielplans eingeleitet hatte und es auf den Spielplan hob,Zuvor hatte er Ein
+                        Volksfeind aufführen lassen (Premiere 23. 10.
+                        1890). war der seit wenigen Monaten amtierende Verwaltungsjurist
+                        Max Burckhard.Für einen Hinweis auf die Verzahnung zwischen Burgtheater und Wiener Freier Bühne vgl. . Ein Bankett,
+                        das Kafka und Joachim zwei Wochen nach dem ersten Heft des Relaunches und unmittelbar nach
+                        der Premiere veranstalteten, markiert den Übergang, aus den gemeinsam bei der Modernen Dichtung/Modernen Rundschau veröffentlichenden Autoren eine öffentliche Gruppe zu
+                        machen.Als klares Aufbegehren der Jungen gegen die
+                        Alten beschreibt es Burckhard (
+                        Max Burckhard: Begegnungen mit Ibsen. In: Neue Freie Presse, Nr. 15007, 3. 6. 1906, S.
+                        12–13). Während Bahr im
+                        Selbstbildnis verklärend meinte, Ibsen hätte eine »Feuertaufe«
+                        vorgenommen,
+                        H. B.: Selbstbildnis. Berlin: S. Fischer
+                        
+                        1923, S. 277.
+                         kommentierte Schnitzler den
+                        Gründungsmoment ›Jung-Wiens‹ lakonisch: »Heute Ibsenbankett. Stimmungslos.– Diese
+                        Journalisten!«
+                        
+                        Tb
+                        
+                        18. 4. 1891.
+                        
+                        </p>
+                     
+                     <p id="d9e1417">
+                        Bahr nahm daran gar nicht teil, er war erst in
+                        Anreise aus Russland, wohin er von Berlin aus die Schauspieltruppe von Emanuel
+                        Reicher begleitet hatte.Zu Bahrs Versuch, das zu verheimlichen, vgl. Martin
+                        Anton Müller: Das Selbstbildnis als Quelle. In: H. B. ÖKeA 165–184, hier: S. 170.
+                         Seine Ankunft in Wien im April 1891 gestaltete er literarisch aus, als er in seinem
+                        ersten Aufsatz über Hofmannsthal schreibt, er
+                        hätte in der Modernen Rundschau (erschienen
+                        Mitte April) dessen 
+                        Rezension über sein eigenes
+                        Stück Die Mutter gelesen und sich
+                        dann – sofort nach Eintreffen – auf die Suche nach dem Verfasser gemacht, um zuletzt
+                        von einem Siebzehnjährigen im Kaffeehaus überrascht zu werden: »Nächsten Tag
+                        wieder im Café. In Wien thue ich sonst überhaupt nichts; man muß sich in die Sitten des Landes
+                        fügen. Ich fühle auch gar kein Bedürfnis. Ich sitze also wieder im Café, lese,
+                        plausche. Plötzlich schiesst, aus der andern Ecke quer durchs Zimmer, wie von
+                        einer Schleuder, ein junger Mann mit unheimlicher Energie auf mich, mir mitten ins
+                        Gesicht sozusagen.«
+                        
+                        Hermann Bahr: Loris. In: Freie
+                        Bühne, Jg. 3, H. 1, Januar 1892, S. 94–98, hier: S. 96. (Im
+                        Buchabdruck ist die Stelle gekürzt, vgl. 
+                        Hermann Bahr: Studien zur Kritik der Moderne. Frankfurt am Main:
+                        Rütten 
+                        Loening
+                        
+                        1894, S. 125.)
+                        Das ereignete sich am 27. April,
+                        
+                        Hugo von Hofmannsthal: Sämtliche Werke. Kritische Ausgabe. Veranstaltet vom Freien Deutschen
+                        Hochstift. Band 38: Aufzeichnungen. Hg. Rudolf Hirsch †
+                        und Ellen Ritter † in Zusammenarbeit mit Konrad Heumann und Peter Michael
+                        Braunwarth. Frankfurt am Main: S. Fischer 2013, S.
+                        16.
+                         dem Tag der Bekanntschaft mit Schnitzler. Ist auch die Vorstellung reizvoll, an diesem Tag Ende April
+                        hätten unabhängig voneinander Hofmannsthal und
+                        Schnitzler die Bekanntschaft mit Bahr im Kaffeehaus gemacht, wahrscheinlich ist
+                        es nicht. Die beiden in Wien Wohnhaften kannten sich seit Februar, ein gemeinsames
+                        Zusammentreffen aller drei Autoren der Modernen
+                        Rundschau ist anzunehmen. Da sich Hofmannsthal auch am Folgetag eine Notiz zu Bahr anlegte,Ebd. selbst aber nicht in Schnitzlers Tagebuch vorkommt, sind hier ausschließlich implizite
+                        Relevanzkriterien des Tagebuchs offengelegt.</p>
+                     
+                     <p id="d9e1566">Während Bahr und Hofmannsthal sich zu treffen und zu schreiben beginnen, sind
+                        von Bahr/Schnitzler keine Korrespondenzstücke aus der Zeit erhalten. Die beiden
+                        Einträge in Schnitzlers Tagebuch vom 27.
+                        und 28. 4. 1891 sind deshalb in ihrer Tragweite eher gering zu gewichten:
+                        Man sah sich, man unterhielt sich gut. Eine für Schnitzler unübliche Form, den Eindruck der Begegnung mit Bahr zu verarbeiten, stellt eine Stoffnotiz dar, in der
+                        Naturalisten gemeinsam auf Aufriss gehen (). Zugleich lässt es
+                        sich auch als Indiz begreifen, dass beide weniger eine Freundschaft begonnen haben,
+                        als dass sie in der gleichen Gruppe interagieren. </p>
+                     
+                     <p id="d9e1595">
+                        Bahrs physische Präsenz in Wien dauerte nur kurz, ab Juni lebt er bis fast zum Jahresende bei
+                        seinen Eltern in Linz, während in der Hauptstadt die Versuche, moderne Literatur zu
+                        institutionalisieren, vorangetrieben werden. Am 7. 7. 1891 kommt es zur
+                        Gründung des Vereins Wiener Freie Bühne, von der
+                        die Neue Freie Presse berichtet: »Unter dem
+                        Doppelnamen ›Wiener freie Bühne, Verein für moderne
+                        Literatur‹ constituirte sich heute Abends im Souterrain-Local des ›Hôtel de France‹ ein Verein junger
+                        Schriftsteller und Literaturfreunde, welche, der modernen realistischen Richtung
+                        zuneigend, nach bekanntem Berliner Muster die Förderung ihrer geistigen, literarischen und geselligen
+                        Interessen anstreben. Diesen Zweck soll der Verein nach dem Wortlaute seiner
+                        Statuten erreichen: ›Durch Abhaltung von Vorträgen aus dem Gebiete der Literatur
+                        und Wissenschaften, sowie durch Veranstaltung von dramatischen Aufführungen, durch
+                        Herausgabe und Subvention von Werken und Zeitschriften, durch Anlegung einer für
+                        die Mitglieder unentgeltlich benützbaren Bibliothek und eines Lehrzimmers, durch
+                        Preisausschreibungen und durch Gewährung eines Rechtsbeistandes zur Vertretung der
+                        verletzten Interessen der Mitglieder.‹«
+                        [O. V.:] Eine »Wiener freie Bühne«.
+                        In: Neue Freie Presse, Nr. 9649,
+                        Morgenblatt, 8. 7. 1892, S. 7
+                        
+                        
+                        Kafka, Joachim, Schnitzler, Hugo von Hofmannsthal senior (wohl in Vertretung seines noch
+                        nicht volljährigen Sohnes)
+                        und auch Felix Salten werden zu Funktionären des
+                        Vereins. Obmann wird eine weitere Schlüsselfigur der formgebenden Jahre der Wiener Moderne, deren Schaffen aufgrund psychischer Probleme aber nicht über Ansätze
+                        hinauskam, Friedrich M. Fels. Zu seinen
+                        Stellvertretern werden Edmund Wengraf und Hermann Fürst ernannt. Dabei ist keine klare
+                        Programmatik, sondern eine inhaltliche Richtung anzunehmen, die sich in der Wahl Henrik Ibsens zum Ehrenmitglied ausdrückt. Kafkas Brief an Bahr vom 12. 8. 1891 versucht den in Linz Lebenden als Mitglied zu werben und berichtet, dass das »
+                        ganz ausgezeichnete
+                        « Märchen von Schnitzler aufgeführt werden soll ().</p>
+                     
+                     <p id="d9e1708">Im Herbst folgt die erste internationale Wahrnehmung; Wien wird in Nachfolge von Paris und nach Berlin und München zum jüngsten Schauplatz naturalistischer und dekadenter Literatur ernannt. Am
+                        9. 11. 1891 werden im Pariser Le Matin
+                        
+                        Bahr, Schnitzler, Felix Dörmann (falsch
+                        geschrieben) und J. J. David zu den
+                        herausragenden Proponenten erklärt (). Auch Bahr springt auf den Zug auf, als er im Dezember
+                        in der Zeitschrift Moderne Kunst unter dem Titel
+                        Moderne Kunst in Oesterreich einen Überblick
+                        über neue Strömungen in bildender Kunst, Musik und Literatur veröffentlicht. Während
+                        er bei den Malern Ferry Bératon eine
+                        Führungsrolle zugesteht, erwähnt er unter dem Schlagwort »junges Oesterreich« und nach Nennung der Wiener Freien Bühne
+                        
+                        Schnitzler, Dörmann und Hofmannsthal. Die
+                        Verbreitung des Textes dürfte nicht sonderlich hoch einzuschätzen sein, zumindest
+                        notiert sich Schnitzler die Lektüre erst am
+                        10. 2. 1892 und wirkt dabei pikiert über den auf ihn gemünzten
+                        »Causeur«. Dass Bahr damit die theoretische
+                        Beschäftigung mit seinem Werk eingeläutet hatte, dürfte ihm im Ärger entgangen sein.
+                        </p>
+                     
+                     <p id="d9e1789">Den Text hatte Bahr, noch ohne Das Märchen zu kennen, geschrieben, aber als er Ende November
+                        eine Unterkunft am Heumarkt in Wien bezieht, hat sich das geändert. Hofmannsthal unternimmt es, Schnitzler
+                        und Bahr kurzzuschließen, und in der Folge
+                        finden regelmäßig Treffen im Kaffeehaus und bei Schnitzler zu Hause statt, an denen auch Beer-Hofmann und Salten teilnehmen.
+                        Zwei Briefe, vom 14. und 15. 12. 1891, die Emanuel Reicher an Bahr
+                        schickt, zeigen, wie Bahr
+                        
+                        Schnitzler in seine Aktivitäten integriert.
+                        Während er einerseits versucht, Reicher in Wien Auftritte – vor allem eine Matinée noch im Winter und ein Gastspiel bei der Theaterausstellung im Frühling – zu organisieren,
+                        fordert er ihn im Gegenzug auf, Schnitzler
+                        aufzuführen, und lässt ihn Das Märchen an Oskar Blumenthal vermitteln.</p>
+                     
+                     <p id="d9e1859">In seinem Tagebuch kann Schnitzler am letzten
+                        Tag des Jahres zusammenfassen: »Anregender Kreis, der sich bildete«
+                        (). </p>
+                     1892
+                     
+                     <p id="d9e1871">Das folgende Jahr ist bestimmt von den Bemühungen, die Gruppe ›Jung Wien‹ zu etablieren und Texte der Öffentlichkeit bekanntzumachen. Wobei die
+                        Abgrenzung von den naturalistischen Anknüpfungspunkten wie Berlin und auch Ibsen immer sichtbarer
+                        wird.Vgl. Peter Sprengel, Gregor Streim: Berliner und Wiener Moderne. Vermittlungen und Abgrenzungen in
+                        Literatur, Theater, Publizistik. Mit einem Beitrag von Barbara Noth.
+                        Wien u. a.: Böhlau 1998 (Literatur in der Geschichte,
+                        Geschichte in der Literatur, 45), S. 45–114.
+                         Die Ausdifferenzierung der Wiener Gruppe als spezifisch ›österreichisch‹ geschieht durch eine literarische Bewegung, die sich als ›symbolistisch‹
+                        definiert. Unterschiedliche Theatervorhaben verlaufen dabei parallel und sind durch
+                        die erhalten gebliebenen Textzeugen nicht immer säuberlich zu trennen, denn ob nun
+                        die Wiener Freie Bühne das Märchen aufführen soll oder Reicher es in Wien lesen oder vielleicht gar den Fedor einstudieren wird, ob das im Zuge der ab
+                        Mai für fünf Monate laufenden Internationalen Musik-
+                        und Theaterausstellung oder unabhängig geschehen sollte, ob dazu oder zu
+                        einem anderen Zeitpunkt noch ein Einakter aus dem Anatol-Zyklus gegeben wird, welche Rolle für die ungarische Schauspielerin Ilka Pálmay vorgesehen ist
+                        – die Schauplätze und Personen verschieben sich ständig. Bahr scheint dabei besonders nach außen aufzutreten, er
+                        besucht Frau Pálmay, er schreibt an S. Fischer, Schnitzlers
+                        
+                        Anatol empfehlend (Fischer lehnt es zum zweiten Mal ab)In der Literatur ist öfter die
+                        Behauptung anzutreffen, Bahr wäre Lektor S. Fischers gewesen und hätte neben anderen Schnitzler vermittelt. Das ist falsch. Schnitzler hatte dem Verlag eine frühe Gestalt
+                        des Anatol-Zyklus bereits im November
+                        1888 angeboten (
+                        JiW 310, 
+                        Bw Fischer 51), und auch Bahrs Empfehlung am 17. 1. 1892 führte nicht
+                        zum Vertrag.  – er spielt sich in den Vordergrund. </p>
+                     
+                     <p id="d9e1986">Nach eigner AussageBrief an
+                        den Vater, 28. 2. 1892 (
+                        Hermann Bahr: Briefwechsel mit seinem Vater. Ausgewählt von Adalbert Schmidt. Wien:
+                        Bauer 1971, S. 316–317). war auch er
+                        es, der im Januar den Antrag stellte, die Freie Bühne umzubenennen. Es ist eine eigenwillige, für Bahr typische Volte, unmittelbar vor der großen Theaterausstellung heißt sie nunmehr »Verein für modernes Leben«.
+                        Vgl. Die Presse, Jg. 45, Nr. 19,
+                        19. 1. 1892, Abendblatt, S. 4.
+                         Zwei geschlossene Veranstaltungen stehen ganz im Zeichen Bahrs, am 3. 3. liest er seine Treue Adele vor (und Gedichte von Schnitzler werden vorgetragen), am 29.
+                        3. wiederholt er einen Vortrag über Symbolismus. (Er hatte ihn bereits am
+                        28. 11. 1891 in Linz gehalten). Als Nächstes findet am 2. 5. ein öffentlicher Auftritt
+                        des Vereins statt. Man gibt Maurice
+                        Maeterlincks
+                        
+                        L’Intruse in Übersetzung von Ferry Bératon. Vor allem aber: eingeleitet von Hermann Bahr. Nach außen hin popularisierte er,
+                        nach innen polarisierte er.
+                        Richard Reichensperger: Zur Praxis kommunikativen Handelns.
+                        Das »Café Griensteidl« in Wien. In: Kreise, Gruppen,
+                        Bünde. Zur Soziologie moderner Intellektuellenassoziation. Hg. Richard
+                        Faber und Christine Holste. Würzburg: Königshausen  Neumann 2000, S. 85–108, hier: S.
+                        99.
+                        
+                        Diese Verve kam nicht allen gelegen, Wengraf und Fels, die weiterhin dem Naturalismus zugetan waren, lösen sich von der
+                        Gruppe, mit ihnen dürfte auch Karl Kraus eine
+                        zunehmende Distanz verspürt haben.
+                        Jens Rieckmann: Aufbruch in die Moderne. Die Anfänge des
+                        Jungen Wien. Österreichische Literatur und Kritik im Fin de Siècle,
+                        Königstein im Taunus: Athenäum 1985, S. 65–66.
+                        
+                        
+                        Schnitzler, feinfühlig, nach der Veranstaltung
+                        im Mai: »Nachher wollten wir zusammenbleiben, aber es war eigen – wie alles
+                        auseinander bröckelte.–« ()</p>
+                     
+                     <p id="d9e2119">Die Auflösung der Gruppe – spätere Versuche einer Wiederbelebung oder eines Neustarts
+                        bleiben erfolglos – führt zu engeren Bindungen zwischen einzelnen Mitgliedern. Die
+                        Zeiträume zwischen sporadischen Treffen von Bahr und Schnitzler verdichten sich so,
+                        dass sie sich im August »fast allabendlich« ()
+                        sehen. Es ist Schnitzler, der einen
+                        wöchentlichen Stammtisch mit Hofmannsthal und
+                        Bahr einrichten möchte (), zu dem es aber nicht kommt. Ohnedies hat Bahrs Betriebsamkeit diesen gerade gebunden: Im September
+                        beginnt er eine Anstellung bei der Deutschen
+                        Zeitung. Ob nun eine Konkurrenzklausel oder nur der Mangel an Zeit die
+                        Ursache war, es folgte die Einstellung der Publikationstätigkeit bei Zeitungen und
+                        Zeitschriften in Deutschland. Der Wohnort, der Wirkungsort und das artistische Programm fallen nunmehr in
+                        eins: Wien. Aussagen Bahrs, in denen er die jüngsten
+                        literarischen Entwicklungen in Österreich denen in Berlin vorzieht – sind für Schnitzler so
+                        bemerkenswert, dass er es im Tagebuch erwähnt,
+                        ungeachtet er seinen Reden sonst mit Skepsis gegenübersteht (
+                        ).</p>
+                     1893
+                     
+                     <p id="d9e2179">Im Zuge einer publizistischen Auseinandersetzung werden im Januar 1893
+                        neue Frontverläufe sichtbar. Direktor Burckhard
+                        lehnt Ludwig Fuldas
+                        
+                        Der Talisman für das Burgtheater ab, als ihm nicht die alleinige Uraufführung zugesichert wird.
+                        Bahr springt in die Bresche und empfiehlt
+                        der Burg, statt deutschen Autoren den jungen Wiener Nachwuchs zu spielen. Die Parteinahme für Burckhard geschieht in der frühen Phase einer lebenslangen Freundschaft, bei
+                        der Bahr zum Einflüsterer Burckhards hochstilisiert wird und sich selbst dazu
+                        stilisiert. Zugleich hat Burckhard und Fulda auch
+                        einen so gehässigen, antideutschen Kampagnenton, dass es nachvollziehbar ist, warum Karl Kraus ihn als Ausgangspunkt für Zur Überwindung des Hermann Bahr nimmt, eine erste Breitseite
+                        gegen dessen Unsitte, mit Publizistik Politik zu machen. Das stellt zwar noch nicht
+                        den Bruch dar, doch es bereitet diesen vor. </p>
+                     
+                     <p id="d9e2233">Auch Schnitzler und Hofmannsthal haben in der ersten Jahreshälfte eine Agenda, sie
+                        setzen sich für den gesundheitlich und finanziell angeschlagenen Friedrich Michael Fels ein und hoffen auf Bahr und die Deutsche
+                        Zeitung. Schnitzler lässt Hofmannsthal die Verhandlungen mit Bahr führen, da die beiden seit November
+                        1892 und bis Mai 1894 im gleichen Haus wohnen. Zugleich gibt
+                        dies Auskunft darüber, dass das Band nicht sonderlich eng ist, dass noch immer der
+                        Jüngste im Bund das Bindeglied darstellt. Die Sache geht zuerst einmal gut, doch
+                        kommt es zu keiner längerfristigen Lösung. Zuletzt: ein Klagebrief Fels’ an Schnitzler, dann
+                        übersiedelt er nach Zürich, wo sich seine Spur verliert. </p>
+                     
+                     <p id="d9e2275">Bislang sind die Äußerungen Schnitzlers zum
+                        theatralen und novellistischen Werk Bahrs eher
+                        durchwachsen, zur Ablehnung tendierend. Das bleibt auch in diesem Jahr so. Genauer
+                        verfolgt Schnitzler jedoch die Publizistik Bahrs, und da wird ihm, möglicherweise das erste
+                        Mal, vorgehalten, er würde ›Kleinigkeiten‹ schreiben: Das ist etwas, das er
+                        zeitlebens – und er bekommt es noch oft zu hören – schlecht erträgt. Bahr nennt ihn im zweiten Teil seiner
+                        Artikelserie über Das junge Österreich einen
+                        »große[n] Virtuose[n], aber einer kleinen Note«. Selbst Tage später
+                        noch lässt sich Schnitzler in der
+                        Tischgesellschaft der Saubermänner bestätigen, wie
+                        perfid die Kritik sei. </p>
+                     
+                     <p id="d9e2305">Während die Uraufführung des Märchens heranrückt,
+                        setzen die überlieferten Briefe Bahrs an Schnitzler ein. Das geschieht, indem sich das
+                        Spektrum ihrer Beziehung hin zur gemeinsamen Arbeit im literarischen ›Betrieb‹
+                        erweitert: Nun soll Schnitzler ein Feuilleton
+                        für den Tag der Premiere verfassen. Schnitzler
+                        liefert Spaziergang, einen Prosatext, der den
+                        Ausflug einiger Freunde in die Vororte – vor den Linienwall – beschreibt.Zuordnungen zu realen Personen – beispielsweise Stefan: Hofmannsthal, Hans: Bahr, Max: Beer-Hofmann und Fritz: Schnitzler –
+                        lassen sich in manchen Details herstellen, als Ganzes sind die Figuren, wie Schnitzler selbst sagt, »Typen«
+                        (). Damit ist dies der erste einer Serie von
+                        geplanten Stadtbeschreibungen, von denen bis zum Abgang Bahrs aus der Deutschen
+                        Zeitung nur mehr ein weiterer erscheint. Diese Form der Serien liegt Bahr. Er schematisiert gern, bildet Reihen und zieht
+                        Analogien, wie sich auch aus der undatierten Zusammenstellung ersehen lässt, die den
+                        »Spaziergängen« vorangegangen sein dürfte (). Auch versucht
+                        er, den praktizierenden Mediziner Schnitzler für
+                        seine Publizistik zu aktivieren. Zwar hat er sich bis dato mehrmals von ihm privat
+                        medizinisch betreuen und beraten lassen, nun erhofft er von ihm oder zumindest über
+                        ihn ein Feuilleton über den Arzt Johann Lukas
+                        Schönlein. Der gewünschte Artikel erscheint nicht. Kurz darauf beendet zudem
+                        Bahr abrupt seine Mitarbeit an der
+                        Zeitung.</p>
+                     
+                     <p id="d9e2374">Gleichfalls im Dezember findet Schnitzlers erste
+                        große Premiere statt, das Märchen am Deutschen Volkstheater in Wien, mit Adele Sandrock in der Hauptrolle. Dazu erscheint
+                        Bahrs erste Einzelbesprechung eines
+                        Schauspiels von Schnitzler. </p>
+                     
+                     <p id="d9e2397">Das Jahr schließt mit zwei privaten Ereignissen, die literaturhistorische
+                        Treppenwitze sein könnten. Der erste: »
+                        Bahr und Sch. (die Führer der Naturalisten) haben Verhältnis mit 2 Schwestern, welche
+                        Schauspielerinnen und Canaillen sind.« () Gemeint
+                        sind Wilhelmine (»Willy«) und Adele (»Dilly«) Sandrock. Der zweite: Auf der gemeinsamen
+                        Silvesterfeier 1893/94 kommt es zum getauschten Du-Wort. In den Erinnerungen
+                        
+                        Olga Schnitzlers für ihren Mann ein
+                        traumatisches Erlebnis: »Das war wohl die Ursache, daß er in späteren Jahren
+                        jedes freundliche Angebot auf Bruderschaft immer wieder mit der Bemerkung
+                        ablehnte, er sei nur eines Menschen Duzbruder geworden, und den hätte er zu jener
+                        Zeit nicht leiden können.« () Auf Jahre hinaus –
+                        bis zum 31. 1. 1907 () tauscht er nur mit Frauen
+                        das Du-Wort aus. Eine literarische Verarbeitung der Nacht durch Schnitzler mag der 1. Akt der Liebelei darstellen, als die beiden Freunde Fritz Lobheimer und Theodor
+                        Kaiser mit ihren beiden Freundinnen ›Bruderschaft‹ trinken. In der Handschrift, die
+                        Schnitzler am 13. 9. 1894
+                        beginnt, heißt der Sidekick zuerst »Hermann«.
+                        Vgl. Arthur Schnitzler: Liebelei. Historisch-kritische
+                        Ausgabe. Hg. von Peter Michael Braunwarth, Gerhard Hubmann und Isabella
+                        Schwentner. Berlin, Boston: de Gruyter 2014, S. 341 (Werke
+                        in historisch-kritischen Ausgaben, hg. Konstanze Fliedl).
+                        (Wobei sich die männlichen Protagonisten schon zu Beginn des Stückes duzen.) Aber
+                        auch Bahr, entgegen dem kumpelhaften Ton, den
+                        der anzuschlagen pflegt, ist nicht mit jedem per Du, sondern zieht im Normalfall den
+                        Vornamen und ›Sie‹ vor. </p>
+                     1894
+                     
+                     <p id="d9e2469">Das Jahr steht im Zeichen Adele Sandrocks, mit
+                        der Schnitzler nun für einige Monate ein
+                        stürmisches und kompliziertes Verhältnis eingeht. Bahr ist, womöglich durch die Beziehung zu Wilhelmine, in die Kommunikation aufgenommen. Er bleibt es auch, nachdem
+                        seine Liaison zu Ende gegangen ist, von der wir überhaupt nur durch das Tagebuch Schnitzlers wissen. Wie die Solidarität zwischen
+                        den beiden Männern und der Schauspielerin gelagert ist, zeigt der Dank, den Sandrock
+                        
+                        Bahr abstattet, weil er angeboten hatte, über
+                        Schnitzlers Treue in der Zeit ihres
+                        Gastspiels in Marienbad zu wachen. Bahrs Reaktion: Er gibt
+                        umgehend an Schnitzler die Information weiter,
+                        dass die ungeliebte Geliebte überraschend komme ().</p>
+                     
+                     <p id="d9e2511">Zugleich hat sich ein innerer Kern gebildet, dem neben Bahr und Schnitzler
+                        
+                        Hofmannsthal und Beer-Hofmann angehören (etwas peripherer Salten und Kraus). In
+                        unterschiedlichen Zusammensetzungen werden Ausflüge gemacht, wird in den Prater gegangen, wo man sich auch fotografieren
+                        lässt, oder trifft man sich Anfang Mai für ein paar Tage in München. </p>
+                     
+                     <p id="d9e2543">Nachdem mit der Modernen Rundschau und der Deutschen Zeitung zwei Wiener Publikationsorgane weggefallen waren, gelingt es Bahr, gemeinsam mit Isidor
+                        Singer und Heinrich Kanner, die
+                        Wochenschrift Die Zeit auf die Beine zu stellen,
+                        die am 6. 10. 1894 zum ersten Mal erscheint. In seiner Funktion als
+                        Chefredakteur, der für die Kulturberichterstattung zuständig ist, bekommt die
+                        Korrespondenz wieder eine geschäftliche Seite. Hatte Schnitzler am 19. 6. 1894 niedergeschrieben, dass er nunmehr
+                        »sehr gut« mit Bahr sei, geht
+                        es im Herbst mit der Freundschaft so weit bergab, dass es nach Bahrs Lob der Schmetterlingsschlacht von Hermann
+                        Sudermann zur Aussprache kommt. Der Vorwurf gegen Bahr lautet: er wäre unehrlich und ein Poseur, der immer das
+                        Gegenteil sagen müsse. Wenn das auch zutrifft, im kritischen Handeln tritt Bahr korrekt in Erscheinung, etwa wenn er die
+                        Erzählung Der Witwer für Die Zeit ablehnt und nicht aus Freundschaft akzeptiert.</p>
+                     
+                     <p id="d9e2603">Die Empfehlung vom Vorjahr an das Burgtheater, Schnitzler zu spielen, hat Folgen. Mit der
+                        Fertigstellung der mittlerweile dreiaktigen Liebelei beginnt Bahr bei Burckhard vorzufühlen. Schnitzlers Aufzeichnungen diesbezüglich durchzieht dabei eine
+                        tiefe Ambivalenz, denn wenn er auch den Einsatz bemerkt, so sind ihm die Urteile zu
+                        häufig nicht aus guten Gründen entwickelt, sondern strategisch gewählt. Trotzdem,
+                        oder deswegen, die Gesprächsbasis wird besser: »wir plauderten so gut wie noch
+                        nie« ().</p>
+                     
+                     <p id="d9e2630">Von Dezember 1894 bis zum Februar des nächsten Jahres
+                        spielt sich das letzte Kapitel der intimen Beziehung Schnitzler – Sandrock ab, und Bahr als ›Frauenversteher‹ mit – man kann es
+                        schwerlich anders nennen – dummen Ideen dazwischen. Sie steigert die Mittel, um sich
+                        zu versichern, geliebt zu werden: Zuerst gibt sie (auf Bahrs Rat) im Dezember vor, auf dem Land zu übernachten – wenn
+                        Schnitzler sie liebe, werde er sie davon
+                        abhalten –, dann schläft sie mit Felix Salten.
+                        Als zusätzliche Schwierigkeit ergibt sich, dass für Schnitzler der Bruch mit ihr auch die Besetzung der Christine in der Liebelei, die zuerst für Februar 1895
+                        in Aussicht gestellt ist, in Gefahr gerät. Bahr
+                        versucht für die Schauspielerin zu kalmieren. Aber inwiefern seine Mittlertätigkeit
+                        überhaupt von Nutzen ist, bleibt offen. </p>
+                     1895
+                     
+                     <p id="d9e2670">Innerhalb des Freundeskreises sind zu Bahr
+                        verschiedene Distanzierungsmomente verzeichnet, nicht nur von Schnitzler, auch von Beer-Hofmann (dieser stellt ihn und Burckhard gar in eine Reihe mit dem populistischen Bürgermeister Karl Lueger). Durch die am 5. 5.
+                        eingegangene Ehe mit der Schauspielerin Rosa
+                        Jokl entsteht zusätzliches Konfliktpotenzial. Vorangegangen dürfte dem nur
+                        eine vergleichsweise kurze Beziehung sein (am 13. 1. 1895 ist sie in Schnitzlers Tagebuch erstmals als Bahrs Freundin erwähnt), sodass über die Gründe
+                        für die rasche Hochzeit spekuliert werden kann, Genaueres aber nicht überliefert
+                        ist.Da Bahr
+                        den Bruch mit seiner Familie in Kauf nimmt, könnte es sich um eine Schwangerschaft
+                        gehandelt haben. Allerdings sind keine leiblichen Kinder Bahrs bekannt. Seine Gattin wurde jedoch 1907
+                        
+                        Mutter. Viele
+                        finden Frau Bahr unsympathisch, und so wird
+                        auch er teilweise von gemeinsamen Unternehmungen ausgeschlossen. </p>
+                     
+                     <p id="d9e2722">Bis zum großen Erfolg der Liebelei bei ihrer
+                        Uraufführung am Burgtheater am 9. 10.
+                        zieht sich der Konflikt zwischen dem Autor und der Hauptdarstellerin. Für ein
+                        zeitnahes Erscheinen zur Premiere erbittet Bahr
+                        bei Schnitzler einen Text für die Zeit und erhält am 17. 7.
+                        
+                        Die Geschichte vom greisen Dichter
+                        (veröffentlicht 2014 als Später
+                        Ruhm). Bahr liest es und lehnt zum dritten
+                        Mal, nach Artifex und Der Witwer, einen Text Schnitzlers ab. In dem Fall ist dieser von der Zurückweisung getroffen,
+                        übernimmt aber das beigefügte Urteil und findet, er müsse den Text vollständig neu
+                        schreiben. Zwar ist es nicht mehr als ein Indiz, aber dass alle Texte, die Bahr ablehnte, von Schnitzler zeit seines Lebens von Buchausgaben ausgeschlossen
+                        wurden, könnte Auskunft darüber geben, wie viel ihm Bahrs Meinung bedeutete. Dieser ist aber nicht fehlerfrei: So irrt er, als
+                        er den Misserfolg der Liebelei auf der Bühne
+                        gesichert sah (), und Schnitzler ärgert sich über dessen Kritik, die anlässlich der Uraufführung erscheint und die an
+                        der Liebelei zwar lobt, aktuell zu sein und das
+                        gegenwärtige Leben abzubilden, ihr aber auch vorhält, über das Deskriptive hinaus
+                        nicht ins Gestalterische vorzudringen.</p>
+                     1896
+                     
+                     <p id="d9e2794">Die persönlichen Differenzen haben ein derartiges Ausmaß erreicht, dass es am
+                        21. 1. 1896 zu einer Aussprache zwischen beiden kommt. Schnitzler äußert hier erstmals den Vorwurf, Bahr sei eine »Propagandanatur«, das
+                        Paradebeispiel eines Feuilletonisten. (Wer aufrechnet: Bahr hat zuerst »Feuilletonist« zum andern gesagt, .) Und mit Blick eineinhalb Jahrzehnte in die Zukunft: Schnitzler versöhnt sich innerlich erst mit Bahr, als er dessen Wesen als das eines
+                        Feuilletonisten akzeptiert.</p>
+                     
+                     <p id="d9e2818">Nach der Aussprache scheint sich das persönliche Verhältnis jedenfalls zu bessern,
+                        auch in der Folge schlägt Schnitzler
+                        freundlichere Töne an. Er ist ihm »direct sympathisch« (), als dieser von einem Duell verwundet zurückkehrt, das Bahr für seinen Redaktionsmitarbeiter Alfred Gold geführt hatte. Die antisemitischen
+                        Korporationen hatten gerade einmal zwei Wochen zuvor mit dem »Waidhofener Prinzip«
+                        Juden für »satisfaktionsunfähig« erklärt. Auf Felix
+                        Salten dürfte es gleichfalls Eindruck gemacht haben, er wählt Bahr im Mai zum Sekundanten. Dass
+                        insgesamt nur zwei Duelle innerhalb der hier präsentierten Dokumente vorkommen und
+                        diese innerhalb von wenigen Wochen, dürfte auf eine angespannte Zeit verweisen.
+                        Implizit lässt sich aus einem Brief Saltens an
+                        Bahr auch die Zustimmung Schnitzlers zu dem Duell herauslesen, genauso wie er die
+                        berühmte Ohrfeige Saltens für Karl Kraus befürwortet.</p>
+                     
+                     <p id="d9e2859">Diese ›Watsche‹ wiederum stellt eine Folge des Erscheinens von Die demolirte Literatur in der Wiener Rundschau dar, mit der Kraus im
+                        Dezember desselben Jahres den endgültigen Bruch mit den modernen
+                        Autoren der Stadt vollzieht. Als Bahr den ob
+                        der Nachbarschaft seiner Gedichte zur Demolirten
+                        Literatur verzweifelten Hofmannsthal
+                        auffordert, ein Bündnis gegen Kraus
+                        aufzustellen, wiegelt dieser ab, nicht zuletzt, weil sich Schnitzler nie für eine Gruppe hergeben würde. Aber auch so
+                        nimmt eine Gruppe Gestalt an: durch Feinde von außen und Bündnissuche innen. Zugleich
+                        bestätigt Bahrs Vorschlag des Ostrakismos gegen
+                        Kraus jene Vorurteile, die gegen ihn
+                        bestehen.</p>
+                     
+                     <p id="d9e2895">Nachdem Bahr bereits eine Allianz mit Burckhard und damit dem Burgtheater geschmiedet hat, tritt er bei der Aussprache im
+                        Jänner als Emissär des Raimund-Theaters auf. In den folgenden Jahren wird er auch für das Deutsche Volkstheater als solcher auftreten. Diese
+                        Rolle als Vernetzer, der versucht, strategische Punkte zu besetzen, um Macht ausüben
+                        und Posten vergeben zu können, ist dabei stets zweischneidig. Ein Theaterkritiker,
+                        der von den Theatern inszeniert wird, die er bespricht, und möglicherweise diesen
+                        Theatern auch noch Autorinnen und Autoren sowie Schauspielerinnen und Schauspieler
+                        verschafft, gibt, auch ohne seine Macht zu missbrauchen, kein gutes Bild ab.</p>
+                     
+                     <p id="d9e2916">Neben dem Betrieb und seinen Niederungen sind es Uraufführungen und Premieren, die
+                        für Bahr und Schnitzler das Jahr prägen: Beide sind nun als Theaterautoren präsent, und
+                        man gratuliert sich gegenseitig. Wie sehr sich die Bereiche verzahnen, lässt sich
+                        an
+                        den Ereignissen im Dezember gut zeigen. Bahr forderte das ganze Jahr über von Schnitzler Beiträge für die Zeit,
+                        besonders an einer Auswertung von dessen Reise nach Dänemark und Schweden im Sommer mit Besuch bei Georg Brandes
+                        und Peter Nansen ist er interessiert.
+                        Stattdessen verlegte Schnitzler nach seiner
+                        Rückkehr den Schauplatz der im Vorjahr liegengebliebenen Novellette Der Weise in den dänischen Badeort Skodsborg und reicht sie zum Jahresende mit dem endgültigen Titel Die Frau des Weisen ein. Zur gleichen Zeit lässt Bahr sein Schauspiel Das Tschaperl als Manuskript drucken und schickt es seinen
+                        Freunden mit der Bitte um ihr Urteil. Von Schnitzler will er aber noch etwas anderes: Er möge bei Otto Brahm vorfühlen, ob es dieser nicht für das Berliner Deutsche Theater erwerben möchte. </p>
+                     1897
+                     
+                     <p id="d9e2983">
+                        Otto Brahms Ablehnung des Tschaperl kommt nicht unerwartet. Immerhin hatte Bahr 1890 versucht, in einer »Palastrevolution«
+                        gemeinsam mit Arno Holz die Freie Bühne zu übernehmen und Brahm als Herausgeber abzulösen.
+                        Hermann Bahr, Arno Holz: Briefwechsel 1887–1923. Hg.
+                        und kommentiert von Gerd-Hermann Susen und Martin Anton Müller. Göttingen: Wallstein 2014, S. 35–41. Der gemeinsame
+                        Handlungsraum der beiden dehnt sich auf Berlin aus: Während Schnitzler Kontakte zum Deutschen Theater in Berlin pflegt, übernimmt Otto Neumann-Hofer
+                        
+                        Das Tschaperl für das Lessingtheater (Premiere 24. 9. 1898). Wieder werden
+                        verschiedene Interessen vermischt, denn Neumann-Hofer versucht auch mit Nachdruck, über den Mittelsmann Bahr
+                        
+                        Schnitzler mit seiner ganzen Produktion für sein
+                        Theater zu verpflichten. </p>
+                     
+                     <p id="d9e3053">Am 28. 3. kommt es zur gemeinsamen öffentlichen Lesung der ›Wiener‹ Bahr, Hofmannsthal und Schnitzler und einem
+                        Gast aus Deutschland, Georg Hirschfeld. Die
+                        Lesung ist ein Erfolg, bleibt aber ein einmaliges Ereignis. Die Teilnahme Peter Altenbergs an der Lesung hatte Bahr abgelehnt () – eine
+                        Distanz, die noch 1912 spürbar ist (). Auch mit
+                        Hirschfeld scheint er nicht zu können,
+                        zumindest reagiert Schnitzler erbost, als Bahr dessen neues Stück, Agnes Jordan, als »antisemitisch« ablehnt. Das negative Urteil
+                        dürfte mit ein Grund sein – Bahr hatte es ohne
+                        Rücksprache mit dem Autor von Burckhard
+                        bekommen –, dass es vom Burgtheater abgelehnt wird. </p>
+                     
+                     <p id="d9e3109">
+                        Schnitzlers weiterhin negative Charakteristik
+                        gilt dem Journalisten Bahr und seinen Praktiken
+                        (»Menschenseelen, die nur mit Lampions beleuchtet sind, und in die kein
+                        Strahl Wahrheit und kein Strahl Größe fällt«, ). Er
+                        schreibt sie nicht nur in sein Tagebuch, sondern äußert sie in intimen Briefen,
+                        Zeichen, dass sie eine persönliche Schwelle überschritten hat. Gegen Ende des Jahres
+                        hin zeigt sich, dass die Unstimmigkeiten im Freundeskreis diskutiert werden, gerade
+                        in Gesprächen zwischen ihm, Beer-Hofmann und
+                        Hofmannsthal. Neuestes Ärgernis stellt dabei
+                        ein Urteil über Schnitzlers
+                        
+                        Das Freiwild dar, das Bahr in einer Besprechung von Burckhards
+                        
+                        ’s Katherl trifft. Dieses sei näher an einem
+                        Stück, wie es zu sein habe, als etwa sein eigenes Tschaperl oder das neue Schnitzlers.
+                        Problematisch daran ist, dass Bahr ebenjenes
+                        noch gar nicht gelesen hatte.</p>
+                     
+                     <p id="d9e3161">
+                        Bahrs wiederkehrendes Thema in seiner
+                        Theaterkritik ist die Hoffnung auf ein neues Stück, das in der Lage ist, nicht nur
+                        die Schilderung der Gegenwart, sondern die Gegenwart selbst in die Bühnenpraxis zu
+                        übersetzen. Dass das auch im Freundeskreis aufgegriffen wurde, lässt sich an einem
+                        Brief Hofmannsthals, mutmaßlich vom 17.
+                        10., erkennen, in dem dieser, wie auf Bahrs
+                        
+                        Liebelei-Kritik replizierend (), seine Stücke Die Frau im
+                        Fenster und Die Hochzeit der Sobeide
+                        näher am Dramatischen als die Schnitzlers und
+                        der anderen beschreibt ().Eine
+                        Verbindung der Kritik am Freiwild mit dieser
+                        Aussage findet sich in einem Interview mit Bahr: »Von der Wiener Schule ist Hugo v. Hoffmannsthal
+                        ein wirklich großer Dichter, während Schnitzler und ich ja ganz nette Theatermenschen sind.« (
+                        Revel: Hermann Bahr über Paul Schlenther. Ein Interview. In: Berliner Tageblatt, Jg. 27, Nr. 579, 14. 11.
+                        1898, Montags-Ausgabe, S. 2)
+                        </p>
+                     
+                     <p id="d9e3230">Auch abseits der Lesung im Frühjahr gibt es Momente der Zusammenarbeit zwischen Bahr und Schnitzler. Der eine stellt die Förderung von Elsa Plessner dar, die mit Empfehlungsschreiben Schnitzlers in der Zeit ihren Einstand gibt (und innerhalb weniger Wochen vom Hochgefühl,
+                        gedruckt zu werden, zum Tief willkürlichen Lektorats sinkt). Und Ende des Jahres,
+                        unmittelbar nach Erscheinen des Erstdrucks von Die
+                        Toten schweigen im Oktober-Heft der internationalen Zeitschrift Cosmopolis bittet Bahr um die Leseerlaubnis für den zweiten Teil seiner Vortragsreihe – er
+                        spricht von Conférence – zu Neuerscheinungen der Literatur.</p>
+                     
+                     <p id="d9e3258">Der sich hier erstmals einstellende inhaltliche Austausch – zur Rolle eines
+                        Vortragenden und seinen Möglichkeiten der Gestaltung – zeigt Schnitzler mit klaren Ansichten und Bahr umgänglich. Schnitzler spricht sich gegen jede Kürzung aus, Bahr verspricht, sich daran zu halten. Das Eigenwillige und
+                        für Bahr Typische am Versprechen ist, dass er
+                        es zwar gehalten haben dürfte, aber im überlieferten Exemplar der im Folgejahr
+                        erschienenen Novellettensammlung Die Frau des
+                        Weisen, das von Bahr für weitere
+                        Lesungen des Textes zumindest bis 1908 verwendet wurde, sind genau jene
+                        Streichungen durchgeführt, die sich Schnitzler
+                        verbeten hatte.
+                        Arthur Schnitzler: Die Frau des Weisen.
+                        Novelletten. Berlin: S. Fischer
+                        1898, Universitätsbibliothek
+                        Salzburg, Signatur 38.838 I.
+                        </p>
+                     
+                     <p id="d9e3303">Seine Lesungen bestanden neben eigenen und fremden Texten stets auch aus allgemeinen
+                        Ausführungen, in denen er in den Neunzigerjahren vor allem Jung-Wien über eine gemeinsame Ästhetik zu begründen suchte, wandelten sich aber über die
+                        Jahre zunehmend zu einer Literaturgeschichte Österreichs der unmittelbar vergangenen Jahre.In Die Toten schweigen
+                        verwendete Schnitzler zur medizinischen
+                        Plausibilisierung die eben erschienenen Studien über Hysterie von Josef
+                        Breuer/Sigmund Freud. (Vgl.
+                        Arthur Schnitzler: Die Toten schweigen.
+                        Historisch-kritische Ausgabe. Hg. von Martin Anton Müller unter Mitarbeit von
+                        Ingo Börner, Anna Lindner und Isabella Schwentner. Berlin, Boston: de Gruyter 2015, S. 2 [Werke in historisch-kritischen
+                        Ausgaben, hg. Konstanze Fliedl].) Damit schreibt sich die Psychoanalyse
+                        – noch bevor sie ihren Namen bekommen hat – bereits in Bahrs selbstgezimmerte ›Literaturgeschichte‹
+                        ein. Mit dem Wechsel von Stil-Programmatik zum genuin politischen
+                        Anspruch einer eigenen österreichischen – von Deutschland abgegrenzten – Kulturpolitik änderte sich die Funktion, die ein Text in seinem
+                        Programm einnahm.</p>
+                     
+                     <p id="d9e3350">Zwei Wochen nach jener Lesung am 28. 11. im Wiener Bösendorfer-Saal wechselte Bahr
+                        für eine Lesung in Graz
+                        
+                        Schnitzlers Text aus und gab stattdessen Abschiedssouper. Soweit die Vorlesungsprogramme
+                        bekannt sind, blieb das ein einmaliges Ereignis; in der Folge wird Die Toten schweigen zum vermutlich häufigsten von Bahr vorgetragenen Text Dritter. </p>
+                     1898
+                     
+                     <p id="d9e3381">Nachdem Max Burckhard von der Leitung des Hofburgtheaters zurückgetreten ist, organisiert Bahr im Februar ein Bankett, zu dem er eine Art
+                        größten gemeinsamen Nenner der Wiener Künstlerschaft versammelt. Neben Ferdinand
+                        von Saar ist auch Schnitzler vertreten,
+                        der Bahrs Einfluss auf Burckhard negativ sieht. Ansonsten verläuft das Jahr
+                        weitgehend distanziert, zumeist reduziert sich der schriftliche Austausch auf
+                        Gratulationen nach Premieren. Gelegentlich anklingende persönlichere Töne nehmen sich
+                        beinahe wie Fremdkörper aus. </p>
+                     
+                     <p id="d9e3409">Auf bestimmte Reizwörter ist bei Bahr Verlass;
+                        als in Berlin die Aufführung von Der grüne Kakadu
+                        polizeilich verboten wird, bittet er am 1. 12., diesen in der Zeit abdrucken zu dürfen. Da er bereits vergeben
+                        ist, stellt ihm Schnitzler einen anderen
+                        Einakter, Die Gefährtin, in Aussicht. </p>
+                     1899
+                     
+                     <p id="d9e3435">Der geplante Abdruck der Gefährtin in der Zeit führt im März zu einer
+                        schriftlich geführten Auseinandersetzung, die, weil genau genommen beide Seiten
+                        unrecht haben, sich zur Charakterisierung eignet. Schnitzler behauptet, das Stück erst nach der Uraufführung für den Druck
+                        freigeben zu wollen (hatte aber geschrieben, es ›davor‹ nicht gedruckt sehen zu
+                        wollen, ), Bahr will das
+                        Stück spätestens zeitgleich mit der Uraufführung bringen und lehnt einen verzögerten
+                        Abdruck ab. Es bleibt die letzte Auseinandersetzung der beiden bezüglich der Zeit, und sie leitet eine längere Phase der Stille
+                        ein. Im Juli kündigt Bahr bei der
+                        Wochenschrift. Ab Oktober verfasst er Theaterbesprechungen und
+                        Feuilletons für den Steyrermühl-Konzern, der das
+                        Neue Wiener Tagblatt und die Österreichische Volks-Zeitung herausgibt. Am 1.
+                        10. gibt er seinen Einstand im Neuen Wiener
+                        Tagblatt mit dem Feuilleton Die Entdeckung der
+                        Provinz, was sich als programmatischer Wechsel verstehen lässt, eine
+                        Hinwendung zur Kunst außerhalb der Stadt. Die Autoren Wiens fühlen sich abgetan, Schnitzler
+                        kommentiert gegenüber Hofmannsthal: »Er
+                        ist gewiß nicht nur ein Aff, sondern auch ein boshafter Aff.« ()</p>
+                     
+                     <p id="d9e3498">Dem programmatischen Artikel entspricht auch eine Veränderung in Bahrs Leben. Seit 1899 lässt er sich an der
+                        Peripherie Wiens, in Ober Sankt Veit durch Joseph Maria Olbrich, den Architekten des Sezessionsgebäudes, eine Villa er- und einrichten. Womöglich hätte
+                        es Schnitzler an diesem Zeitpunkt überrascht, zu
+                        erfahren, dass auch sein Relief
+                        für den Salon vorgesehen war (). </p>
+                     
+                     <p id="d9e3527">Illustriert bei Bahr der Hausbau den bisherigen
+                        Erfolg, so kann Schnitzler auf eine
+                        künstlerische Anerkennung verweisen: Am 27. 3. erhält er den Bauernfeldpreis. Ein Urteil anlässlich des Preises
+                        trifft ihn so tief, dass er es aufbewahrt und später sogar abtippen lässt. Inhalt:
+                        Er
+                        hätte alles nur durch Bahr und dessen Anhänger
+                        geschafft. Auch in der Ablehnung durch Schnitzler lässt sich darin noch eine Verortung hinsichtlich der
+                        öffentlichen Wahrnehmung Bahrs und Schnitzlers als Team erkennen.Ein Schlüsselroman von Adolf
+                        Dessauer, der 1899 ohne Autornennung bei Carl Konegen erschien und Bahr (»Raske«) und Schnitzler
+                        (»Lohm«) porträtierte, belegt zusätzlich, wie fest die beiden bereits zum
+                        ›Inventar‹ öffentlichen Interesses gehörten ([O. V.:] Götzendienst. Wiener Gesellschaftsbild. Wien: Carl Konegen, 1899
+                        ). Eine weitere Art, wie sich diese Nähe in den Köpfen
+                        festgesetzt hat, manifestiert sich nach Bahrs
+                        Kündigung bei der Zeit. Schnitzler hatte bereits im Februar 1896 unter der Hand das
+                        Angebot bekommen, die Theaterkritiken über das Burgtheater in der Zeit zu verfassen. Das
+                        Verwunderliche daran: Es stammte vom (Mit-)Herausgeber Isidor Singer und nicht vom den Kulturteil zeichnenden Hermann Bahr. Nach dessen Ausscheiden fragen die
+                        beiden verbleibenden Herausgeber wieder an, ob Schnitzler nicht in die Kulturredaktion einsteigen möchte. Und wieder lehnt
+                        dieser ab. (Die Stelle wird, was zumindest ein Vertrauen in ein bestimmtes
+                        literarisches Feld verrät, zuerst mit Max
+                        Burckhard besetzt, auf den nach kurzer Zeit Otto Julius Bierbaum folgt.) </p>
+                     1900
+                     
+                     <p id="d9e3617">Die Gräben, die zwischen beiden bestehen, sind vor allem ex
+                        negativo auszumachen. So wird Bahr
+                        nicht explizit im Tagebuch des anderen genannt, als am 10. 1. 1900
+                        
+                        Andrian »Einigen«
+                        Vgl. Kommentar zum Brief Andrian an
+                        Michel, .
+                         einen Text vorliest. Ebenso zeigt es sich in Interaktionen Schnitzlers mit Felix Salten, in denen dieser eine Mittlerposition übernimmt, die einst Bahr besetzt hatte. Mit einer neuerlichen
+                        Annäherung war nicht unbedingt zu rechnen, und doch gestalten sich die gelegentlichen
+                        Kontaktaufnahmen durchwegs als Vorspiel für die intensivere Zeit der folgenden Jahre.
+                        Ein Wechsel von Manuskripten setzt ein, vorbereitet vom Privatdruck des Reigen, den Schnitzler im April schickt. Im Oktober folgt dann
+                        Bahr mit seinem neuen Stück, Der Franzl – von Schnitzler mit Lob bedacht –, woraufhin Schnitzler ihm seinen Lieutenant Gustl
+                        übermittelt, mit der beigefügten Bitte, ihn öffentlich zu lesen. Da dieser Text der
+                        erste in deutscher Sprache zur Gänze als stream of
+                        consciousness verfasst ist, ist die Suche nach einem Vorleser nicht zu
+                        unterschätzen: Schnitzler dürfte sich den Text
+                        eher gesprochen als gelesen vorgestellt haben.Die
+                        Wahl könnte auf Bahr gefallen sein, weil
+                        bereits Die Toten schweigen Elemente der
+                        Technik enthält. Schnitzlers Lektüre von Édouard Dujardins Les lauriers sont coupés fällt in die Zeit der ersten
+                        öffentlichen Lesung von Die Toten durch Bahr. (
+                        Tb
+                        
+                        2. 10. 1898
+                        , auch B I,354. Zum Einfluss Dujardins vgl. den Brief Schnitzlers an Brandes, 11. 6. 1901, Arthur Schnitzler, Georg Brandes:
+                        Ein Briefwechsel. Hg. Kurt Bergel. Bern: Francke 1956, S. 88.) Der Angefragte lehnt unter
+                        Hinweis auf die ihm mangelnde Technik ab, woraufhin Schnitzler sich noch eine Absage von Josef
+                        Kainz einholt, bevor er ihn dann am 23. 11. in Breslau (Wrocław) selbst vorliest – alles noch bevor der Text in der Weihnachtsbeilage der Neuen Freien Presse erscheint. </p>
+                     
+                     <p id="d9e3769">Ebenfalls im Herbst kommt es zuerst zu einer öffentlichen Erklärung mehrerer
+                        Theaterkritiker, die die Ablehnung von Der Schleier
+                        der Beatrice durch das Burgtheater
+                        kritisieren. Darunter Bahr, der Anfang
+                        Dezember ins 300 Kilometer entfernte Breslau reist, wo das Schauspiel zum ersten Mal gegeben wird. In seiner Besprechung
+                        schreibt er: »das reifste und reichste Werk, das Schnitzler noch geschaffen hat« ().</p>
+                     1901
+                     
+                     <p id="d9e3798">Das Jahr ist für beide voll mit öffentlichen Auseinandersetzungen und führt dazu,
+                        dass sie sich wieder näherkommen und die Gefälligkeiten sowie die gegenseitige
+                        Unterstützung zunehmen. Am 22. 2. 1901 findet die Gerichtsverhandlung
+                        statt, die Bahr und Bukovics gegen Karl Kraus
+                        angestrengt haben. Sie führt zur einzigen jemals verlorenen Ehrenbeleidigungsklage
+                        Kraus’.Der Prozess ausführlicher in: Alfred Pfabigan: 
+                        Karl Kraus/Hermann Bahr – revisited. In: H. B. ÖKeA 83–98.
+                         Auch Schnitzler wird in den
+                        Zeugenstand geladen und hat eigentlich nichts zu sagen. Sein Eintreten für Bahr bedeutet nur eine (bereits in den Tagen
+                        zuvor verabredete) Positionierung für diesen. Die Aussage Kraus’, zu der er als Zeuge gehört wurde, besagte, Bahr hätte als Freundschaftsdienst das
+                        1900 in Berlin gastierende Deutsche Volkstheater gegenüber
+                        dem gleichzeitig in Wien gastierenden Deutschen Theater
+                        
+                        Otto Brahms parteiisch besprochen. Dafür
+                        spricht einiges, nicht zuletzt Brahm selber
+                        (»in Wien hat mir Bahr statt des Gemüse des
+                        Ruhms einen Kranz von Sch– – aufs Haupt ›gedrückt‹«
+                        
+                        Otto Brahm, Gerhart Hauptmann: Briefwechsel
+                        1889–1912. Erstausgabe mit Materialien. Hg. Peter Sprengel. Tübingen:
+                        Günther Narr 1985, S. 154 (Deutsche Textbibliothek,
+                        6).
+                        ), aber der Nachweis gelingt nicht, und das mittelfristige Ergebnis ist
+                        ein nicht zu erwartendes, die Versöhnung Bahrs
+                        mit dem Berliner Kulturbetrieb. Am vorletzten Tag des Jahres noch bittet Bahr
+                        
+                        Schnitzler, bei Brahm in Berlin ein gutes Wort für ihn einzulegen, und die Unstimmigkeiten, auch mit Hauptmann, werden ausgeräumt. (Eine späte, aber
+                        bedeutende Folge davon: So landet Bahr beim
+                        zentralen Regisseur Schnitzlers, und zumindest
+                        mit Das Konzert (1909) gelingt es
+                        Bahr kurzfristig, den Bühnenerfolg des
+                        anderen zu überbieten.)</p>
+                     
+                     <p id="d9e3936">Während Schnitzler ihm den Weg nach Berlin bahnt, vermittelt umgekehrt dieser ihn zum Deutschen Volkstheater von Bukovics, an
+                        dem ein Einakterabend geplant wird. Die sieben verschiedenen Schauspiele, die später
+                        in den zwei Zyklen Marionetten und Lebendige Stunden veröffentlicht werden, sind
+                        dabei noch nicht endgültig zugeordnet, und Schnitzler bittet Bahr um seine
+                        Meinung. In diesem Jahr findet weiterhin ein Austausch von Manuskripten und
+                        Widmungsexemplaren statt, doch besonders den lobenden brieflichen Urteilen von Schnitzler muss mit Skepsis begegnet werden,
+                        soweit sie von seinen Tagebuchaufzeichnungen nicht gestützt werden. </p>
+                     
+                     <p id="d9e3967">Möglicherweise am paradigmatischsten für die gegenseitige Hilfe, die sich beide zu
+                        diesem Zeitpunkt im Kulturbetrieb leisten, kann die bestellte Rezension der Konservatoriumsvorstellung von Olga
+                        Gussmann – nachmalige Frau Schnitzler –
+                        verstanden werden, mit der sich Bahr im April
+                        für die Zeugenaussage ›bedankt‹.Die Vorgänge ausführlicher in: Martin Anton Müller: Hermann Bahr und Arthur Schnitzler im Konservatorium: Cherchez
+                        la femme! In: Ein Zoll Dankfest. Texte für die
+                        Germanistik. Konstanze Fliedl zum 60. Geburtstag. Hg. Susanne
+                        Hochreiter u. a. Würzburg: Könighausen  Neumann 2015, S. 43–49.
+                        
+                        </p>
+                     
+                     <p id="d9e4003">
+                        Bahr beginnt nun stärker, Schnitzlers Werk in größere Zusammenhänge zu stellen. In einem
+                        Fragment gebliebenen Feuilletonentwurf über Episode stellt er ihn als einen typischen Vertreter seiner Generation dar,
+                        mit der Vergangenheit brechend, dabei jedoch in der Tradition der »heimischen
+                        Litteratur« stehend (). In Erotisch, das am 22. 6. im Neuen Wiener Tagblatt erscheint, nimmt er die eben erschienene
+                        Frau Bertha Garlan als Ausgangspunkt, warum
+                        die Behandlung von Liebe bei den ›jungen Wienern‹ so zentral sei.</p>
+                     
+                     <p id="d9e4034">Wie schwierig Bahrs Stellung beim Neuen Wiener Tagblatt ist – er verfügt vor allem
+                        über die Unterstützung des Chefredakteurs Wilhelm
+                        Singer –, wird für Schnitzler und alle
+                        Abonnenten des Blattes sichtbar, weil der für den Feuilletonteil verantwortliche
+                        Redakteur Eduard Pötzl auf Erotisch
+                        
+                        Ende Juni mit einem eigenen Feuilleton, Lüsternheit, antwortet. Ebendieser Pötzl hatte bereits zu Jahresbeginn, als der Skandal rund um den Lieutenant Gustl losging, verhindert, dass ein
+                        Text von Schnitzler in das Blatt aufgenommen
+                        wurde ().</p>
+                     
+                     <p id="d9e4075">– Für Bahr der Prozess gegen Kraus; für Schnitzler die
+                        Anfeindungen anlässlich des Gustl, die das erste
+                        halbe Jahr einnehmen: Beide sehen sich einer publizistischen Gegenmacht ausgesetzt,
+                        gegen die sie eine lose Allianz eingehen. Zusammenfassen lässt sich dies mit einer
+                        Aussage Schnitzlers an Bahr, er habe nach »zeitweiligen Entfremdungen«
+                        nun ein aufrichtig freundschaftliches Verhältnis zu ihm gefunden (). Gleichsam als Bestätigung teilt Schnitzler die Erneuerung der Freundschaft auch Hofmannsthal mit.</p>
+                     1902
+                     
+                     <p id="d9e4110">Im Jahr 1902, in dem Schnitzler
+                        seinen 40. Geburtstag feiert und Bahrs Mutter stirbt, tut sich
+                        zwischen den beiden wenig. Sie sind sich grundsätzlich wohlgesinnt und bemühen sich,
+                        die Brüche zu kitten: Sie versichern sich beinahe krampfhaft der gegenseitigen
+                        Wertschätzung. In ihrem Austausch überwiegen die weitergereichten Bitten und
+                        Anfragen, irgendwelche Kleinigkeiten und Gefallen zu tun. Bahr bespricht die Lebendigen
+                        Stunden, die im Zug eines Gastspiels des Berliner
+                        Deutschen Theaters zum ersten Mal in Wien gegeben werden. Er agitiert, den Grillparzerpreis an Schnitzler zu
+                        verleihen. Es gelingt ihm nicht und trägt ihm den Tadel von Adele Sandrock ein. Die wiederhergestellte Beziehung zu Brahm führt im Juni und im
+                        Oktober zu mehreren Treffen zu dritt. Eine Vorlesungstournee im
+                        Verbund mit Hugo von Hofmannsthal, wie sie in
+                        einem Gespräch am 16. 6. überlegt wird, reift nie über die Idee
+                        hinaus.</p>
+                     1903
+                     
+                     <p id="d9e4161">Bereits im Dezember 1902 entzündete sich der Blinddarm Bahrs, und Schnitzler
+                        verwies ihn an seinen Bruder Julius, der am
+                        26. 1. operiert. Die Rekonvaleszenz dauert bis März, wobei Schnitzler zu jenen gehört, die regelmäßig
+                        Besuche am Krankenbett abstatten. Mitte März erscheint dann eine neuerliche Besprechung des Einakter-Zyklus
+                        Lebendige Stunden, diesmal zur ersten Wiener Inszenierung. Schnitzler vertraut seinem
+                        Tagebuch an, bei der Lektüre gerührt gewesen zu sein. </p>
+                     
+                     <p id="d9e4193">Durch die häufigen Besuche Schnitzlers bei Bahr kommt es auch zu einem Doppelinterview, als er Anfang
+                        April in eine ›home story‹ hineinplatzt. In diesen Tagen erscheint, nach
+                        dem Privatdruck aus dem Jahr 1900, der Reigen für alle käuflich erwerbbar im Wiener
+                        Verlag, doch die meisten Zeitungen lehnen Besprechungen ab. Aufgefordert von
+                        Schnitzler, versucht Bahr, ein Feuilleton zu platzieren. Pötzl verhindert es. Doch es scheint, als hätte Bahr erst dadurch Lust auf einen Kampf bekommen,
+                        und seit diesem Sommer plant er eine öffentliche Lesung des Reigen im Bösendorfer-Saal.
+                        Diese wird ihm ebenfalls verboten. Nun erwirkt er einen Besuch beim Ministerpräsidenten, was auch nichts an der
+                        Entscheidung ändert, aber für einiges Aufsehen in der Zeitungslandschaft sorgt und
+                        das Werk weiter bekannt macht. Auch einen mit Hilfe von Burckhard, der Jurist war, angefertigten Rekurs möchte Bahr publizieren; doch bis auf einen längeren
+                        Ausschnitt, den das Berliner Tageblatt bringt,
+                        wird selbst dieser von der Presse übergangen. </p>
+                     
+                     <p id="d9e4247">
+                        Bahrs Eintreten für den Reigen ist allerdings mehr als Engagement für einen Text und
+                        seinen Verfasser. Es ist auch Anlass zu einer Selbstreflexion über seine Rolle im
+                        Betrieb, die eigene – so sieht er es zumindest – geminderte Radikalität und damit
+                        wohl auch über das befürchtete Schwinden seines Einflusses. In der Folge nimmt er
+                        sich vor, wieder »frecher« werden zu wollen ().
+                        Derart kann man Bahrs Engagement für den Reigen, ebenso wie das parallel laufende
+                        publizistische Engagement für Gustav Klimt
+                        (Redaktion und Vorwort der Broschüre Gegen Klimt), als Versuch sehen,
+                        seine Wirkmächtigkeit auf die Probe zu stellen. Am Ende resümiert er den
+                        Oktober als »Streitmonat«.</p>
+                     
+                     <p id="d9e4278">Als im Frühjahr Bahr vorfühlte, ob er dem
+                        Freund die Kompilation von Theaterkritiken Rezensionen widmen dürfe, wandte Schnitzler dagegen ein, es würde nur bestätigen, was viele denken: sie wären
+                        »vercliquet« (). (Die Erlaubnis gibt er trotzdem.) Bahr selbst, den der Vorwurf nicht bekümmert,
+                        befürchtet etwas anderes: Vielleicht sind »
+                        Olbrich, Klimt, Moser, Schnitzler, Hugo doch
+                        nur Einzelereignisse« (, ),
+                        und es gibt keine Gruppe, es gibt keinen Nachwuchs.</p>
+                     1904
+                     
+                     <p id="d9e4320">Das Jahr 1904 ist in vielerlei Hinsicht eines der bedeutendsten im Leben
+                        Bahrs, und Siegfried Trebitsch hat behauptet: »Ein zukünftiger Biograph [] könnte sich seine Aufgabe nur dadurch erleichtern,
+                        daß er das Dasein seines Helden in zwei Epochen trennt und die Zäsur an dem Tag
+                        anbringt, an welchem Hermann Bahr, wie
+                        geschildert, zu dem Entschlusse gelangte, sich Klarheit über seinen
+                        Gesundheitszustand zu verschaffen.«
+                        
+                        Siegfried Trebitsch: Die Schicksalsstunde Hermann Bahrs. In: Neue Freie Presse, Nr. 24993, 13. 4.
+                        1934, S. 2 (auch in ders.: Chronik eines Lebens. Zürich, Stuttgart, Wien: Artemis 1951, S. 190).
+                        
+                        
+                        Trebitsch setzt diesen Moment nach dem
+                        Begräbnis Theodor Herzls am 7. 7.
+                        1904 an, als Bahr, Schnitzler und er beieinandersitzen und Bahr beginnt »was er so selten tat, von sich zu
+                        sprechen«. Dabei gerät ihm die Chronologie durcheinander, denn es war
+                        nicht der Tod Herzls im Juli, der
+                        Bahr mit seiner eigenen Sterblichkeit
+                        konfrontierte, sondern sein vom Arzt ausgesprochenes ›Todesurteil‹ in Form einer
+                        Herzerkrankung, das er bereits im Januar erhalten hatte. Aber im Ergebnis, was auf
+                        eine hoffnungslose Diagnose hin zu tun sei, dürfte Trebitsch wieder recht haben: »›Ein schwerer Entschluß‹, sagte ich
+                        nachdenklich. ›Ein sehr leichter‹, fiel Arthur
+                        Schnitzler ein, ›wenn es um Leben und Tod geht. Denn jetzt kann ich mir
+                        schon denken, was dir fehlt. So ein überlastetes, nervenkrankes Nikotinherz kann
+                        noch einmal genesen, aber freilich, du hast keine Wahl. Nimm es nur so schwer du
+                        kannst.‹ [] Als wir voneinandergingen, wußten wir, daß
+                        die schönste Zeit des täglichen Umganges mit ihm für immer vorüber
+                        war.«Der Arzt schickt
+                        Bahr zum Kuraufenthalt nach Marbach am Bodensee, oder, wovon der Patient überzeugt ist, zum
+                        Sterben. In Überwindung des Urteils und der Krankheit reist er von dort ab und begibt
+                        sich auf eine Reise nach Griechenland (und verzichtet auf das Zusammentreffen mit Schnitzler in Neapel). Die griechische Reise führt nach der Heimkehr zu seinem Text Dialog vom Marsyas, mit dem ihm erstmals wirklich eine ebenso theoretische
+                        wie programmatische Schrift gelingt, die von den Jung-Wienern mit Lob überschüttet wird. Zeichen ihres besonderen Status ist auch, dass
+                        Schnitzler schriftliche Überlegungen zu der Lektüre
+                        anstellt.Als »graphische Erklärung« () ist sie zudem Vorläufer der Diagramme in Der Geist im Wort und der Geist in der Tat.
+                        </p>
+                     
+                     <p id="d9e4448">Aber nicht nur Herzls Tod, eine weitere
+                        wichtige Veränderung innerhalb des Beziehungsgeflechts findet statt: Bahrs Bruch mit Hugo und Gerty von Hofmannsthal.
+                        Anfänglich geht es in die andere Richtung, eine große emotionale Nähe zu Gerty bildet sich heraus, die den Anstand gewahrt
+                        haben dürfte. Umso ratloser zeigen sich ihre Briefe, als er ab September
+                        davon nichts mehr wissen will.
+                        Vgl. Bw Bahr/Hofmannsthal 899–900.
+                         Auslöser war, dass er in der Hofoper
+                        
+                        Anna Bellschan von Mildenburg zum ersten Mal
+                        singen gehört hat. Er beginnt nun intensiv um seine zukünftige zweite Frau zu werben.
+                        Freilich erfahren die Freunde nichts Näheres, einzig die Behauptung, in einem
+                        »Durcheinander« () zu leben, ist ein magerer
+                        Hinweis. Einen weiteren Puzzlestein des Bruchs mit Hofmannsthal stellt die kritische Lektüre des Manuskripts des Geretteten Venedig dar, das bei ihm den Eindruck
+                        einer künstlerischen Sackgasse erweckt, gerade so wie er sie schon bei Schnitzler ( und ) und Eleonora Duse
+                        Zwar nicht explizit als Irrweg, aber vgl.
+                        Elsbeth Dangel-Pelloquin: »Mondaine Stimmungsakrobaten«.
+                        Bahrs und Hofmannsthals Kreation der Moderne am Beispiel von Eleonora Duse
+                        und Isadora Duncan. In: H. B. ÖKeA 55–81, hier: S.
+                        67.
+                         wahrgenommen habe. Mögen Entwicklungen im Leben Bahrs Ursache der Entfremdung sein, so fällt es auf, dass auch
+                        zwischen Hofmannsthal und Schnitzler der überlieferte Kontakt deutlich loser wird.
+                        Vgl. Elsbeth Dangel: »Halb zufällig, halb absichtlich«. Die
+                        Inszenierung von Brüchen in Hofmannsthals Briefwechseln. In: Hofmannsthal Jahrbuch, Jg. 17, 2009, S.
+                        147–170.
+                        </p>
+                     
+                     <p id="d9e4543">Das ganze Jahr über zeigt sich die Freundschaft zwischen Schnitzler und Bahr als
+                        gut, freundschaftlich und inspirierend. Das weist sich, wenn man man verfolgt, wie
+                        genau er den Einsamen Weg in Marbach studiert und Trebitsch aus Berlin von der Uraufführung Bericht erstatten lässt. (Aber dass Schnitzler als Theateragent für ihn tätig wird, verbittet er
+                        sich.) Bahrs Bewunderung für das Stück ist
+                        echt, auch wenn er manche Bedenken hat. Seine Identifikation mit Fichtner geht so
+                        weit, dass er im Herbst überlegt, ihn auf einer Bühne zu spielen (). Die Besprechung des Puppenspielers vom
+                        13. 12. findet Schnitzler
+                        falsch. Aber diese inhaltlichen Differenzen zeigen erst den guten Umgangston, den
+                        die
+                        beiden gefunden haben.</p>
+                     
+                     <p id="d9e4585">Bei Schnitzler, der viele gemütliche Treffen,
+                        häufig im Beisein von Olga, im Tagebuch
+                        vermerkt, reichen die Spuren Bahrs bis ins
+                        Werk. Drei Tage nachdem er am 25. 9. 1904 mit ihm und Hofmannsthal einer privaten Lesung des Grafen von Charolais von Beer-Hofmann beigewohnt hat, ist die Überarbeitung von Zum großen Wurstel für das Abschreiben fertig. Der burleske
+                        Einakter war 1901 einmal aufgeführt worden, in der Überarbeitung stellt
+                        er der Figur des Todes der ersten Fassung (
+                        CUL, A 87) die Hauptfiguren aus Bahrs Der Meister und aus
+                        Der Graf von Charolais zur Seite. (Der »Tod«
+                        wird damit Hofmannsthals Der Tor und der Tod zugeordnet.) In Aufnahme der fünften Szene
+                        des dritten Akts von Der Meister, in der Bahr mit Hilfe seines Protagonisten Duhr dem
+                        Publikum den Begriff »Wurstl« erklärt, darf in Schnitzlers Burleske dieser nun zum Dichter zärtlich das titelgebende
+                        »Wurstl« sagen.</p>
+                     
+                     <p id="d9e4649">Neben dem Wurstel ist Bahrs Rolle als Impulsgeber für das Fragment gebliebene
+                        Theaterstück Das Wort bedeutsam. Am 6.
+                        8. erzählt er Schnitzler die Anekdote,
+                        der zufolge Lina Loos, die Frau des Architekten, bei einer Sitzung
+                        zur Förderung Peter Altenbergs gefordert hätte,
+                        man solle diesen sterben lassen. Daraus bastelt Schnitzler eine erste Stoffnotiz für das »Literatenstück«. Ende des Monats
+                        erschießt sich der noch nicht zwanzigjährige Heinz
+                        Lang – Sohn von Bahrs Studienfreund Edmund Lang und der Frauenrechtlerin Marie Lang – in Kidderminster, weil Lina Loos nicht mit ihm
+                        durchgebrannt war. Bahr dürfte davon von Tini Senders gehört haben (), und es ist anzunehmen, dass er es bei einem der häufigen Treffen auch Schnitzler erzählte. Dieser führte die beiden
+                        Ereignisse zusammen und verfasste im September den Plan für Das Wort. (Hofmannsthal bekommt dieselben Anekdoten erst Ende September
+                        von Bahr zu hören und verfasst ebenfalls
+                        Stoffskizzen,Vgl. 
+                        Hofmannsthal: Aufzeichnungen (wie Anm. 22), S. 485, 488.
+                         vergisst aber in der Folge, woher es es weiß, .)</p>
+                     1905
+                     
+                     <p id="d9e4740">Die im Vorjahr einsetzenden Veränderungen im Leben Bahrs (Krankheit, Beziehung zu Anna von
+                        Mildenburg) zeigen sich darin, dass er das ganze Jahr über nach Möglichkeiten
+                        sucht, sich vom Tageszeitungsjournalismus zu verabschieden. Dessen ungeachtet
+                        verfasst er noch drei Besprechungen von Inszenierungen (Freiwild, Zwischenspiel, Der grüne Kakadu), in
+                        denen er durchwegs Lob äußert und Schnitzler zum
+                        größten Denker der deutschsprachigen Bühne erklärt. Dieser kündigt an, ihm Der Ruf des Lebens zu widmen, weil darin
+                        »vielleicht eine Ahnung von dem Wunsch« erfüllt wäre, den Bahr in einem früheren Aufsatz gefordert hatte
+                        (), ein Stück, das die letzte Nacht vor einer anbrechenden
+                        neuen Zeit zeigt. Bahr vollendet die zirkuläre
+                        Beeinflussung in seiner neuen Textform, der Kolumne Tagebuch,
+                        in der er immer wieder bis an sein Lebensende in unterschiedlichen Zeitschriften und
+                        Zeitungen publiziert. Dort äußert er sich positiv über den Ruf des Lebens, den er selbst angeregt hatte. (Einer der zwei
+                        Nachrufe, die Bahr
+                        
+                        1931 über seinen Freund schreibt, enthält auch einen Reflex auf diese
+                        Fragen nach der Generation und ihrem Tatendrang, wenngleich ins Gegenteil ihres
+                        ursprünglichen Ansinnens verkehrt, .)</p>
+                     
+                     <p id="d9e4795">Zwischen den veröffentlichten Texten Bahrs und
+                        den Briefen mit Lektüreeindrücken zu übermittelten Manuskripten auf der einen Seite
+                        und den privaten Aufzeichnungen auf der anderen zeigen sich bedeutsame Unterschiede
+                        in der Gewichtung der Inhalte. Nicht immer ist dabei der Opportunismus so deutlich
+                        wie in dem Fall des auf den Armen Narren
+                        gemünzten »abgeschmackt« im Tagebuch Schnitzlers (), das im Brief an Bahr zu »eines deiner merkwürdigsten Produkte« wird ().
+                        Schnitzler wollte sein Tagebuch
+                        veröffentlicht wissen, ihm war also diese Gegenüberstellung öffentlicher und
+                        privater Stimmen ein Anliegen. Die von Schnitzler gelesenen Stücke – Der arme
+                        Narr, Die Andere
+                        (»schlecht«, ), Der Club der Erlöser (»merkwürdig, feuilletonistisch,
+                        manieriert«, ) zeigen, wie wenig er von dem
+                        Bühnenautor Bahr hält. Vielleicht deswegen
+                        verschieben sich in diesem Jahr im Umgang die behandelten Themen hin zur
+                        gegenseitigen Kritik. Treffen finden dagegen kaum statt. </p>
+                     1906–1907
+                     
+                     <p id="d9e4849">Im Jahr 1906 scheint es dem Theaterkritiker Bahr zu gelingen, Regisseur und Theaterleiter zu werden. Gegen
+                        Ende des Vorjahres wurde Bahr als Oberregisseur
+                        am Münchner Hoftheater fixiert. Nun plant er, den
+                        Ruf des Lebens auf den Spielplan zu setzen.
+                        Doch die konservative Presse Münchens schießt sich auf ihn ein, und so wird aus einer inhaltlichen Debatte ein
+                        Taktieren, wie man Bahr aus dem Vertrag bekommt
+                        respektive wie es ihm gelingt, eine gute Ablöse zu erhalten. Als Nächstes schließt
+                        Bahr mit Max Reinhardt einen Vertrag über mehrere längere Aufenthalte als Dramaturg
+                        und Regisseur an dessen Bühnen in Berlin. Auch hier wird er für Schnitzler tätig
+                        und möchte selbst die Regie der Liebelei
+                        übernehmen (). Diese wird aber erst im Herbst und ohne ihn
+                        inszeniert, das von Schnitzler empfohlene Märchen überhaupt nicht. (Dass sich Schnitzler und Reinhardt in den meisten Fällen nicht einigen können, davon gibt ein Brief
+                        beredtes Zeugnis, in dem Bahr aber nur eine
+                        Randfigur darstellt, .)</p>
+                     
+                     <p id="d9e4910">Die Treffen zwischen den beiden werden in dieser Zeit rar. Bahr hat mit seinem Wien
+                        betitelten Buch offen gesagt, dass er die Stadt, in der er wohnt, verachtet. Er ist
+                        selten in Wien, und wenn, dann dominiert seine Beziehung zu Anna von Mildenburg. Gelegentlich gibt er Schnitzler eine Arbeit von sich zu lesen (Faun, Ringelspiel, Die gelbe Nachtigall), den Einakter Die tiefe Natur widmet er »Anatol«, aber mehr aus taktischen als aus emotionalen Gründen. Die beiden
+                        sind sich wieder fremd geworden. Bezeichnend der übergangene Schnitzler, wenn Bahr am
+                        11. 9. 1905 an Beer-Hofmann
+                        schreibt: »Seit Burckhard in Sankt Gilgen und Hugo mir innerlich abhanden
+                        gekommen ist, sind Sie, lieber Richard, der
+                        einzige Mann, der mir menschlich etwas ist.«
+                        YCGL, MSSS 30 f. Auch ein paar Jahre später gibt es eine
+                        vergleichbare Aussage, am 29. 4. 1913 in einem Brief an Johannes Müller, schreibt Bahr, alle seine Freunde wären – mit Ausnahme von Wolfgang Heine – tot (
+                        TMW, Abschrift). 
+                        Auf der anderen Seite konstatiert Schnitzler, dass zu Bahr (wie auch zu
+                        Kainz
+                        Daran ist kurios, dass Kainz seit jenem mit Bahr der nächste war, der mit Schnitzler das Du-Wort tauscht, .) kein
+                        tieferes Verhältnis zu erlangen sei (), und überträgt das
+                        überhaupt auf alle ehemals existenten Beziehungen unter den Wiener Literaten: »Es gibt Momente da mich ein Grauen fasst, wenn ich in
+                        diesen ›Freundeskreis‹ schaue.« ()</p>
+                     1908–1909 
+                     
+                     <p id="d9e5029">Ein Motiv verfestigt sich, das Bahr in einem
+                        Interview neutral formuliert: »Bei Schnitzler ist es das Judentum, sind es die starken Erlebnisse in dem
+                        Milieu dieser Stadt 
+                        Wien
+                        , die ihm Wirklichkeit und Wirkung geben.«
+                        
+                        Hermann Menkes: Bei Hermann Bahr. In: Neues Wiener Journal, Jg. 16, Nr. 5193, S. 4–5, hier: S. 5 (erneut,
+                        hg. von Ursula Renner in: Hofmannsthal Jahrbuch, Jg. 24
+                        (2016), S. 49–58).
+                         In wertenderen Aussagen dazu, so bereits im abschätzigen »Premièrenjuden«
+                        von 1901 () und einer Tagebuch-Glosse zum Publikum des Zwischenspiels (1905, ), bereiteten sich die ablehnenden Äußerungen zum Roman Der Weg ins Freie vor. Bahr bedient klischeehafte Stereotypen des jüdischen
+                        Großbürgertums, um zugleich die singuläre Stellung der Juden im Vergleich zu anderen
+                        Völkern der Monarchie zu negieren. Polemisch verkürzt sind es seine Vorurteile, die
+                        ihn darin bestärken, dass es sich nicht lohnt, das Judentum zu thematisieren.</p>
+                     
+                     <p id="d9e5086">Es verwundert nicht, dass Schnitzler von Bahrs Inhalten wenig hält. Auf die Zusendung von
+                        Büchern reagiert er brieflich kaum mehr, Diskussionen weicht er aus. Zahlreiche
+                        Stellen belegen dies, seien es die handschriftlichen Notizen zur Besprechung seines Romans Der Weg ins Freie () –
+                        »fabelhaft dumm« () – oder das als
+                        »Schmarrn« abgetane Konzert
+                        (). Doch diese negativen Urteile, die für ihn nicht immer
+                        so bestanden haben mögen, erlauben ihm nun endlich eine feste Position zu seinem
+                        Freund einzunehmen, die bis zum Lebensende hält: Dieser wäre »Knecht
+                        vorgefaßter Meinungen« (), »in all seiner
+                        Unfähigkeit jemals irgend eine Sache klar, frei, rein anzusehen, ein wundervolles
+                        Exemplar Mensch« (). Er hat nunmehr, wie er dem
+                        Tagebuch anvertraut, eine »Innerlich klare aufrichtig freundschaftliche
+                        Beziehung mit Bahr (den ich nie
+                        spreche)« ().</p>
+                     
+                     <p id="d9e5132">Gründe, warum sie sich selten sprechen, gibt es genug. Zuvorderst ist es die
+                        Vortragstätigkeit, die Bahr immer wieder
+                        wochen- und monatelang aus Wien fortführt. Für die Anzahl der Personen, die ihn so erlebt, gibt er selber einen
+                        Anhaltspunkt, 1.600 erwähnt er, waren bei einer Veranstaltung in Frankfurt am Main (). Gelesen wird dabei immer wieder Schnitzler, doch geht es bei den Lesungen nicht mehr um die
+                        ästhetische Verortung Jung-Wiens, sondern um eine Literaturgeschichte Österreichs und damit im höheren Sinn darum, Österreich als Gegenpol zu Deutschland politisch begreiflich zu machen. Die
+                        Veranstalter können üblicherweise frei aus seinem Repertoire wählen.
+                        1913 besteht es aus »30 Jahre deutscher Literatur«, »Erziehung«,
+                        »Bayreuth« und »Frauenrecht«. Im Krieg werden daraus direkt politische
+                        Vorträge. Danach, in der Zwischenkriegszeit, hält er keine Tourneen mehr ab und tritt
+                        kaum mehr auf.</p>
+                     
+                     <p id="d9e5170">Nachdem er im Frühjahr 1909 von seiner ersten Frau geschieden war, heiratet er im Sommer
+                        seine mehrjährige Partnerin Anna von
+                        Mildenburg. Das lässt ihn sich zu ihrem Manager aufschwingen, der sie auf Reisen
+                        begleitet und mit ihr Teile des Sommers in Bayreuth verbringt, wo sie bei den Festspielen engagiert ist. Außerdem dürften die
+                        beiden sich schon früh einig gewesen sein, einen anderen Wohnort als Wien anzustreben. Für die Hochzeit tritt er wieder in die katholische Kirche ein,
+                        und ein Erweckungserlebnis wenige Wochen danach in einem Hotelzimmer in Königsberg bereitet seine – wie sich weisen wird – letzte Häutung vor. Er findet zum
+                        katholischen Glauben, was aber erst 1912 öffentlich ruchbar wird. </p>
+                     
+                     <p id="d9e5194">
+                        1903 erlebte mit Der Meister zum
+                        ersten Mal ein Stück Bahrs bei Otto Brahm eine Uraufführung, 1907
+                        kommt Die gelbe Nachtigall dazu, und seither
+                        teilen sich Bahr und Schnitzler ihren wichtigsten Berliner Regisseur. Dessen Präferenz für den Letzteren ist unverhohlen, aber trotzdem
+                        ist es das Konzert
+                        
+                        Bahrs, das 1909 zum größten
+                        finanziellen Erfolg Brahms wird. Vorangegangen
+                        waren mehrmonatige Überlegungen, es mit Komtesse
+                        Mizzi aufzuführen, wovon zuletzt aber, Schnitzler nur zu recht, abgesehen wurde.</p>
+                     
+                     <p id="d9e5243">In Österreich ist ihr ›standing‹ schwieriger, weil sie von offiziellen Stellen abgelehnt
+                        werden. Das veranschaulicht ein Tagebucheintrag Schnitzlers, wonach eine neue Zeitschrift von der Regierung nur gefördert
+                        würde, wenn Bahr, Burckhard und Schnitzler
+                        
+                        nicht Herausgeber seien ().</p>
+                     1910–1911
+                     
+                     <p id="d9e5271">
+                        Bahr und Schnitzler haben, mit größeren Ausnahmen der eine, mit einer bedeutsamen
+                        (Reigen) der andere – den gleichen Berliner Verleger. Als sich Schnitzlers
+                        fünfzigster Geburtstag und eine Gesamtausgabe abzuzeichnen beginnen, wird von S. Fischer eine Monografie angedacht, die er
+                        gerne von Bahr geschrieben wüsste. Die
+                        überlieferten Dokumente sind nicht eindeutig, und so lässt sich nicht mit Gewissheit
+                        sagen, ob Schnitzler die Monografie begrüßt
+                        hätte oder ob er nur aus Höflichkeit nicht rundheraus ablehnt. Bahr sagt aus Überlastung ab, obwohl er über keinen lebenden
+                        deutschsprachigen Autor so gerne schriebe.</p>
+                     
+                     <p id="d9e5302">Über und durch Brahm sind sie neuerdings in
+                        ständigem Austausch. Etwa weil überlegt wird, die Komtesse Mizzi mit einem neuen Lustspiel Bahrs (Die Kinder, dann Das Tänzchen) zu geben, oder weil sich abhängig vom jeweiligen
+                        Erfolg Termine für die Stücke des anderen finden müssen. Zum ersten Mal seit langem
+                        findet Schnitzler für ein Schauspiel Bahrs – Das
+                        Tänzchen – lobende Worte. Bei einer gemeinsamen Inszenierung mit Mizzi – zu der es nicht kommt – würde »ein
+                        sanfter Hauch von Anarchie [] das Haus
+                        durchziehen« (). Das Lob bleibt eine Ausnahme, den
+                        nächsten Roman in Bahrs Reihe österreichischer Romane – O Mensch –, kann er nur mit
+                        einer Latte an Attributen klassifizieren: »ein recht abgeschmacktes, gräßlich
+                        geschriebnes, greisenhaft geschwätziges Buch« (). </p>
+                     
+                     <p id="d9e5354">Schauplatz ist wieder einmal Wien und das Burgtheater. Nunmehr unter neuer
+                        Leitung, ist für Ende 1910 die Uraufführung von Der junge Medardus angesetzt. Bahr, der dieses Theater seit Mitte 1909 in größeren
+                        Feuilletons für das Neue Wiener Journal bespricht,
+                        lobt gegenüber Schnitzler das Stück, glaubt
+                        jedoch nicht an eine gute Inszenierung in der Burg.
+                        Schnitzler schreibt ihm nicht nur eine
+                        ausführliche poetologische Erklärung des Stücks, sondern ist tief verärgert über Bahrs Ankündigung, es nicht zu besprechen.
+                        Ziemlich genau ein Jahr später rezensiert
+                        
+                        Bahr zum letzten Mal ein Schauspiel Schnitzlers, den Einsamen Weg. Dessen Tagebucheintrag dazu findet die Kritik »bei
+                        aller Anerkennung von schlecht verhehltem Mißmut erfüllt« (). </p>
+                     
+                     <p id="d9e5410">Im Tagebuch von Hugo Thimig, Schauspieler und
+                        Regisseur am Burgtheater, ist am 25. 10.
+                        1910 ein um mehrere Ecken erzähltes Gerücht überliefert, die »Clique: Bahr, Schnitzler, Salten« () würde sich für Adele Sandrocks Rückkehr an das Theater
+                        starkmachen. Das ist ein solitäres Gerücht, für das bislang keine weiteren Indizien
+                        vorhanden sind. Es verweist zugleich auf mögliche Leerstellen, auf den Einfluss
+                        innerhalb Wiens, den beide kurz vor ihrem fünfzigsten Geburtstag besitzen. </p>
+                     
+                     <p id="d9e5436">Eine andere Zusammenstellung von Namen findet sich immer wieder in Schnitzlers Tagebuch: Bahr, Salten, Burckhard, Alfred von
+                        Berger, das sind für ihn, stets abschätzig, doch den innewohnenden Reiz nicht
+                        kaschieren könnend, Paradebeispiele von Feuilletonisten.</p>
+                     1912–1913
+                     
+                     <p id="d9e5456">Zwei Todesfälle stellen einschneidende Ereignisse des Jahres 1912 dar.
+                        Zuerst stirbt im März der ehemalige Direktor des Burgtheaters, Max Burckhard. Die aus
+                        diesem Anlass verfassten Zeitungsaufsätze Bahrs
+                        mit Erinnerungen an den Verstorbenen erscheinen eineinhalb Jahre später als Buch, und mit Abstand von über
+                        zehn Jahren bezeichnet Schnitzler es als zum
+                        Besten gehörend, was Bahr geschrieben hat (). Sein eigener Versuch der Erinnerungen an den Verstorbenen
+                        gewinnt kaum einen Mehrwert zu den Anekdoten, die im Tagebuch stehen, und es
+                        verwundert nicht, dass er von einer Veröffentlichung absieht. Trotzdem füllen sie
+                        kleinere Lücken des Tagebuchs auf und lassen in Bahr den Verbindungsmann zum Burgtheaterdirektor Burckhard
+                        erkennen.</p>
+                     
+                     <p id="d9e5491">Der Tod Otto Brahms im November bleibt in den
+                        Dokumenten unerwähnt, bedeutet aber, dass beide den für sie über mehrere Jahre
+                        bedeutendsten Regisseur verlieren. Nachdem sie sich in den Jahren zuvor fast nur bei
+                        Beerdigungen getroffen hatten, kommt es 1912 zu ein paar persönlichen
+                        Begegnungen abseits davon. </p>
+                     
+                     <p id="d9e5499">Im Mai feiert Schnitzler seinen
+                        fünfzigsten Geburtstag, im Juli des Folgejahres Bahr den seinen, und die Anerkennung, die die beiden zu diesem Zeitpunkt
+                        erfahren, zeigt sie am Zenit der öffentlichen Aufmerksamkeit. Sie schenken sich
+                        gegenseitig ihre Porträts und versprechen sich, ihre Freundschaft zu wahren. Doch
+                        die
+                        Gespräche, die stattfinden, in Schnitzlers neuem
+                        Haus in der Sternwartestraße, am Semmering, am Lido, sind
+                        substanzlos und »unintim« (). </p>
+                     
+                     <p id="d9e5526">
+                        Bahrs öffentliche Geburtstagsadresse (die auch in seinem
+                        eigenen Geburtstagsbuch Das Hermann-Bahr-Buch
+                        Aufnahme findet) ist für den Jubilar »dumm« und ein neuerlicher Fall von
+                        Feuilletonismus ( und ). Von Interesse
+                        am Text ist weniger, was er über den Jubilar, als vielmehr, was er über den
+                        Jubilanten verrät. Denn das, was er Schnitzler
+                        ans Herz legt, spiegelt seinen eigenen Werdegang. Er hat nun eingesehen, was er nicht
+                        einsehen wollte – er ist katholisch. Er ist nach Salzburg gezogen. Und – und das ist ein neues bestimmendes Moment, das für beide Seiten
+                        gilt – Aussagen über die Freundschaft sind nunmehr gespickt mit Selbstzitaten. Anders
+                        gesagt: Fortan können sie sich im Bewusstsein der eigenen Historizität dahinter
+                        verstecken.</p>
+                     
+                     <p id="d9e5549">Ein anderes Moment ihres Erfolgs zeigt sich in zwei unterschiedlichen Hilfeansuchen
+                        bedrängter Schriftsteller. Arno Holz, für den
+                        sie beide gemeinsam einen Aufruf zeichnen und der sich 1917 nochmals
+                        diesbezüglich meldet, und Peter Altenberg, der
+                        in einer psychiatrischen Anstalt untergebracht ist, bitten um Unterstützung. (Die
+                        Koinzidenz zeitlicher Nähe der Bittbriefe lässt dabei deutlich die vergleichbare
+                        monomanische Art beider erkennen.)</p>
+                     1914–1917
+                     
+                     <p id="d9e5562">Die Kriegsjahre verbringen sie in Salzburg und Wien sowohl physisch wie geistig fern voneinander. Während Schnitzler sich von der allgemeinen Euphorie nicht anstecken
+                        lässt, seine Veröffentlichungen nahezu einstellt und gelegentlich in Erklärungsnot
+                        kommt, zu wenig Patriot zu sein, führt Bahr
+                        seine literarische Produktion im Sinn von Propaganda und Kriegsbegeisterung. Während
+                        er zu Beginn des Jahres 1914 – aufgrund seines Eintretens für die
+                        Südslawen – noch eine persona non grata war, ist er nun in der Flüchtlingshilfe tätig
+                        und bezieht zunehmend offiziöse Positionen. Einen jener in dieser Verfassung
+                        publizierten Texte, den Gruß an Hofmannsthal
+                        , nennt Schnitzler in einer ersten Reaktion
+                        »albern« (), um ihn im nächsten Jahr als
+                        symptomatisch zu begreifen: »Feuilletonismus. / Als Paradigma. Der Gruß Bahrs an
+                        Hofmannsthal
+                         im Neuen Wiener Journal, Beginn des
+                        Krieges. / Er sendet ihm Grüße ans Biwakfeuer, in den Kanonendonner; indes ist H. im Ministerium. (Entweder weiß es Bahr
+                        oder er hat sich nicht orientiert.) []« ()Auch Karl
+                        Kraus hat in der 19. Szene (»Im Kriegsfürsorgeamt«) von Die letzten Tage der Menschheit das Repräsentative des Texts
+                        erkannt. Die Parallelen zwischen Schnitzlers und
+                        Kraus’ Äußerungen, unabhängig voneinander
+                        abgefasst, sind frappant.Nur dass beim einen Leopold Andrian Verse von Verlaine, beim anderen von Baudelaire rezitiert.
+                        </p>
+                     
+                     <p id="d9e5647">An den fiktionalen und theoretischen Werken Bahrs jener Zeit (Der muntere
+                        Seifensieder, Die Stimme, Himmelfahrt sowie die Biografie eines Bischofs, Rudigier) irritiert Schnitzler neben der politischen Dimension zweifellos deren
+                        forcierter Katholizismus.</p>
+                     
+                     <p id="d9e5669">Ein Gemeinsames lässt sich nur in der Musik ausmachen, als sich Schnitzler
+                        
+                        1915 einspannen lässt, Anna
+                        Bahr-Mildenburg für ein Wohltätigkeitskonzert in Wien zu gewinnen. Trotzdem stellt sich Zusammengehörigkeit auch von außen her,
+                        beispielsweise durch einen Angriff, den die Kölnische Zeitung am
+                        17. 11. 1915 anlässlich von Bahrs
+                        
+                        Der Querulant publiziert: Bahr mit seinem Stück, Schnitzler (Komödie der Worte), Schönherr (Der
+                        Weibsteufel) lieferten Belege, dass der »Bundesbruder« eine Reformation von
+                        innen benötige, um mit der deutschen Weltkultur mithalten zu können. Charakterlich
+                        bezeichnend: Während Schnitzler die Wut darüber
+                        anzumerken ist, kennen wir keine Reaktion von Bahr. Überhaupt weisen zu dieser Zeit ausschließlich die Aufzeichnungen Schnitzlers eine fortdauernde Wahrnehmung des
+                        anderen nach.</p>
+                     
+                     <p id="d9e5729">
+                        Bahr, der nun mit politischen Vorträgen tourt,
+                        spielt 1917 mit dem Gedanken, anlässlich zweier Auftritte in Wien, Schnitzler aufzusuchen. Die
+                        Veranstaltungen werden – wegen Kohlennot – abgesagt, und während Schnitzler zufällig auf Anna
+                        Bahr-Mildenburg trifft und mit ihr eine halbe Stunde spricht, findet
+                        ansonsten kein privates Treffen statt. (Zu diesem Anlass erklärte sie, sie halte Bahrs Katholizismus für einen
+                        »Übergang«, .) Bei der Wiederholung
+                        Ende April ist ebenfalls kein Treffen anzunehmen. Als Schnitzler im Tagebuch festhält, dass Gerty Hofmannsthal die Rede im Piusverein überzeugend fand, drückt er seine Zweifel durch
+                        zusätzliche Anführungszeichen aus: »›überzeugend‹« (). </p>
+                     1918
+                     
+                     <p id="d9e5775">Im Frühjahr 1914 waren Olga und Arthur Schnitzler in Salzburg ohne Bahr anzutreffen. So sind es fünf Jahre seit dem
+                        letzten nachweisbaren Zusammentreffen, als sie sich im Herbst 1918
+                        wieder einige Male begegnen. Den Rahmen bildet die Ernennung Bahrs zum 1. Dramaturgen des k.
+                        u. k. Hofburgtheaters, der unter dem Intendanten Leopold Andrian das Programm bestimmen soll. Die dazu
+                        notwendigen Verschiebungen sind immens. Zentral: der an die Macht gekommene Kaiser
+                        Karl, der von aussichtslosem Posten
+                        versucht, Österreich-Ungarn zu retten, und dabei auch gewagte Entscheidungen trifft. Zehn Jahre zuvor, als
+                        Bahr sein Wien-Buch publizierte, dürfte eine Order bestanden haben, dass Bahr nicht im Burgtheater gespielt werden darf. Nun bewegte er sich in zugleich klerikalen
+                        wie monarchistischen Kreisen und besaß den Segen des Kardinals Piffl. </p>
+                     
+                     <p id="d9e5826">Während Hugo von Hofmannsthal sich Hoffnungen
+                        macht, mit Andrian und Bahr seien Vertreter Jung-Wiens an die Schnittstellen der österreichischen Kulturinstitution gelangt – und dementsprechend enttäuscht wird –, ist Schnitzler von Anfang an pessimistischer
+                        eingestellt. Aber dass er Die Schwestern
+                        zurückbekommt – mit Strichen von Andrian oder
+                        Bahr –, die alle ›pikanten‹ Stellen
+                        ausweisen, weswegen eine Aufführung sicher nicht stattfinde, das kommt auch für ihn
+                        unerwartet. Als ihm zudem das erworbene Recht, alle Generalproben zu besuchen,
+                        beschnitten werden soll (und dies dazu noch per Mittelsmann ausgerichtet wird), reagiert er unwirsch. Abseits
+                        dieser nicht akzeptierten Uraufführung plant Bahr zumindest die Stücke Liebelei
+                        (später führt er aus, dass dafür Schnitzlers
+                        Junggesellenwohnung aus dem Jahr 1892 nachgebaut hätte werden sollen,
+                        ) und Der einsame Weg
+                        auf dem Spielplan zu halten.</p>
+                     
+                     <p id="d9e5877">Am 28. 10. 1918 kommt es dann bei Berta
+                        Zuckerkandl zum allerletzten Treffen der beiden. Die entsprechenden privaten
+                        Aufzeichnungen sind dabei wieder einmal symptomatisch: Bahr erwähnt die Begegnung ohne Inhalte, Schnitzler findet, jener rede »geistreich-albernen
+                        Unsinn« ().</p>
+                     1919–1921
+                     
+                     <p id="d9e5899">
+                        Bahrs Zeit am Burgtheater kam in mehrfacher Hinsicht zu spät: für Österreich, das durch die Niederlage im Weltkrieg sich selber nicht mehr glich, für die
+                        Entwicklung einer spezifisch österreichischen Literaturströmung, der Bahr zu dem
+                        Zeitpunkt schlichtweg nicht mehr angehörte, und für ihn persönlich, denn der
+                        schlechte Gesundheitszustand führt dazu, dass er im Frühjahr 1919 und
+                        damit schon vor Ende der Theatersaison aufgeben muss. Er räumt sein Hotelzimmer in
+                        Wien und siedelt zurück nach Salzburg. In dieser Zeit äußert sich Schnitzler
+                        ungewohnt direkt bei Zuckerkandls über
+                        ihn, indem er zur Erheiterung der Anwesenden aus der Kriegsschrift Schwarzgelb vorliest. – Sein Urteil über Bahr: »Ein Wortdelirant – manchmal genial –«
+                        ().</p>
+                     
+                     <p id="d9e5943">Die Nachkriegsprobleme führen die beiden zwar nicht mehr zueinander, aber
+                        parallelisieren ihre privaten Leben, da sie beide mit Sängerinnen verheiratet sind.
+                        Bahr versteht sich seit der Hochzeit als der
+                        Agent seiner Frau, die er aktiv unterstützt. Für einige Zeitgenossen geht die
+                        Förderung zu weit, da er ihre stimmliche Verfassung überschätze. Sicher ist, dass
+                        die
+                        finanzielle Bedrängnis, in der er sich, mehr noch als Schnitzler, befindet, vor allem durch die Professur erleichtert wird, die
+                        Anna Bahr-Mildenburg im September
+                        1920 an der Akademie der Tonkunst in München antritt. Hingegen will Olga Schnitzler den
+                        Versuch unternehmen, als Künstlerin zu reussieren, wovon ihr Mann nicht überzeugt
+                        ist. Das ist eine der zentralen Auseinandersetzungen, die 1919 zur
+                        Trennung der beiden führt. Gemeinsam mit dem Komponisten Wilhelm Grosz hält sie sich in der Folge länger in Salzburg auf und sucht die Nähe zu Mildenburg. Sie
+                        äußert sich zu diesem Anlass mehrmals skeptisch über Bahr, bis gemeinsame Spaziergänge sie für diesen einnehmen. </p>
+                     
+                     <p id="d9e5982">Nach dem fünfzigsten Geburtstag intensivieren sich bei beiden die Tendenzen
+                        autobiografischer Rückschau. Schnitzler bereitet
+                        seinen Nachlass vor, indem er immer wieder, wenn Zeit übrig ist, Teile mit der
+                        Maschine abschreiben lässt, Auszüge anfertigt und, zwischen 1914 und
+                        1920, mit Leben und Nachklang, Werk
+                        und Widerhall eine Autobiografie seiner ersten achtzehn Lebensjahre verfasst
+                        (1968 posthum als Jugend in Wien
+                        ediert). Bahr beginnt 1919 seine Autobiografie
+                        Selbstbildnis, die zu seinem sechzigstem
+                        Geburtstag erscheint und, wie er S. Fischer
+                        schreibt, vorläufig mit seinem zweiten Aufenthalt in Berlin endet (). Als sie im Frühsommer 1923 in
+                        Buchform vorliegt, liest Schnitzler sie mit
+                        »viel Vergnügen« (). Beide autobiografische
+                        Texte enden also – »vorläufig« –, bevor die gemeinsame Zeit behandelt würde, der
+                        jeweils andere wird nur kurz alludiert ( und ). </p>
+                     
+                     <p id="d9e6029">Aus den drei Jahren 1919 bis 1921 ist nur ein (kurzer)
+                        brieflicher Austausch überliefert. Schnitzler
+                        bittet Bahr, in seiner Tagebuch benannten Kolumne über Popper-Lynkeus zu schreiben, was dieser tut. Die gegenseitige
+                        Ferne drückt sich auch darin aus, dass der Anwalt im Berliner Reigen-Prozess, Wolfgang Heine, ein enger Freund Bahrs ist, ohne dass es aus diesem Anlass zu einer
+                        Kommunikation kommt. </p>
+                     1922–1923
+                     
+                     <p id="d9e6063">Zu Beginn des Jahres 1922 fungiert Olga, die sich wieder in Salzburg aufhält, noch einmal als jemand, der für privaten Informationsfluss sorgt.
+                        Zugleich scheint es unvorstellbar, dass Schnitzler nicht eine Art von Déja-vu empfindet, als ihm, Jahrzehnte nach
+                        der Beziehung zu Adele Sandrock, nun Olga irgendwelchen ›Unsinn‹ von Bahr auftischt.</p>
+                     
+                     <p id="d9e6088">Zunächst feiert im Mai 1922
+                        
+                        Schnitzler seinen sechzigsten Geburtstag. Bahr steuert insgesamt drei Artikel bei; zwei
+                        rund um den Festtag, ein dritter erscheint in The
+                        London Mercury Ende des Jahres. Er berichtet über die erste Begegnung mit Schnitzler und wie dieser doch nicht zum
+                        Feuilletonisten (»Causeur« nennt es Bahr in Anspielung auf seinen ersten Text über Schnitzler,
+                        ) wurde. Wichtiger ist für ihn aber die Verortung des
+                        Werkes Schnitzlers innerhalb der österreichischen Kulturgeschichte, die – zentrales geistiges hobby-horse
+                        seiner späten Jahre – seit dem Barock sich selbst fremd und damit dem Niedergang
+                        geweiht sei. Schnitzler erscheint nun als jener, der Verfall und Ende der Monarchie
+                        in der Gegenwart ästhetisch auszugestalten in der Lage war. Als das eines Propheten
+                        des Untergangs gesteht Bahr dessen Werk
+                        bleibende Bedeutung zu. </p>
+                     
+                     <p id="d9e6134">Vice versa äußert sich Schnitzler im folgenden
+                        Jahr zum Geburtstagsjubiläum Bahrs zweimal. Das erste Mal sind es Aphorismen, die
+                        in
+                        einem Bahr gewidmeten Heft der Neuen Rundschau abgedruckt werden. Diese lassen sich, behält
+                        man die negativen Äußerungen des Verfassers über Feuilletonismus im Hinterkopf, kaum
+                        anders als eine versteckte Standpauke lesen. Freundlicher und stilistisch gut
+                        einzuordnen durch die vielen Selbst- und gegenseitigen Zitate, die die späteren Texte
+                        beider auszeichnen, ist ein öffentlicher Brief, der im Neuen Wiener
+                        Journal erscheint. Er verknüpft die gelungenen gemeinsamen Partien im Leben
+                        mit dem Bedauern, letztlich wenig voneinander zu haben. Auch Bahr hatte gefragt, wann sie sich wiedersehen, und es dürfte
+                        von beiden durchaus ernst gemeint gewesen sein. Geklappt hat es nicht, selbst dann
+                        nicht, als Stefan Zweig die Vorarbeit
+                        anlässlich des Besuchs von Romain Rolland
+                        leistet (). </p>
+                     
+                     <p id="d9e6164">
+                        1922 übersiedelt Bahr nach München. Der ›offizielle‹ Grund besagte, dass das Ehepaar die Distanzbeziehung
+                        satthatte, die bestand, seit sie zwei Jahre zuvor an der Akademie der Tonkunst zu unterrichten begonnen hatte. Dem ist
+                        noch hinzuzufügen, dass seine gesunkenen Einkünfte den Erhalt von zwei Wohnungen
+                        erschwerte. </p>
+                     
+                     <p id="d9e6178">Der briefliche Austausch ist dabei nahezu vollständig zum Erliegen gekommen, die
+                        Vermittlung Scofield Thayers an Bahr im Juni 1922 bleibt die letzte
+                        Kontaktaufnahme bis 1930. </p>
+                     1924–1929
+                     
+                     <p id="d9e6191">Nach den rückwärtsgewandten Texten zum sechzigsten Geburtstag scheint alles gesagt
+                        zu
+                        sein. Die nächsten Jahre fügen wenig Neues hinzu. Die beiden stehen – zumeist – auf
+                        den Versendelisten, die ihnen Gratisexemplare des anderen sichern. Das bietet keinen
+                        ausreichenden Anlass zur Kontaktaufnahme. Eine zehn Zeilen lange Kurzkritik, die Bahr zu Therese verfasst haben dürfte, ist nicht erschienen und nicht erhalten. Schnitzler besucht Aufführungen von Stücken Bahrs und schimpft gegenüber Olga über dessen Roman Der
+                        inwendige Garten. Das meiste, was er sich notiert, sind Gerüchte – die
+                        durchaus ihren wahren Kern haben, etwa dass dieser sich nunmehr für Hitler und Kaiserin Zita
+                        begeistere. (Zur Relativierung kann vorgebracht werden, dass der Katholizismus Bahr stets davor bewahrte, über eine kaum
+                        verhohlene Bewunderung hinaus, sich dem Nationalsozialismus zu verschreiben.) Die
+                        gleichzeitige Ernennung zu »auswärtigen Mitgliedern« der Preussischen Akademie der Wissenschaften
+                        
+                        1926 blieb im privaten Verkehr folgenlos.</p>
+                     1930–1931
+                     
+                     <p id="d9e6233">
+                        Schnitzler ist regelmäßiger Leser von Bahrs
+                        
+                        Tagebuch, das seit Weihnachten 1916
+                        unregelmäßig im Neuen Wiener Journal erscheint. Er
+                        lässt 1929 und 1931 Stellen daraus
+                        abschreibenZusätzlich zu diesen Texten ist die erste Seite von Tagebuch. 24. April (
+                        Neues Wiener Journal, Jg. 38, Nr. 13093,
+                        4. 5. 1930, S. 14–15, über Ludwig II. von Bayern) in der Zeitungsausschnittsammlung in
+                        Exeter überliefert. und
+                        behauptet im ersten erhalten gebliebenen Brief seit siebeneinhalb Jahren »Dein
+                        ›Tagebuch
+                        ‹ les ich natürlich immer« ().
+                        Anlass für die briefliche Kontaktaufnahme ist, dass Bahr in seiner Kolumne gefordert hatte, Österreich müsse auch einmal bei der Nobelpreis-Vergabe
+                        berücksichtigt werden. Da Hofmannsthal
+                        mittlerweile gestorben war, sei Schnitzler an
+                        der Reihe.</p>
+                     
+                     <p id="d9e6303">Die vier überlieferten Briefe, die in der Folge ausgetauscht werden, sind voller
+                        Sympathie und beinhalten die Aufforderung Schnitzlers, der gesundheitlich angeschlagene Bahr möge doch – als Mittel gegen Heimweh – nach Wien übersiedeln. Das scheitere daran, erwidert der, dass trotz Bemühungen sich dort
+                        für seine Frau kein akzeptabler Posten finde. Weiter wird Privates nicht
+                        thematisiert; weder der für Schnitzler
+                        einschneidende Suizid seiner Tochter Lili noch
+                        überhaupt dessen Befinden kommen zur Sprache. </p>
+                     
+                     <p id="d9e6321">Im Folgejahr, nur wenige Wochen vor seinem Tod, fragt Schnitzler an, wie es Bahr mit den
+                        Filmrechten ergangen sei. Bahr kann nicht
+                        wirklich etwas dazu sagen.</p>
+                     
+                     <p id="d9e6333">Den Tod Schnitzlers am 21. 10. 1931
+                        hält Bahr in einer knappen Erwähnung im
+                        privaten Tagebuch fest. Jene drei publizistischen Texte, die er aus diesem Anlass
+                        verfasst, sind fehlerhaft, schief und sinnlos, kaum ernstzunehmende Zeugnisse seiner
+                        geschwundenen Geisteskraft. (Inwiefern andere, stimmigere Texte der Zeit aus älteren
+                        Textbausteinen zusammengetragen wurden oder ob und wer ansonsten redigierend
+                        eingriff, ist bislang nicht untersucht.)</p>
+                     1932–1962
+                     
+                     <p id="d9e6347">Ein letzter Text, eine im März 1932 erschienene Antwort auf eine
+                        Umfrage, in der Bahr Schnitzler erwähnt, ist in
+                        jedem Fall ein besseres Schlusswort als die Nachrufe. Darin äußert er sich mit
+                        Verweis auf seine jüdischen Freunde positiv zur Rolle der Juden in der Kultur.</p>
+                     
+                     <p id="d9e6355">Der Tod Bahrs am 15. 1. 1934
+                        bildet keinen Einschnitt in der Kommunikation, die längst auf die langjährigen
+                        Lebensgefährtinnen übergegangen ist. Olga
+                        Schnitzler erbittet im Sommer 1932 die Briefe Arthurs zur Abschrift und ist dabei über die Geistesabwesenheit
+                        des anderen informiert. Die geschiedene Frau
+                        
+                        Schnitzlers ist es, die, unterstützt von ihrem
+                        Sohn Heinrich, sich als Erste dem Briefwechsel
+                        widmet und 1936 bereits den Plan verfolgt, über Bahr und Schnitzler zu
+                        schreiben. Das Ergebnis, das vierte Kapitel des inhaltlich etwas disparat geratenen
+                        Erinnerungsbandes Spiegelbild der Freundschaft,
+                        erscheint 1962 und ist die erste systematische Auswertung der
+                        Korrespondenz Bahr – Schnitzler. Als solche verdient sie es, gerade wegen ihrer
+                        empathisch-verklärenden Art, den Schlusspunkt zu setzen zu einer Freundschaft, die,
+                        in Abwandlung eines Bahr-Zitats, immer nie dieselbe war.</p>
+                     </div>
+                  </div>
+            </div>
+         </div>
+         <div class="wrapper fundament-default-footer" id="wrapper-footer-full" style="margin-top: 4em;">
+            <div class="container" id="footer-full-content" tabindex="-1">
+               <div class="footer-separator">
+                  CONTACT
+                  </div>
+               <div class="row">
+                  <div class="footer-widget col-lg-1 col-md-2 col-sm-2 col-xs-6  ml-auto  text-center ">
+                     <div class="textwidget custom-html-widget"><a href="/"><img src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" class="image" alt="ACDH Logo" style="max-width: 100%; height: auto;" title="ACDH Logo" /></a></div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-3">
+                     <div class="textwidget custom-html-widget">
+                        <p>
+                           ACDH-CH OEAW
+                           <br />
+                           Austrian Centre for Digital Humanities and Cultural Heritage
+                           <br />
+                           Austrian Academy of Sciences
+                           </p>
+                        <p>
+                           Sonnenfelsgasse 19
+                           <br />
+                           1010 Vienna
+                           </p>
+                        <p>
+                           T: +43 1 51581-2200
+                           <br />
+                           E: <a href="mailto:acdh@oeaw.ac.at">acdh@oeaw.ac.at</a></p>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-4 col-md-3 col-sm-4">
+                     <h6 class="font-weight-bold">PROJECT PARTNERS</h6>
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                           <div class="col-lg-6 col-md-6 col-sm-12">
+                              <div class="flex-md-row mb-4 align-items-center"><a href="https://acdh.oeaw.ac.at"><img class="card-img-right flex-auto d-md-block" src="https://fundament.acdh.oeaw.ac.at/common-assets/images/acdh_logo.svg" alt="ACDH Logo" style="max-width: 60px; height: auto;" title="ACDH Logo" /></a><div class="card-body d-flex flex-column align-items-start">
+                                    <p class="card-text mb-auto">Austrian Center for Digital Humanities and Cultural Heritage</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto">
+                     <div class="row">
+                        <div class="textwidget custom-html-widget">
+                           <h6 class="font-weight-bold">HELPDESK</h6>
+                           <p>ACDH-CH runs a helpdesk offering advice for questions related to various digital humanities
+                              topics.</p>
+                           <p><a class="helpdesk-button" href="mailto:acdh-helpdesk@oeaw.ac.at">ASK US!</a></p>
+                        </div>
+                     </div>
+                     <div class="row">
+                        <div class="footer-widget col-lg-3 col-md-4 col-sm-3 ml-auto" style="margin-left:0 !important;">
+                           <div class="textwidget custom-html-widget">
+                              <p style="margin-bottom:0 !important;">Social: </p>
+                           </div>
+                           <div class="row">
+                              <div class="textwidget custom-html-widget col-md-4"><a id="github-logo" title="GitHub" href="https://github.com/acdh-oeaw/bahr-static" class="nav-link" target="_blank"><svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24">
+                                       <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-4.466 19.59c-.405.078-.534-.171-.534-.384v-2.195c0-.747-.262-1.233-.55-1.481 1.782-.198 3.654-.875 3.654-3.947 0-.874-.312-1.588-.823-2.147.082-.202.356-1.016-.079-2.117 0 0-.671-.215-2.198.82-.64-.18-1.324-.267-2.004-.271-.68.003-1.364.091-2.003.269-1.528-1.035-2.2-.82-2.2-.82-.434 1.102-.16 1.915-.077 2.118-.512.56-.824 1.273-.824 2.147 0 3.064 1.867 3.751 3.645 3.954-.229.2-.436.552-.508 1.07-.457.204-1.614.557-2.328-.666 0 0-.423-.768-1.227-.825 0 0-.78-.01-.055.487 0 0 .525.246.889 1.17 0 0 .463 1.428 2.688.944v1.489c0 .211-.129.459-.528.385-3.18-1.057-5.472-4.056-5.472-7.59 0-4.419 3.582-8 8-8s8 3.581 8 8c0 3.533-2.289 6.531-5.466 7.59z"></path></svg></a></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="footer-imprint-bar" id="wrapper-footer-secondary" style="text-align:center; padding:0.4rem 0; font-size: 0.9rem;"><a href="imprint.html">Impressum/Imprint</a></div><script type="text/javascript" src="dist/fundament/vendor/jquery/jquery.min.js"></script><script type="text/javascript" src="dist/fundament/js/fundament.min.js"></script><script type="text/javascript" src="https://cdn.datatables.net/v/bs4/jszip-2.5.0/dt-1.11.0/b-2.0.0/b-html5-2.0.0/cr-1.5.4/r-2.2.9/sp-1.4.0/datatables.min.js"></script><script type="text/javascript" src="js/dt.js"></script></div>
+   </body>
+</html>

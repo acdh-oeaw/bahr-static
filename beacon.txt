@@ -1,0 +1,1348 @@
+#FORMAT: BEACON
+#NAME:Bahr-Schnitzler Briefwechsel
+https://d-nb.info/gnd/11600245X/|Abendroth, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10743.html
+https://d-nb.info/gnd/1020823992/|Adam, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12438.html
+https://d-nb.info/gnd/118647016/|Adler, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10746.html
+https://d-nb.info/gnd/118647075/|Adler, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10749.html
+https://d-nb.info/gnd/116271515/|Ahn, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3419.html
+https://d-nb.info/gnd/118501356/|Albach-Retty, Rosa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10752.html
+https://d-nb.info/gnd/118817477/|Albert, Henri|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2801.html
+https://d-nb.info/gnd/116284315/|Albu, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3180.html
+https://d-nb.info/gnd/118523708/|Alighieri, Dante|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3326.html
+https://d-nb.info/gnd/1099862434/|Alsen, Harry|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4173.html
+https://d-nb.info/gnd/118502204/|Alt, Rudolf von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10759.html
+https://d-nb.info/gnd/118502255/|Altenberg, Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2147.html
+https://d-nb.info/gnd/118502921/|Andreas-Salomé, Lou|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10762.html
+https://d-nb.info/gnd/118503006/|Andrian-Werburg, Leopold von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10765.html
+https://d-nb.info/gnd/12190637X/|Antal, Fritz Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2707.html
+https://d-nb.info/gnd/118649663/|Antoine, André|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2211.html
+https://d-nb.info/gnd/13010258X/|Antropp, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10769.html
+https://d-nb.info/gnd/11850357X/|Anzengruber, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10772.html
+https://d-nb.info/gnd/116315903/|Apel, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10775.html
+https://d-nb.info/gnd/104086424/|Aram, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3770.html
+https://d-nb.info/gnd/118504185/|Arnim, Bettina von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10777.html
+https://d-nb.info/gnd/1050400186/|Arnold, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2859.html
+https://d-nb.info/gnd/118504681/|Aslan, Raoul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10780.html
+https://d-nb.info/gnd/130095486/|Auber, Salomon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10785.html
+https://d-nb.info/gnd/116377577/|Auernheimer, Irene|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3223.html
+https://d-nb.info/gnd/118505033/|Auernheimer, Raoul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10788.html
+https://d-nb.info/gnd/119493020/|Augier, Émile|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2815.html
+https://d-nb.info/gnd/11766944X/|Auspitz, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10792.html
+https://d-nb.info/gnd/131929887/|Auspitz, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4599.html
+https://d-nb.info/gnd/101833636/|Auspitzer, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2459.html
+https://d-nb.info/gnd/116387424/|Ausserer, Alois|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4744.html
+https://d-nb.info/gnd/118651218/|Avenarius, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10795.html
+https://d-nb.info/gnd/116019891/|Bab, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10799.html
+https://d-nb.info/gnd/118927477/|Bach, David Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10803.html
+https://d-nb.info/gnd/11850553X/|Bach, Johann Sebastian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10806.html
+https://d-nb.info/gnd/116026057/|Bacher, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10809.html
+https://d-nb.info/gnd/1123663173/|Bacher, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2241.html
+https://d-nb.info/gnd/116035161/|Bachmann, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3589.html
+https://d-nb.info/gnd/125980582/|Bachrach, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3618.html
+https://d-nb.info/gnd/116029579/|Backhaus, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10812.html
+https://d-nb.info/gnd/1021277495/|Bahr, Alois|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2132.html
+https://d-nb.info/gnd/118505955/|Bahr, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10815.html
+https://d-nb.info/gnd/118646370/|Bahr-Mildenburg, Anna|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10818.html
+https://d-nb.info/gnd/143866354/|Balajthy, Robert von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2246.html
+https://d-nb.info/gnd/116046163/|Balser, Ewald|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10821.html
+https://d-nb.info/gnd/118506358/|Balzac, Honoré de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10825.html
+https://d-nb.info/gnd/118809709/|Bang, Herman|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10828.html
+https://d-nb.info/gnd/119080389/|Banville, Théodore de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4283.html
+https://d-nb.info/gnd/118506498/|Barbey d’Aurevilly, Jules-Amédée|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4266.html
+https://d-nb.info/gnd/130241075/|Barbi, Alice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3031.html
+https://d-nb.info/gnd/127468374/|Bardi, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3791.html
+https://d-nb.info/gnd/119037173/|Baring, Maurice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3912.html
+https://d-nb.info/gnd/118652613/|Barnowsky, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10833.html
+https://d-nb.info/gnd/118506684/|Barrès, Maurice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3892.html
+https://d-nb.info/gnd/1167445260/|Barrison, Sophia|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10716.html
+https://d-nb.info/gnd/118652931/|Bartsch, Rudolf Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10836.html
+https://d-nb.info/gnd/118653407/|Bassermann, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10844.html
+https://d-nb.info/gnd/116085274/|Bauer, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2150.html
+https://d-nb.info/gnd/117769053/|Bauer, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10848.html
+https://d-nb.info/gnd/118507400/|Bauernfeld, Eduard von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10854.html
+https://d-nb.info/gnd/118869272/|Baumeister, Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb6173.html
+https://d-nb.info/gnd/118507850/|Beaumarchais, Pierre Augustin Caron de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10857.html
+https://d-nb.info/gnd/118508210/|Beckmann, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4752.html
+https://d-nb.info/gnd/1056819022/|Beer, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3050.html
+https://d-nb.info/gnd/1117494683/|Beer-Hofmann, Gabriel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13923.html
+https://d-nb.info/gnd/116787902/|Beer-Hofmann, Mirjam|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2668.html
+https://d-nb.info/gnd/116108584/|Beer-Hofmann, Naëmah|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2534.html
+https://d-nb.info/gnd/119044994/|Beer-Hofmann, Paula|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10860.html
+https://d-nb.info/gnd/118654756/|Beer-Hofmann, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10863.html
+https://d-nb.info/gnd/118508288/|Beethoven, Ludwig van|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10866.html
+https://d-nb.info/gnd/1022836978/|Bell, Robert Anning|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2665.html
+https://d-nb.info/gnd/118851039/|Benedikt, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10872.html
+https://d-nb.info/gnd/118137948/|Benedikt, Moriz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10875.html
+https://d-nb.info/gnd/118655450/|Beneš, Edvard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4186.html
+https://d-nb.info/gnd/118655930/|Berger, Alfred von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10883.html
+https://d-nb.info/gnd/11850956X/|Bergner, Elisabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10886.html
+https://d-nb.info/gnd/118509683/|Bermann Fischer, Gottfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10889.html
+https://d-nb.info/gnd/118911732/|Bernard, Tristan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10893.html
+https://d-nb.info/gnd/116137118/|Bernau, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4040.html
+https://d-nb.info/gnd/118656295/|Bernauer, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10896.html
+https://d-nb.info/gnd/118509896/|Bernhardt, Sarah|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10899.html
+https://d-nb.info/gnd/118509926/|Bernini, Gian Lorenzo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10902.html
+https://d-nb.info/gnd/119257408/|Bernstein, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10905.html
+https://d-nb.info/gnd/118510320/|Bethmann-Hollweg, Theobald Theodor von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10908.html
+https://d-nb.info/gnd/116155795/|Bettelheim, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10912.html
+https://d-nb.info/gnd/116159952/|Beyerlein, Franz Adam|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10915.html
+https://d-nb.info/gnd/116161795/|Bie, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2914.html
+https://d-nb.info/gnd/133345637/|Bienenfeld, Elsa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4547.html
+https://d-nb.info/gnd/12912849X/|Bienner, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3035.html
+https://d-nb.info/gnd/118510762/|Bierbaum, Otto Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10928.html
+https://d-nb.info/gnd/127064419/|Billiter, Jean|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10931.html
+https://d-nb.info/gnd/118510916/|Billroth, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10934.html
+https://d-nb.info/gnd/120939126/|Bilse, Fritz Oswald|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3349.html
+https://d-nb.info/gnd/116189851/|Birinski, Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2638.html
+https://d-nb.info/gnd/11619295X/|Birron, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10940.html
+https://d-nb.info/gnd/118658921/|Bismarck, Johanna von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3677.html
+https://d-nb.info/gnd/11851136X/|Bismarck, Otto von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10943.html
+https://d-nb.info/gnd/116198176/|Bittner, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3239.html
+https://d-nb.info/gnd/118663593/|Bittner, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10948.html
+https://d-nb.info/gnd/137999836/|Björkman, Edwin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3283.html
+https://d-nb.info/gnd/118511459/|Bjørnson, Bjørnstjerne|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2400.html
+https://d-nb.info/gnd/119038560/|Blaas, Carl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4593.html
+https://d-nb.info/gnd/116198419/|Blaas, Eugen von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4586.html
+https://d-nb.info/gnd/116198435/|Blaas, Julius von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4590.html
+https://d-nb.info/gnd/118511653/|Blei, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10955.html
+https://d-nb.info/gnd/116201304/|Bleibtreu, Hedwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10959.html
+https://d-nb.info/gnd/116201878/|Bley, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3432.html
+https://d-nb.info/gnd/104851678/|Bloch, Iwan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10962.html
+https://d-nb.info/gnd/116202904/|Block, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3256.html
+https://d-nb.info/gnd/122937082/|Blum, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10966.html
+https://d-nb.info/gnd/118659111/|Blumenthal, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb14328.html
+https://d-nb.info/gnd/118512374/|Böcklin, Arnold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4579.html
+https://d-nb.info/gnd/117608866/|Bode, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10969.html
+https://d-nb.info/gnd/118512293/|Bodenstedt, Friedrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10973.html
+https://d-nb.info/gnd/116216328/|Bodmer, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10977.html
+https://d-nb.info/gnd/118512706/|Bölsche, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11061.html
+https://d-nb.info/gnd/122716299/|Boltraffio, Giovanni Antonio|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3439.html
+https://d-nb.info/gnd/118586408/|Bonaparte, Napoleon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4769.html
+https://d-nb.info/gnd/118661396/|Bondi, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3372.html
+https://d-nb.info/gnd/116241632/|Bonn, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10980.html
+https://d-nb.info/gnd/139803033/|Botstiber, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10983.html
+https://d-nb.info/gnd/118729403/|Bourbon, Louis Charles de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4315.html
+https://d-nb.info/gnd/118659561/|Bourget, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4026.html
+https://d-nb.info/gnd/119345544/|Bracco, Roberto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2935.html
+https://d-nb.info/gnd/116395214/|Brahm, John|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5035.html
+https://d-nb.info/gnd/118514245/|Brahm, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10986.html
+https://d-nb.info/gnd/118514253/|Brahms, Johannes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10989.html
+https://d-nb.info/gnd/116395869/|Brakl, Franz Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3361.html
+https://d-nb.info/gnd/118514318/|Brandenburg, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4631.html
+https://d-nb.info/gnd/118514326/|Brandes, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10992.html
+https://d-nb.info/gnd/116407069/|Brandt, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10995.html
+https://d-nb.info/gnd/116408146/|Brann, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10998.html
+https://d-nb.info/gnd/118514598/|Braun, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11002.html
+https://d-nb.info/gnd/130114146/|Braun, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11005.html
+https://d-nb.info/gnd/118515225/|Breuer, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3217.html
+https://d-nb.info/gnd/119534673/|Brieux, Eugène|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4791.html
+https://d-nb.info/gnd/116427477/|Brion, Lou|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2881.html
+https://d-nb.info/gnd/11652622X/|Brociner, Marco|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3442.html
+https://d-nb.info/gnd/116007338/|Bronner, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11021.html
+https://d-nb.info/gnd/118515780/|Browning, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4338.html
+https://d-nb.info/gnd/174295448/|Bruck-Auffenberg, Natalie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4576.html
+https://d-nb.info/gnd/118515799/|Bruckner, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11024.html
+https://d-nb.info/gnd/124868967/|Brüll, Oswald|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11028.html
+https://d-nb.info/gnd/11715380X/|Bukovics, Emerich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2161.html
+https://d-nb.info/gnd/1170919332/|Bukovics, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2951.html
+https://d-nb.info/gnd/118664638/|Bülow, Hans von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11065.html
+https://d-nb.info/gnd/117161144/|Burckhard, Max Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11036.html
+https://d-nb.info/gnd/11851752X/|Burckhardt, Jacob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11040.html
+https://d-nb.info/gnd/118668056/|Burdach, Konrad|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11043.html
+https://d-nb.info/gnd/124541755/|Burián-Rajecz, Stephan von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb14713.html
+https://d-nb.info/gnd/118517821/|Burte, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11049.html
+https://d-nb.info/gnd/11866543X/|Buschbeck, Erhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11054.html
+https://d-nb.info/gnd/1100723935/|Busse, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4494.html
+https://d-nb.info/gnd/118518208/|Byron, George Gordon Noël Lord|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11057.html
+https://d-nb.info/gnd/1042355053/|Cadol, Victor Édouard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2560.html
+https://d-nb.info/gnd/118518305/|Cagliostro, Alessandro von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4517.html
+https://d-nb.info/gnd/122348885/|Caillavet, Gaston Arman de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb6571.html
+https://d-nb.info/gnd/118518399/|Calderón de la Barca, Pedro|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11068.html
+https://d-nb.info/gnd/116726199/|Cantacuzène, Elsa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4514.html
+https://d-nb.info/gnd/118668250/|Čapek, Karel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13216.html
+https://d-nb.info/gnd/118668293/|Capus, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2408.html
+https://d-nb.info/gnd/139864601/|Carlsen, Traute|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11071.html
+https://d-nb.info/gnd/118953915/|Carreño, Teresa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11079.html
+https://d-nb.info/gnd/118667335/|Caruso, Enrico|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11083.html
+https://d-nb.info/gnd/118519417/|Casanova, Giacomo Girolamo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3145.html
+https://d-nb.info/gnd/118519522/|Cassirer, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4723.html
+https://d-nb.info/gnd/118870645/|Cassirer, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4617.html
+https://d-nb.info/gnd/118638289/|Čechov, Anton Pavlovič|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3603.html
+https://d-nb.info/gnd/11851993X/|Cervantes Saavedra, Miguel de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2980.html
+https://d-nb.info/gnd/118675508/|Chamberlain, Houston Stewart|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11086.html
+https://d-nb.info/gnd/11648828X/|Chapiro, Joseph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11090.html
+https://d-nb.info/gnd/116504854/|Chiavacci, Vincenz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2154.html
+https://d-nb.info/gnd/116509457/|Christians, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11093.html
+https://d-nb.info/gnd/13598520X/|Christomannos, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4820.html
+https://d-nb.info/gnd/118520814/|Cicero, Marcus Tullius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3511.html
+https://d-nb.info/gnd/118676245/|Clam-Martinic, Heinrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4645.html
+https://d-nb.info/gnd/119069830/|Claretie, Jules|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2500.html
+https://d-nb.info/gnd/118676407/|Clemenceau, Georges|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4719.html
+https://d-nb.info/gnd/1036604829/|Colbert, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4023.html
+https://d-nb.info/gnd/118669915/|Conrad, Michael Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11098.html
+https://d-nb.info/gnd/118676768/|Conrad-Hötzendorf, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11102.html
+https://d-nb.info/gnd/116655151/|Conrad-Ramlo, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4983.html
+https://d-nb.info/gnd/116670673/|Coquelin, Constant|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3275.html
+https://d-nb.info/gnd/118522140/|Corinth, Lovis|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11106.html
+https://d-nb.info/gnd/116685972/|Coschell, Moritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28645.html
+https://d-nb.info/gnd/118677101/|Coudenhove-Kalergi, Richard Nikolaus von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11113.html
+https://d-nb.info/gnd/118670263/|Courteline, Georges|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4865.html
+https://d-nb.info/gnd/118670492/|Crawford, Francis Marion|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3455.html
+https://d-nb.info/gnd/118522841/|Cromwell, Oliver|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11116.html
+https://d-nb.info/gnd/1031698302/|Crusius, Lotte|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4538.html
+https://d-nb.info/gnd/118522914/|Csokor, Franz Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11120.html
+https://d-nb.info/gnd/116757957/|Culp, Julia Bertha|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11123.html
+https://d-nb.info/gnd/1041969309/|Czadill, Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2729.html
+https://d-nb.info/gnd/1046474790/|Czegka, Berta|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11127.html
+https://d-nb.info/gnd/116020970/|Dandler, Anna|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4501.html
+https://d-nb.info/gnd/118523872/|Daudet, Alphonse|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11134.html
+https://d-nb.info/gnd/118523880/|Daumier, Honoré|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11137.html
+https://d-nb.info/gnd/118671103/|David, Jakob Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2416.html
+https://d-nb.info/gnd/116040718/|Davis, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2207.html
+https://d-nb.info/gnd/118524186/|Debussy, Claude|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11141.html
+https://d-nb.info/gnd/118679104/|Decsey, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11145.html
+https://d-nb.info/gnd/118679228/|Dehmel, Ida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4358.html
+https://d-nb.info/gnd/116054522/|Dehmel, Paula|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2281.html
+https://d-nb.info/gnd/118679236/|Dehmel, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11148.html
+https://d-nb.info/gnd/118746278/|Delle Grazie, Marie Eugenie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4064.html
+https://d-nb.info/gnd/116068337/|Delvard, Marya|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3531.html
+https://d-nb.info/gnd/118524844/|Descartes, René|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4103.html
+https://d-nb.info/gnd/136827047/|Desprès, Suzanne|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3659.html
+https://d-nb.info/gnd/119357437/|Destinová, Ema|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3573.html
+https://d-nb.info/gnd/118671707/|Deussen, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3827.html
+https://d-nb.info/gnd/126052018/|Deutsch-German, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2288.html
+https://d-nb.info/gnd/116089067/|Devrient, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2446.html
+https://d-nb.info/gnd/118525263/|Diderot, Denis|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11157.html
+https://d-nb.info/gnd/118678256/|Diederichs, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11161.html
+https://d-nb.info/gnd/119061457/|Diels, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3817.html
+https://d-nb.info/gnd/116117060/|Dietzel, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3940.html
+https://d-nb.info/gnd/12308461X/|Diner-Dénes, József|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4262.html
+https://d-nb.info/gnd/118525751/|Dingelstedt, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4142.html
+https://d-nb.info/gnd/118525867/|Diogenes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3718.html
+https://d-nb.info/gnd/130141062/|Dippel, Andreas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4551.html
+https://d-nb.info/gnd/118526200/|Döblin, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11205.html
+https://d-nb.info/gnd/118680005/|Doeberl, Michael|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4760.html
+https://d-nb.info/gnd/119110016/|Dohnányi, Ernst von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11165.html
+https://d-nb.info/gnd/116171286/|Dohrn, Wolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3936.html
+https://d-nb.info/gnd/116175818/|Dombrowski, Ernst von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4781.html
+https://d-nb.info/gnd/126105316/|Dominik, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3099.html
+https://d-nb.info/gnd/11947042X/|Donath, Adolph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2968.html
+https://d-nb.info/gnd/14035770X/|Donnay, Maurice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11168.html
+https://d-nb.info/gnd/116168773/|Döring, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4135.html
+https://d-nb.info/gnd/119020874/|Dörmann, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2425.html
+https://d-nb.info/gnd/116169249/|Dörnhöffer, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4726.html
+https://d-nb.info/gnd/116213035/|Dreher, Konrad|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11171.html
+https://d-nb.info/gnd/116220759/|Dreyer, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11175.html
+https://d-nb.info/gnd/118527460/|Dreyfus, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4216.html
+https://d-nb.info/gnd/116223111/|Driesmans, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3357.html
+https://d-nb.info/gnd/118527533/|Droste-Hülshoff, Annette von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11179.html
+https://d-nb.info/gnd/116034521/|Drugulin, Egbert Johannes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3638.html
+https://d-nb.info/gnd/1021283126/|Dubsky, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11183.html
+https://d-nb.info/gnd/143957163/|Duczyński, Irma von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3597.html
+https://d-nb.info/gnd/118672630/|Duhamel, Georges|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11187.html
+https://d-nb.info/gnd/118528068/|Dumas, Alexandre père|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11190.html
+https://d-nb.info/gnd/116251417/|Duncan, Elizabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3775.html
+https://d-nb.info/gnd/118528122/|Duncan, Isadora|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3467.html
+https://d-nb.info/gnd/118973061/|Du Prel, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3805.html
+https://d-nb.info/gnd/11852786X/|Dürer, Albrecht|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11209.html
+https://d-nb.info/gnd/118528262/|Durieux, Tilla|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11198.html
+https://d-nb.info/gnd/118681354/|Duse, Eleonora|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11201.html
+https://d-nb.info/gnd/116240806/|Düsel, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11212.html
+https://d-nb.info/gnd/11852836X/|Dvořák, Antonín|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4816.html
+https://d-nb.info/gnd/116875755/|d’Albert, Ida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2537.html
+https://d-nb.info/gnd/118503243/|D’Annunzio, Gabriele|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2142.html
+https://d-nb.info/gnd/132867745/|Ebenhoch, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3820.html
+https://d-nb.info/gnd/119343738/|Eberle, Joseph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3727.html
+https://d-nb.info/gnd/14398179X/|Ebermann, Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2157.html
+https://d-nb.info/gnd/118528661/|Ebner-Eschenbach, Marie von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11216.html
+https://d-nb.info/gnd/118528777/|Eckermann, Johann Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11220.html
+https://d-nb.info/gnd/118853902/|Eckstein, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2836.html
+https://d-nb.info/gnd/118834851/|Eckstein-Diener, Bertha|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3230.html
+https://d-nb.info/gnd/11635626X/|Edlinger, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3499.html
+https://d-nb.info/gnd/118687859/|Edschmid, Kasimir|https://bahrschnitzler.acdh.oeaw.ac.at/pmb6927.html
+https://d-nb.info/gnd/13014407X/|Edthofer, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11224.html
+https://d-nb.info/gnd/116365579/|Eger, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11227.html
+https://d-nb.info/gnd/118688227/|Ehrenstein, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11230.html
+https://d-nb.info/gnd/126290911/|Ehrhart von Ehrhartstein, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4326.html
+https://d-nb.info/gnd/116409827/|Eibl, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4270.html
+https://d-nb.info/gnd/118529579/|Einstein, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11237.html
+https://d-nb.info/gnd/116426101/|Eirich, Oskar Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2874.html
+https://d-nb.info/gnd/116426543/|Eisenberg, Ludwig Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3043.html
+https://d-nb.info/gnd/116434716/|Eisenschitz, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4076.html
+https://d-nb.info/gnd/118529706/|Eisner, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11240.html
+https://d-nb.info/gnd/1063682088/|Eissler, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3948.html
+https://d-nb.info/gnd/1049479807/|Elbogen, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11243.html
+https://d-nb.info/gnd/116447672/|Elias, Julie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4370.html
+https://d-nb.info/gnd/116447710/|Elias, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11246.html
+https://d-nb.info/gnd/118529897/|Elisabeth von Österreich-Ungarn|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3762.html
+https://d-nb.info/gnd/118688839/|Eloesser, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11250.html
+https://d-nb.info/gnd/116460377/|Elsinger, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2938.html
+https://d-nb.info/gnd/116478411/|Engel, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11253.html
+https://d-nb.info/gnd/116487577/|Engel, Camillo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2492.html
+https://d-nb.info/gnd/119026694/|Engelhart, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11257.html
+https://d-nb.info/gnd/13014522X/|Engländer, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2260.html
+https://d-nb.info/gnd/116506695/|Entsch, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2871.html
+https://d-nb.info/gnd/116516631/|Eppens, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4124.html
+https://d-nb.info/gnd/143990055/|Epstein, Moritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2947.html
+https://d-nb.info/gnd/116517220/|Epstein, Stephan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2199.html
+https://d-nb.info/gnd/135916623/|Ergas, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3103.html
+https://d-nb.info/gnd/118682342/|Ernst, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11260.html
+https://d-nb.info/gnd/118530909/|Ernst, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11265.html
+https://d-nb.info/gnd/118530933/|Ernst Ludwig von Hessen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3547.html
+https://d-nb.info/gnd/116568437/|Ertl, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11270.html
+https://d-nb.info/gnd/118685546/|Eugen von Österreich-Teschen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4903.html
+https://d-nb.info/gnd/118605941/|Eugen von Savoyen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5071.html
+https://d-nb.info/gnd/118682636/|Eulenberg, Herbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11273.html
+https://d-nb.info/gnd/118531395/|Euripides|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4107.html
+https://d-nb.info/gnd/118685570/|Ewers, Hanns Heinz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11281.html
+https://d-nb.info/gnd/119115522/|Eysoldt, Gertrud|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11284.html
+https://d-nb.info/gnd/1175054135/|Fabichler, Franz Xaver|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3517.html
+https://d-nb.info/gnd/118685759/|Faesi, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11289.html
+https://d-nb.info/gnd/118531824/|Faistauer, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5111.html
+https://d-nb.info/gnd/11640826X/|Fanto, Leonhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3261.html
+https://d-nb.info/gnd/118875558/|Farrère, Claude|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11297.html
+https://d-nb.info/gnd/11641359X/|Faust, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4879.html
+https://d-nb.info/gnd/116427000/|Federn, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11301.html
+https://d-nb.info/gnd/11643659X/|Feigl, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11304.html
+https://d-nb.info/gnd/135973562/|Feistmantel, Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3007.html
+https://d-nb.info/gnd/120053721/|Feldmann, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3197.html
+https://d-nb.info/gnd/135020689/|Felix, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3167.html
+https://d-nb.info/gnd/116460407/|Fellner, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11308.html
+https://d-nb.info/gnd/127899537/|Fels, Friedrich M.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2450.html
+https://d-nb.info/gnd/118532693/|Feuchtersleben, Ernst von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4809.html
+https://d-nb.info/gnd/144027100/|Feuchtwang, David|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11312.html
+https://d-nb.info/gnd/118988093/|Feydeau, Georges|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2931.html
+https://d-nb.info/gnd/142372943/|Fischer, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3412.html
+https://d-nb.info/gnd/118910671/|Fischer, Hedwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2657.html
+https://d-nb.info/gnd/118691406/|Fischer, Samuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11324.html
+https://d-nb.info/gnd/116584807/|Fischl, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3319.html
+https://d-nb.info/gnd/118533665/|Flake, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11327.html
+https://d-nb.info/gnd/118533754/|Flaubert, Gustave|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11330.html
+https://d-nb.info/gnd/122348745/|Flers, Robert de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11337.html
+https://d-nb.info/gnd/118956701/|Flöge, Emilie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2972.html
+https://d-nb.info/gnd/118692038/|Foerster, Friedrich Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4234.html
+https://d-nb.info/gnd/118534262/|Fontane, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11342.html
+https://d-nb.info/gnd/1018886052/|Forest, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4431.html
+https://d-nb.info/gnd/116664517/|Forst, Grete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11346.html
+https://d-nb.info/gnd/119034735/|Fournier, August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11349.html
+https://d-nb.info/gnd/116691050/|Fraenkel, Jonas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11352.html
+https://d-nb.info/gnd/118692445/|France, Anatole|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4279.html
+https://d-nb.info/gnd/118534645/|Franck, César|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11356.html
+https://d-nb.info/gnd/11853467X/|Franck, Sebastian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3494.html
+https://d-nb.info/gnd/119049252/|Franckenstein, Clemens von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3130.html
+https://d-nb.info/gnd/127621636/|Franckenstein, Georg von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11359.html
+https://d-nb.info/gnd/118702866/|Frank, Bruno|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4057.html
+https://d-nb.info/gnd/116714875/|Franke, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4045.html
+https://d-nb.info/gnd/118535005/|Franz Ferdinand von Österreich-Este|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3287.html
+https://d-nb.info/gnd/118535013/|Franz Joseph I. von Österreich-Ungarn|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2513.html
+https://d-nb.info/gnd/118534963/|Franz von Assisi|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4504.html
+https://d-nb.info/gnd/1055111417/|Freisauff von Neudegg, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3576.html
+https://d-nb.info/gnd/1032304766/|Freissler, Ernst Wolfgang|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4378.html
+https://d-nb.info/gnd/118535315/|Freud, Sigmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11370.html
+https://d-nb.info/gnd/116774444/|Freund, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3554.html
+https://d-nb.info/gnd/116774509/|Freund, Frank E. Washburn|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4087.html
+https://d-nb.info/gnd/1048028283/|Freund, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11374.html
+https://d-nb.info/gnd/116784474/|Frey, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10726.html
+https://d-nb.info/gnd/118535455/|Freytag, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11377.html
+https://d-nb.info/gnd/144034077/|Frieberger, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3452.html
+https://d-nb.info/gnd/118535560/|Friedell, Egon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2771.html
+https://d-nb.info/gnd/119480700/|Friedjung, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11384.html
+https://d-nb.info/gnd/1046764543/|Friedmann, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2965.html
+https://d-nb.info/gnd/116803142/|Friedmann, Siegwart|https://bahrschnitzler.acdh.oeaw.ac.at/pmb7260.html
+https://d-nb.info/gnd/118535749/|Friedrich II. von Preußen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4823.html
+https://d-nb.info/gnd/118535668/|Friedrich III. von Preussen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4680.html
+https://d-nb.info/gnd/1024338347/|Friedrich VIII. von Dänemark|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2919.html
+https://d-nb.info/gnd/118840452/|Fulda, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11391.html
+https://d-nb.info/gnd/115656340/|G. Lenotre|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3176.html
+https://d-nb.info/gnd/116326557/|Gabillon, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2484.html
+https://d-nb.info/gnd/116333316/|Gabillon, Zerline|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4206.html
+https://d-nb.info/gnd/117032565/|Galafrès, Elsa Marguerite|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11394.html
+https://d-nb.info/gnd/116373334/|Galliny, Florentine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb7331.html
+https://d-nb.info/gnd/118537490/|Ganghofer, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11402.html
+https://d-nb.info/gnd/119319764/|Gans-Ludassy, Julius von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11406.html
+https://d-nb.info/gnd/116419148/|Ganz, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2618.html
+https://d-nb.info/gnd/117671053/|Gärtner, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3087.html
+https://d-nb.info/gnd/118689924/|Gebsattel, Viktor Emil von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4729.html
+https://d-nb.info/gnd/124979610/|Gebühr, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11409.html
+https://d-nb.info/gnd/11853811X/|Geibel, Emanuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11413.html
+https://d-nb.info/gnd/1123538026/|Geiringer, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2170.html
+https://d-nb.info/gnd/118538489/|Gentz, Friedrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11416.html
+https://d-nb.info/gnd/11853856X/|George, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2437.html
+https://d-nb.info/gnd/116741643/|Georg von Sachsen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4839.html
+https://d-nb.info/gnd/116563834/|Géraldy, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3138.html
+https://d-nb.info/gnd/116564342/|Gerasch, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11423.html
+https://d-nb.info/gnd/1038088550/|Gerlach, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2820.html
+https://d-nb.info/gnd/116601159/|Gettke, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2164.html
+https://d-nb.info/gnd/116602872/|Geyer, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11426.html
+https://d-nb.info/gnd/118717251/|Giacosa, Giuseppe|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11431.html
+https://d-nb.info/gnd/1061563561/|Giampietro, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2847.html
+https://d-nb.info/gnd/117732265/|Gimnig, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11438.html
+https://d-nb.info/gnd/11869510X/|Girardi, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11441.html
+https://d-nb.info/gnd/119532271/|Gisela von Österreich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4420.html
+https://d-nb.info/gnd/117021288/|Giustiniani, Marianne|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2753.html
+https://d-nb.info/gnd/129068640/|Glas, Charlotte|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3784.html
+https://d-nb.info/gnd/11869524X/|Glaser, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11444.html
+https://d-nb.info/gnd/119360667/|Glaser, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4653.html
+https://d-nb.info/gnd/116667478/|Glossy, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11447.html
+https://d-nb.info/gnd/1011361515/|Godlewski, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2736.html
+https://d-nb.info/gnd/11854022X/|Goethe, August von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4448.html
+https://d-nb.info/gnd/118628011/|Goethe, Christiane von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11458.html
+https://d-nb.info/gnd/118540238/|Goethe, Johann Wolfgang von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11461.html
+https://d-nb.info/gnd/118540416/|Gogh, Vincent van|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11464.html
+https://d-nb.info/gnd/116746777/|Gold, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11469.html
+https://d-nb.info/gnd/116747641/|Goldbaum, Wenzel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11472.html
+https://d-nb.info/gnd/116747862/|Goldbeck, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11477.html
+https://d-nb.info/gnd/117548804/|Goldberger, Ludwig Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4478.html
+https://d-nb.info/gnd/130165964/|Goldhann, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11480.html
+https://d-nb.info/gnd/116755105/|Goldmann, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11485.html
+https://d-nb.info/gnd/116754796/|Goldscheid, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11488.html
+https://d-nb.info/gnd/116755741/|Goldschmidt, Adalbert von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11491.html
+https://d-nb.info/gnd/136094058/|Gomperz, Benjamin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2612.html
+https://d-nb.info/gnd/11927146X/|Gomperz, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3345.html
+https://d-nb.info/gnd/118540661/|Gomperz, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11497.html
+https://d-nb.info/gnd/118540688/|Goncourt, Edmond Huot de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11500.html
+https://d-nb.info/gnd/118540696/|Goncourt, Jules Huot de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2925.html
+https://d-nb.info/gnd/118639293/|Gorkij, Maxim|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2323.html
+https://d-nb.info/gnd/1011169606/|Görner, Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2545.html
+https://d-nb.info/gnd/118541064/|Goya, Francisco de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11504.html
+https://d-nb.info/gnd/118541102/|Grabbe, Christian Dietrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11508.html
+https://d-nb.info/gnd/136053319/|Graeser, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2808.html
+https://d-nb.info/gnd/118697005/|Graf, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11512.html
+https://d-nb.info/gnd/116808780/|Gräf, Hans Gerhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11530.html
+https://d-nb.info/gnd/178627976/|Granichstaedten, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2586.html
+https://d-nb.info/gnd/116823062/|Grasberger, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3971.html
+https://d-nb.info/gnd/11871872X/|Gregor, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2762.html
+https://d-nb.info/gnd/1011385708/|Gregorig, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4295.html
+https://d-nb.info/gnd/116830980/|Greiner, Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11515.html
+https://d-nb.info/gnd/116832711/|Grétor, Willy|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2896.html
+https://d-nb.info/gnd/1036993019/|Griebl, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4073.html
+https://d-nb.info/gnd/118542192/|Grillparzer, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11518.html
+https://d-nb.info/gnd/106058249X/|Gropius, Manon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11521.html
+https://d-nb.info/gnd/116868775/|Gross, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11524.html
+https://d-nb.info/gnd/118542656/|Großmann, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4772.html
+https://d-nb.info/gnd/118542664/|Großmann, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11527.html
+https://d-nb.info/gnd/116873884/|Grosz, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3112.html
+https://d-nb.info/gnd/116888652/|Grünfeld, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11533.html
+https://d-nb.info/gnd/118978128/|Guercino|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4613.html
+https://d-nb.info/gnd/118699067/|Gugitz, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11541.html
+https://d-nb.info/gnd/116920475/|Guglia, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11545.html
+https://d-nb.info/gnd/118543628/|Gundolf, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3824.html
+https://d-nb.info/gnd/1019053984/|Gurschner, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11551.html
+https://d-nb.info/gnd/116916702/|Gürtler, Danny|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4697.html
+https://d-nb.info/gnd/118543342/|Gütersloh, Albert Paris|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11558.html
+https://d-nb.info/gnd/116932449/|Gutheil-Schoder, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2349.html
+https://d-nb.info/gnd/128746734/|Gutmann, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2185.html
+https://d-nb.info/gnd/116347163/|Haas, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4624.html
+https://d-nb.info/gnd/116349433/|Haberfeld, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3475.html
+https://d-nb.info/gnd/119368277/|Hagemann, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11561.html
+https://d-nb.info/gnd/1011705532/|Hajek, Gisela|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2461.html
+https://d-nb.info/gnd/143163604/|Hajek, Markus|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2284.html
+https://d-nb.info/gnd/118545043/|Halbe, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11565.html
+https://d-nb.info/gnd/116420022/|Halm, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2385.html
+https://d-nb.info/gnd/1088963536/|Halton, Mary|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3165.html
+https://d-nb.info/gnd/1011573784/|Hammerschlag, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2434.html
+https://d-nb.info/gnd/118545515/|Hamsun, Knut|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11570.html
+https://d-nb.info/gnd/118545566/|Handel-Mazzetti, Enrica von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11575.html
+https://d-nb.info/gnd/116445599/|Handl, Willi|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2229.html
+https://d-nb.info/gnd/118545809/|Hansjakob, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3463.html
+https://d-nb.info/gnd/11854585X/|Hansson, Ola|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4804.html
+https://d-nb.info/gnd/10265428X/|Hansy, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2320.html
+https://d-nb.info/gnd/118701460/|Hanusch, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2793.html
+https://d-nb.info/gnd/118545892/|Harden, Maximilian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11581.html
+https://d-nb.info/gnd/11870155X/|Hardt, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11585.html
+https://d-nb.info/gnd/126695962/|Harpner, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11590.html
+https://d-nb.info/gnd/118863371/|Hart, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11597.html
+https://d-nb.info/gnd/11872052X/|Hart, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3394.html
+https://d-nb.info/gnd/119318652/|Harta, Felix Albrecht|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11602.html
+https://d-nb.info/gnd/119035030/|Hartel, Wilhelm von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2953.html
+https://d-nb.info/gnd/116491183/|Hartleben, Katharina Selma|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2309.html
+https://d-nb.info/gnd/118546198/|Hartleben, Otto Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11605.html
+https://d-nb.info/gnd/116491736/|Hartmann, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11610.html
+https://d-nb.info/gnd/116498889/|Hartmann, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4242.html
+https://d-nb.info/gnd/118546597/|Hasenauer, Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2683.html
+https://d-nb.info/gnd/116528249/|Hauptmann, Benvenuto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11613.html
+https://d-nb.info/gnd/118546937/|Hauptmann, Gerhart|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11617.html
+https://d-nb.info/gnd/116534702/|Hauptmann, Klaus|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4382.html
+https://d-nb.info/gnd/116534788/|Hauptmann, Margarete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11621.html
+https://d-nb.info/gnd/116537175/|Hauschner, Auguste|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2524.html
+https://d-nb.info/gnd/13017338X/|Hayek, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11628.html
+https://d-nb.info/gnd/11870933X/|Hearn, Lafcadio|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3425.html
+https://d-nb.info/gnd/118547445/|Hebbel, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2404.html
+https://d-nb.info/gnd/118547488/|Heckel, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4755.html
+https://d-nb.info/gnd/116651407/|Heilbut, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2713.html
+https://d-nb.info/gnd/116656921/|Heimann, Gertrud|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2662.html
+https://d-nb.info/gnd/118773666/|Heimann, Moritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11632.html
+https://d-nb.info/gnd/116421983/|Heims, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11636.html
+https://d-nb.info/gnd/116659068/|Heine, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2743.html
+https://d-nb.info/gnd/116321296/|Heine, Clara|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2748.html
+https://d-nb.info/gnd/118548018/|Heine, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11640.html
+https://d-nb.info/gnd/118548034/|Heine, Thomas Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11643.html
+https://d-nb.info/gnd/116686499/|Heller, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11646.html
+https://d-nb.info/gnd/119205823/|Hello, Ernest|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11650.html
+https://d-nb.info/gnd/118710478/|Hennings, Fred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11654.html
+https://d-nb.info/gnd/116719575/|Henry, Marc|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3056.html
+https://d-nb.info/gnd/102395306/|Hermodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4252.html
+https://d-nb.info/gnd/118549855/|Herodot|https://bahrschnitzler.acdh.oeaw.ac.at/pmb18163.html
+https://d-nb.info/gnd/116752947/|Herterich, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11659.html
+https://d-nb.info/gnd/116753005/|Herterich, Hilde|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4693.html
+https://d-nb.info/gnd/1015449700/|Hertwig, Aura|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2370.html
+https://d-nb.info/gnd/112456716X/|Hervay von Kirchberg, Elvira Leontine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2221.html
+https://d-nb.info/gnd/119543559/|Herzfeld, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11666.html
+https://d-nb.info/gnd/116761598/|Herzka, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11670.html
+https://d-nb.info/gnd/128540583/|Herzl, Julie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2812.html
+https://d-nb.info/gnd/118550241/|Herzl, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11673.html
+https://d-nb.info/gnd/1047571013/|Herzmansky, Bernhard (jun.)|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3801.html
+https://d-nb.info/gnd/119445980/|Herzog, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11676.html
+https://d-nb.info/gnd/11855042X/|Hesse, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11679.html
+https://d-nb.info/gnd/118550470/|Heuberger, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11684.html
+https://d-nb.info/gnd/11678508X/|Hevesi, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11687.html
+https://d-nb.info/gnd/1145417043/|Heynen, Walter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4482.html
+https://d-nb.info/gnd/118550772/|Heyse, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11691.html
+https://d-nb.info/gnd/119152924/|Hielscher, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3943.html
+https://d-nb.info/gnd/118704737/|Hildebrand, Dietrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4732.html
+https://d-nb.info/gnd/118550969/|Hildebrandt, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5088.html
+https://d-nb.info/gnd/118551132/|Hiller, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11694.html
+https://d-nb.info/gnd/1106346785/|Hinsenkamp, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3525.html
+https://d-nb.info/gnd/120532956/|Hintze, Paul von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4669.html
+https://d-nb.info/gnd/122990714/|Hirémy-Hirschl, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4565.html
+https://d-nb.info/gnd/1023895706/|Hirsch, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4367.html
+https://d-nb.info/gnd/101708122/|Hirschfeld, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11701.html
+https://d-nb.info/gnd/116914017/|Hirschfeld, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11704.html
+https://d-nb.info/gnd/119060620/|Hirschfeld, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11707.html
+https://d-nb.info/gnd/118774549/|Hirth, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11711.html
+https://d-nb.info/gnd/118551655/|Hitler, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11715.html
+https://d-nb.info/gnd/126500177/|Hochsinger, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11718.html
+https://d-nb.info/gnd/11692229X/|Hock, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11720.html
+https://d-nb.info/gnd/118552260/|Hoetger, Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11723.html
+https://d-nb.info/gnd/116924187/|Höfer, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11788.html
+https://d-nb.info/gnd/119361973/|Hoffmann, Camill|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11727.html
+https://d-nb.info/gnd/11855252X/|Hoffmann, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11730.html
+https://d-nb.info/gnd/1113760052/|Hoffmann, Norbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4401.html
+https://d-nb.info/gnd/118963805/|Höflich, Lucie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11791.html
+https://d-nb.info/gnd/118552708/|Hofmann, Ludwig von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3869.html
+https://d-nb.info/gnd/118975803/|Hofmannsthal, Christiane von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3220.html
+https://d-nb.info/gnd/116952180/|Hofmannsthal, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3244.html
+https://d-nb.info/gnd/116952199/|Hofmannsthal, Gertrude von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2292.html
+https://d-nb.info/gnd/116952202/|Hofmannsthal, Hugo August von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11737.html
+https://d-nb.info/gnd/118552759/|Hofmannsthal, Hugo von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11740.html
+https://d-nb.info/gnd/1144902630/|Hofmannsthal, Raimund von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3241.html
+https://d-nb.info/gnd/118706195/|Hofmiller, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3861.html
+https://d-nb.info/gnd/116132043/|Hohenfels, Stella|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2850.html
+https://d-nb.info/gnd/116954663/|Hohenlohe-Ingelfingen, Kraft Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3673.html
+https://d-nb.info/gnd/137601816/|Hohenlohe-Schillingsfürst, Konrad von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2686.html
+https://d-nb.info/gnd/11695549X/|Hohenlohe-Schillingsfürst, Marie von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11744.html
+https://d-nb.info/gnd/118552953/|Holbein, Hans d. J.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4080.html
+https://d-nb.info/gnd/118973096/|Holitscher, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11749.html
+https://d-nb.info/gnd/116961805/|Hollaender, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11752.html
+https://d-nb.info/gnd/134070305/|Holländer, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11756.html
+https://d-nb.info/gnd/118862944/|Holm, Korfiz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11760.html
+https://d-nb.info/gnd/118553216/|Holz, Arno|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11763.html
+https://d-nb.info/gnd/116971843/|Holzapfel, Heribert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3888.html
+https://d-nb.info/gnd/118553259/|Holzapfel, Rudolf Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11767.html
+https://d-nb.info/gnd/116972254/|Holzer, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11771.html
+https://d-nb.info/gnd/132875225/|Holzinger, Ferdinand von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2477.html
+https://d-nb.info/gnd/11855333X/|Homer|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2495.html
+https://d-nb.info/gnd/118553569/|Horaz, Quintus|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3516.html
+https://d-nb.info/gnd/116982802/|Horch, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11774.html
+https://d-nb.info/gnd/1075767687/|Horn, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11777.html
+https://d-nb.info/gnd/106165320X/|Horwitz, Mirjam|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2549.html
+https://d-nb.info/gnd/119180936/|Huet, Pierre Daniel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4099.html
+https://d-nb.info/gnd/118555286/|Ibsen, Henrik|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11798.html
+https://d-nb.info/gnd/133030571/|Jacob, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4445.html
+https://d-nb.info/gnd/118556312/|Jacobi, Friedrich Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11803.html
+https://d-nb.info/gnd/105080152/|Jacobi, Lucy von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11806.html
+https://d-nb.info/gnd/118711172/|Jacobsen, Jens Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11809.html
+https://d-nb.info/gnd/118556371/|Jacobsohn, Siegfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11813.html
+https://d-nb.info/gnd/117047880/|Jacobson, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3579.html
+https://d-nb.info/gnd/118556657/|Jahn, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4203.html
+https://d-nb.info/gnd/1012676099/|Jamrich, Maria Helene|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2732.html
+https://d-nb.info/gnd/117078603/|Janisch, Antonie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2464.html
+https://d-nb.info/gnd/118556932/|Jannings, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11816.html
+https://d-nb.info/gnd/118711873/|Jaques-Dalcroze, Émile|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3933.html
+https://d-nb.info/gnd/116653981/|Jarno, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2601.html
+https://d-nb.info/gnd/118557114/|Jászi, Oszkár|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3839.html
+https://d-nb.info/gnd/118776045/|Jauner, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2928.html
+https://d-nb.info/gnd/118557211/|Jean Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4332.html
+https://d-nb.info/gnd/137455666/|Jensen, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4179.html
+https://d-nb.info/gnd/118776126/|Jensen, Johannes Vilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11820.html
+https://d-nb.info/gnd/117115517/|Jerome, Jerome Klapka|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2697.html
+https://d-nb.info/gnd/119145146/|Jerusalem, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11829.html
+https://d-nb.info/gnd/117116149/|Jerusalem, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11832.html
+https://d-nb.info/gnd/118557491/|Jessner, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11836.html
+https://d-nb.info/gnd/1012834638/|Jettel-Ettenach, Emil von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2196.html
+https://d-nb.info/gnd/118557548/|Jirásek, Alois|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2749.html
+https://d-nb.info/gnd/137707231/|Joachim, Jaques|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28812.html
+https://d-nb.info/gnd/117175668/|Jonas, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4532.html
+https://d-nb.info/gnd/117177199/|Jordan, Egon von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11842.html
+https://d-nb.info/gnd/118558404/|Josef II.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3084.html
+https://d-nb.info/gnd/1084245701/|Jung, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2987.html
+https://d-nb.info/gnd/116015675/|Kadelburg, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11845.html
+https://d-nb.info/gnd/116012242/|Kadelburg, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11848.html
+https://d-nb.info/gnd/141477482/|Kafka, Eduard Michael|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2563.html
+https://d-nb.info/gnd/116017538/|Kahane, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3025.html
+https://d-nb.info/gnd/118559389/|Kainz, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11851.html
+https://d-nb.info/gnd/116026324/|Kainz, Margarethe|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2273.html
+https://d-nb.info/gnd/116033274/|Kainz, Sarah|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3908.html
+https://d-nb.info/gnd/126588465/|Kalbeck, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11854.html
+https://d-nb.info/gnd/11603498X/|Kalbeck, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11857.html
+https://d-nb.info/gnd/116032413/|Kallina, Anna|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11860.html
+https://d-nb.info/gnd/10918825X/|Kallmus, Dora|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28340.html
+https://d-nb.info/gnd/116035803/|Kamlah, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4525.html
+https://d-nb.info/gnd/116036133/|Kamnitzer, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11863.html
+https://d-nb.info/gnd/119526425/|Kanner, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11867.html
+https://d-nb.info/gnd/118559796/|Kant, Immanuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11871.html
+https://d-nb.info/gnd/116053585/|Kapp, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11877.html
+https://d-nb.info/gnd/116053747/|Kapper, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11882.html
+https://d-nb.info/gnd/13707851X/|Karczag, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3105.html
+https://d-nb.info/gnd/12061278X/|Karg-Bebenburg, Edgar von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2219.html
+https://d-nb.info/gnd/116068442/|Karg-Bebenburg, Hannibal von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2506.html
+https://d-nb.info/gnd/118560093/|Karl V.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3986.html
+https://d-nb.info/gnd/117302996/|Karlweis, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13082.html
+https://d-nb.info/gnd/132792044/|Karminski, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2573.html
+https://d-nb.info/gnd/116060301/|Karpath, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11885.html
+https://d-nb.info/gnd/118560492/|Kassner, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5096.html
+https://d-nb.info/gnd/1026723396/|Kaufmann, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2496.html
+https://d-nb.info/gnd/134087682/|Kaufmann, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11888.html
+https://d-nb.info/gnd/11607888X/|Kautsky, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3250.html
+https://d-nb.info/gnd/11609026X/|Kayser, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11891.html
+https://d-nb.info/gnd/118721402/|Kayssler, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11895.html
+https://d-nb.info/gnd/118561057/|Keller, Albert von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3264.html
+https://d-nb.info/gnd/118561162/|Kellermann, Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11900.html
+https://d-nb.info/gnd/118777068/|Keppler, Paul Wilhelm von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3698.html
+https://d-nb.info/gnd/11856157X/|Kerr, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11910.html
+https://d-nb.info/gnd/118561685/|Kessler, Harry von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11916.html
+https://d-nb.info/gnd/118561812/|Keyserling, Eduard von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3797.html
+https://d-nb.info/gnd/116168706/|Kienzl, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11924.html
+https://d-nb.info/gnd/118723081/|Kippenberg, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11927.html
+https://d-nb.info/gnd/1013340876/|Kirsch, August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3409.html
+https://d-nb.info/gnd/1015708226/|Kiss-Ittebe, Nikolaus von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2917.html
+https://d-nb.info/gnd/11856269X/|Klages, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11930.html
+https://d-nb.info/gnd/118563076/|Kleist, Heinrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11933.html
+https://d-nb.info/gnd/118812602/|Kley, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2306.html
+https://d-nb.info/gnd/118563289/|Klimt, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11941.html
+https://d-nb.info/gnd/116228679/|Klinenberger, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3916.html
+https://d-nb.info/gnd/118563335/|Klinger, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11944.html
+https://d-nb.info/gnd/116231874/|Klöpfer, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11948.html
+https://d-nb.info/gnd/118563599/|Knackfuß, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3542.html
+https://d-nb.info/gnd/116249412/|Knappe, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2331.html
+https://d-nb.info/gnd/116250933/|Knebel, Henriette von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4153.html
+https://d-nb.info/gnd/118777505/|Knebel, Karl Ludwig von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4158.html
+https://d-nb.info/gnd/118967029/|Koch, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3400.html
+https://d-nb.info/gnd/116273143/|Koch, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11952.html
+https://d-nb.info/gnd/11628594X/|Koehne, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3949.html
+https://d-nb.info/gnd/118713434/|Koerber, Ernest von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11955.html
+https://d-nb.info/gnd/1013725182/|Koessler, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3127.html
+https://d-nb.info/gnd/118564722/|Kokoschka, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11958.html
+https://d-nb.info/gnd/118713698/|Kolb, Annette|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4351.html
+https://d-nb.info/gnd/13021308X/|König, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12019.html
+https://d-nb.info/gnd/101334071X/|Korff, Arnold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2249.html
+https://d-nb.info/gnd/11856448X/|Körner, Christian Gottfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3460.html
+https://d-nb.info/gnd/118713477/|Körner, Hermine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12022.html
+https://d-nb.info/gnd/118565494/|Kornfeld, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb38617.html
+https://d-nb.info/gnd/118715054/|Korngold, Erich Wolfgang|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11969.html
+https://d-nb.info/gnd/119060094/|Korngold, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11972.html
+https://d-nb.info/gnd/118565591/|Kortner, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11975.html
+https://d-nb.info/gnd/130214523/|Krakauer, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11978.html
+https://d-nb.info/gnd/118777920/|Kralik, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3731.html
+https://d-nb.info/gnd/116376309/|Kramer, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11981.html
+https://d-nb.info/gnd/118813439/|Kranewitter, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11984.html
+https://d-nb.info/gnd/1020867086/|Kranz, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3551.html
+https://d-nb.info/gnd/118566288/|Kraus, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11988.html
+https://d-nb.info/gnd/118917862/|Krejčí, František Václav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4300.html
+https://d-nb.info/gnd/116518960/|Krell, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb11995.html
+https://d-nb.info/gnd/118715917/|Kretzer, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2907.html
+https://d-nb.info/gnd/116568720/|Krupp, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3415.html
+https://d-nb.info/gnd/130215856/|Kuenburg, Gandolf von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4915.html
+https://d-nb.info/gnd/136601677/|Kuffner, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3046.html
+https://d-nb.info/gnd/136602223/|Kuh, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3304.html
+https://d-nb.info/gnd/1060906619/|Kühne, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3656.html
+https://d-nb.info/gnd/116589817/|Kühnemann, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3896.html
+https://d-nb.info/gnd/116628081/|Kutschera, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2868.html
+https://d-nb.info/gnd/118725653/|Kutter, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3582.html
+https://d-nb.info/gnd/118778293/|Kvapil, Jaroslav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12011.html
+https://d-nb.info/gnd/116640618/|Lackner, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12025.html
+https://d-nb.info/gnd/118725971/|Lagarde, Paul Anton de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3641.html
+https://d-nb.info/gnd/1077267452/|La Jeunesse, Ernest|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4467.html
+https://d-nb.info/gnd/118726110/|Lammasch, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28855.html
+https://d-nb.info/gnd/118569015/|Lamprecht, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2295.html
+https://d-nb.info/gnd/118569074/|Landauer, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12031.html
+https://d-nb.info/gnd/1030216444/|Landesberg, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2577.html
+https://d-nb.info/gnd/136170862/|Landesberger, Julius von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12034.html
+https://d-nb.info/gnd/116682418/|Landshoff, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3882.html
+https://d-nb.info/gnd/1024091058/|Lang, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4801.html
+https://d-nb.info/gnd/120994429/|Lang, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4798.html
+https://d-nb.info/gnd/118726420/|Langen, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3379.html
+https://d-nb.info/gnd/130217034/|Langkammer, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12037.html
+https://d-nb.info/gnd/116724900/|Langkammer, Margarete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12040.html
+https://d-nb.info/gnd/116731281/|Lantz, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2959.html
+https://d-nb.info/gnd/118569910/|Lassalle, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3471.html
+https://d-nb.info/gnd/118569945/|Lasso, Orlando di|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2832.html
+https://d-nb.info/gnd/120739755/|Latzko, Andreas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3135.html
+https://d-nb.info/gnd/118570080/|Laube, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2702.html
+https://d-nb.info/gnd/116769068/|Lautenburg, Sigmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2598.html
+https://d-nb.info/gnd/126703019/|Lavedan, Henri Léon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2488.html
+https://d-nb.info/gnd/141657472/|Lecher, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4900.html
+https://d-nb.info/gnd/119339110/|Ledwinka, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5085.html
+https://d-nb.info/gnd/116853999/|Lee, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12043.html
+https://d-nb.info/gnd/116856246/|Lefler, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12047.html
+https://d-nb.info/gnd/116862319/|Lehmann, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2865.html
+https://d-nb.info/gnd/118883933/|Lehmann, Lilli|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28827.html
+https://d-nb.info/gnd/116871199/|Lehmann, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5079.html
+https://d-nb.info/gnd/116874228/|Lehner, Gilbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2677.html
+https://d-nb.info/gnd/11689038X/|Leitich, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2962.html
+https://d-nb.info/gnd/132977613/|Lenobel, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3297.html
+https://d-nb.info/gnd/1017535205/|Lenoir, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3308.html
+https://d-nb.info/gnd/115460608/|Léon, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2337.html
+https://d-nb.info/gnd/11695003X/|Lessing, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12050.html
+https://d-nb.info/gnd/118572121/|Lessing, Gotthold Ephraim|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12053.html
+https://d-nb.info/gnd/116961961/|Levetzow, Karl Michael von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12056.html
+https://d-nb.info/gnd/1055141987/|Levi, Cesare|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2242.html
+https://d-nb.info/gnd/11696491X/|Levin, Willy|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3711.html
+https://d-nb.info/gnd/116969237/|Levysohn, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3382.html
+https://d-nb.info/gnd/116972130/|Lewinsky, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12061.html
+https://d-nb.info/gnd/118572628/|Lichtenberg, Georg Christoph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12064.html
+https://d-nb.info/gnd/118572652/|Lichtwark, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3403.html
+https://d-nb.info/gnd/119061678/|Lieben, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4020.html
+https://d-nb.info/gnd/118572695/|Liebermann, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12068.html
+https://d-nb.info/gnd/117241539/|Liechtenstein, Hedwig von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2805.html
+https://d-nb.info/gnd/118572954/|Liliencron, Detlev von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12071.html
+https://d-nb.info/gnd/118834193/|Lilienthal, Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2263.html
+https://d-nb.info/gnd/118780034/|Lindau, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12078.html
+https://d-nb.info/gnd/117026190/|Lindner, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12081.html
+https://d-nb.info/gnd/117036609/|Linsemann, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12085.html
+https://d-nb.info/gnd/11906815X/|Lipiner, Siegfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12088.html
+https://d-nb.info/gnd/139319417/|Lippowitz, Jakob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4054.html
+https://d-nb.info/gnd/1019772751/|Lipschütz, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3354.html
+https://d-nb.info/gnd/1127163329/|Lissl, Lucie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4176.html
+https://d-nb.info/gnd/118573519/|Liszt, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12092.html
+https://d-nb.info/gnd/117066478/|Litzmann, Berthold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12096.html
+https://d-nb.info/gnd/117066494/|Litzmann, Grete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3709.html
+https://d-nb.info/gnd/1019982586/|Lobkowitz, Zdenko von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4291.html
+https://d-nb.info/gnd/118728814/|Loerke, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3878.html
+https://d-nb.info/gnd/117167975/|Loewe, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2941.html
+https://d-nb.info/gnd/117190640/|Loewy, Siegfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12101.html
+https://d-nb.info/gnd/117196746/|Lohner, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12104.html
+https://d-nb.info/gnd/11857423X/|Loos, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3612.html
+https://d-nb.info/gnd/119201046/|Loos, Lina|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3004.html
+https://d-nb.info/gnd/117245860/|Lorenz, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3774.html
+https://d-nb.info/gnd/117221201/|Lossen, Lina|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12111.html
+https://d-nb.info/gnd/119545063/|Lothar, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2570.html
+https://d-nb.info/gnd/118780522/|Loti, Pierre|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12114.html
+https://d-nb.info/gnd/117168912/|Löwenfeld, Raphael|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12140.html
+https://d-nb.info/gnd/119107473/|Löwenstamm, Emma|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2327.html
+https://d-nb.info/gnd/133661733/|Löwenthal, Josef Arthur von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2604.html
+https://d-nb.info/gnd/17332195X/|Löwy, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3300.html
+https://d-nb.info/gnd/117253421/|Lubin, Germaine Léontine Angélique|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12119.html
+https://d-nb.info/gnd/118574841/|Ludendorff, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12122.html
+https://d-nb.info/gnd/118574973/|Ludwig, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12129.html
+https://d-nb.info/gnd/118729578/|Lueger, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3561.html
+https://d-nb.info/gnd/11734138X/|Lugné-Poe, Aurélien-Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3690.html
+https://d-nb.info/gnd/118575449/|Luther, Martin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12136.html
+https://d-nb.info/gnd/117323896/|Lutz, Émile|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2206.html
+https://d-nb.info/gnd/117331899/|Lux, Josef August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb20690.html
+https://d-nb.info/gnd/116000309/|L’Arronge, Adolph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2823.html
+https://d-nb.info/gnd/11857566X/|Macaulay, Thomas Babington|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4660.html
+https://d-nb.info/gnd/118575767/|Mach, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12147.html
+https://d-nb.info/gnd/118781022/|Machar, Josef Svatopluk|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2124.html
+https://d-nb.info/gnd/118575856/|Mackay, John Henry|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12152.html
+https://d-nb.info/gnd/118919431/|Madelung, Aage|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4354.html
+https://d-nb.info/gnd/118576089/|Maeterlinck, Maurice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12156.html
+https://d-nb.info/gnd/11857633X/|Mahler, Alma Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12160.html
+https://d-nb.info/gnd/118576291/|Mahler, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12163.html
+https://d-nb.info/gnd/118730347/|Makart, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12167.html
+https://d-nb.info/gnd/116724919/|Mamroth, Fedor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4986.html
+https://d-nb.info/gnd/118577131/|Mann, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12170.html
+https://d-nb.info/gnd/11857714X/|Mann, Katia|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12173.html
+https://d-nb.info/gnd/137078471/|Mann, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4424.html
+https://d-nb.info/gnd/118577166/|Mann, Thomas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12176.html
+https://d-nb.info/gnd/137128967/|Manteuffel-Szoege, Georg von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2625.html
+https://d-nb.info/gnd/116737271/|Manz, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3930.html
+https://d-nb.info/gnd/130141283/|Maran, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12179.html
+https://d-nb.info/gnd/116758570/|Marberg, Lili|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3694.html
+https://d-nb.info/gnd/119159686/|Marbot, Marcellin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3445.html
+https://d-nb.info/gnd/1042453934/|Marcus, Gerda Frederika|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3151.html
+https://d-nb.info/gnd/118577867/|Maria Theresia von Österreich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4255.html
+https://d-nb.info/gnd/116781130/|Maril, Konrad|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4374.html
+https://d-nb.info/gnd/118577972/|Marivaux, Pierre Carlet de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12187.html
+https://d-nb.info/gnd/139710450/|Markbreiter, Edmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3814.html
+https://d-nb.info/gnd/139657037/|Markbreiter, Phillip|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2473.html
+https://d-nb.info/gnd/1020954558/|Markus, Elisabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12190.html
+https://d-nb.info/gnd/119365561/|Marmorek, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3857.html
+https://d-nb.info/gnd/116789999/|Marr, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12192.html
+https://d-nb.info/gnd/118578103/|Marriot, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4223.html
+https://d-nb.info/gnd/118578464/|Marwitz, Alexander von der|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3644.html
+https://d-nb.info/gnd/118578537/|Marx, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12195.html
+https://d-nb.info/gnd/118782487/|Massinger, Philip|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3630.html
+https://d-nb.info/gnd/119454351/|Mauclair, Camille|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4464.html
+https://d-nb.info/gnd/118579207/|Maupassant, Guy de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12201.html
+https://d-nb.info/gnd/118579304/|Mauthner, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3386.html
+https://d-nb.info/gnd/136664415/|Mautner, Isidor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3744.html
+https://d-nb.info/gnd/1016951558/|Mautner, Jenny|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12205.html
+https://d-nb.info/gnd/122479521/|Mautner, Konrad|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12208.html
+https://d-nb.info/gnd/143073923/|Mautner, Stephan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3750.html
+https://d-nb.info/gnd/118732137/|Max von Baden|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3919.html
+https://d-nb.info/gnd/1019408758/|Mayen, Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12211.html
+https://d-nb.info/gnd/117547212/|Mayer, Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4061.html
+https://d-nb.info/gnd/117548189/|Mayer, Theodor Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12214.html
+https://d-nb.info/gnd/116525614/|Medelsky, Lotte|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2252.html
+https://d-nb.info/gnd/118574418/|Medici, Lorenzo de’|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4708.html
+https://d-nb.info/gnd/1021200573/|Mehoffer, Rudolf von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4009.html
+https://d-nb.info/gnd/118732641/|Meier-Graefe, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12217.html
+https://d-nb.info/gnd/118732722/|Meisel, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4474.html
+https://d-nb.info/gnd/116871490/|Meixner, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4127.html
+https://d-nb.info/gnd/118580566/|Mell, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12225.html
+https://d-nb.info/gnd/116876514/|Menczel, Philipp|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3119.html
+https://d-nb.info/gnd/118580779/|Mendelssohn-Bartholdy, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12228.html
+https://d-nb.info/gnd/116882239/|Menkes, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2553.html
+https://d-nb.info/gnd/116885904/|Mentzel, Elisabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3508.html
+https://d-nb.info/gnd/118733001/|Merežkovskij, Dimitrij S.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3422.html
+https://d-nb.info/gnd/116914130/|Messer, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2885.html
+https://d-nb.info/gnd/118581481/|Metternich-Sándor, Pauline von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12231.html
+https://d-nb.info/gnd/118581775/|Meyer, Conrad Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12234.html
+https://d-nb.info/gnd/119034751/|Meyer, Richard M.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12237.html
+https://d-nb.info/gnd/11682400X/|Meyerhof, Leonie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12244.html
+https://d-nb.info/gnd/117016314/|Michaelis, Dora|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2774.html
+https://d-nb.info/gnd/124591027/|Michaelis, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3064.html
+https://d-nb.info/gnd/11539396X/|Michaëlis, Karin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4408.html
+https://d-nb.info/gnd/118893297/|Michel, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12254.html
+https://d-nb.info/gnd/118582143/|Michelangelo, Buonarroti|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3155.html
+https://d-nb.info/gnd/117042242/|Millenkovich, Max von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4048.html
+https://d-nb.info/gnd/117048526/|Minor, Jakob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12258.html
+https://d-nb.info/gnd/118784226/|Mirbeau, Octave|https://bahrschnitzler.acdh.oeaw.ac.at/pmb8948.html
+https://d-nb.info/gnd/117051535/|Misch, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12261.html
+https://d-nb.info/gnd/117064858/|Mitterwurzer, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12265.html
+https://d-nb.info/gnd/118583271/|Moissi, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12274.html
+https://d-nb.info/gnd/11858331X/|Molière, Jean-Baptiste|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3272.html
+https://d-nb.info/gnd/118882368/|Moll, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12277.html
+https://d-nb.info/gnd/118583387/|Moltke, Helmuth von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12280.html
+https://d-nb.info/gnd/118583425/|Mommsen, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12283.html
+https://d-nb.info/gnd/113597196X/|Mongré, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12287.html
+https://d-nb.info/gnd/117126799/|Monnard, Heinz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3960.html
+https://d-nb.info/gnd/130117145/|Montenuovo, Alfred von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3290.html
+https://d-nb.info/gnd/11881169X/|Morgenstern, Christian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12290.html
+https://d-nb.info/gnd/118583107/|Mörike, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12323.html
+https://d-nb.info/gnd/116937807/|Moser, Gustav von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12296.html
+https://d-nb.info/gnd/118737112/|Moser, Koloman|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3280.html
+https://d-nb.info/gnd/116942037/|Mottl, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12300.html
+https://d-nb.info/gnd/118584596/|Mozart, Wolfgang Amadeus|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12303.html
+https://d-nb.info/gnd/117575836/|Müller, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12326.html
+https://d-nb.info/gnd/119054329/|Müller, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12327.html
+https://d-nb.info/gnd/118585061/|Müller, Johannes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3849.html
+https://d-nb.info/gnd/131918885/|Müller, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2353.html
+https://d-nb.info/gnd/118585339/|Müller-Guttenbrunn, Adam|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12331.html
+https://d-nb.info/gnd/141701889/|Munk, Aranka|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2757.html
+https://d-nb.info/gnd/117178942/|Münz, Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3406.html
+https://d-nb.info/gnd/1068648295/|Münz, Siegmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3213.html
+https://d-nb.info/gnd/118585940/|Musset, Alfred de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12311.html
+https://d-nb.info/gnd/118989820/|Muth, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4484.html
+https://d-nb.info/gnd/119115387/|Muther, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12319.html
+https://d-nb.info/gnd/118737805/|Nadler, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4776.html
+https://d-nb.info/gnd/1146688830/|Nagy, Gerhard von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2428.html
+https://d-nb.info/gnd/122061888/|Nansen, Betty|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2910.html
+https://d-nb.info/gnd/116882670/|Nansen, Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2357.html
+https://d-nb.info/gnd/116885157/|Nathanson, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4603.html
+https://d-nb.info/gnd/116900725/|Naumann, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3666.html
+https://d-nb.info/gnd/118820621/|Nedbal, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12335.html
+https://d-nb.info/gnd/1024305929/|Nerz, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb21858.html
+https://d-nb.info/gnd/116956739/|Neumann, Angelo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12341.html
+https://d-nb.info/gnd/118815903/|Neumann, Karl Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5104.html
+https://d-nb.info/gnd/124116221/|Neumann-Hofer, Gilbert Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12348.html
+https://d-nb.info/gnd/1019425210/|Neumayer, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12352.html
+https://d-nb.info/gnd/102208298/|Neustädter, Adele|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2361.html
+https://d-nb.info/gnd/1013054431/|Neustädter, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4416.html
+https://d-nb.info/gnd/117583693/|Neuwirth, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2430.html
+https://d-nb.info/gnd/116993359/|Nhil, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12355.html
+https://d-nb.info/gnd/118587943/|Nietzsche, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12358.html
+https://d-nb.info/gnd/11873492X/|Nikolaus II. von Russland|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2996.html
+https://d-nb.info/gnd/117022462/|Nissel, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12362.html
+https://d-nb.info/gnd/117068500/|Novelli, Ermete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2189.html
+https://d-nb.info/gnd/117069515/|Nowak, Karl F.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2790.html
+https://d-nb.info/gnd/1023036185/|Nowotny, Aurel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12368.html
+https://d-nb.info/gnd/118831240/|Ofner, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4748.html
+https://d-nb.info/gnd/1041709439/|Öhler, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4700.html
+https://d-nb.info/gnd/118589768/|Olbrich, Joseph Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3368.html
+https://d-nb.info/gnd/118915363/|Olden, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12374.html
+https://d-nb.info/gnd/118973592/|Oldenberg, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3634.html
+https://d-nb.info/gnd/117069337/|Olly, Marietta|https://bahrschnitzler.acdh.oeaw.ac.at/pmb22156.html
+https://d-nb.info/gnd/117134570/|Onno, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12378.html
+https://d-nb.info/gnd/13301763X/|Oppenheim, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12381.html
+https://d-nb.info/gnd/117138002/|Oppenheimer, Felix von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2527.html
+https://d-nb.info/gnd/118641417/|Oppenheimer, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3975.html
+https://d-nb.info/gnd/117138517/|Oppenheimer, Marie Henriette|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3190.html
+https://d-nb.info/gnd/118736426/|Oppenheimer, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12384.html
+https://d-nb.info/gnd/118590243/|Orlik, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12387.html
+https://d-nb.info/gnd/119363771/|Orloff, Ida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2556.html
+https://d-nb.info/gnd/117149721/|Ortner-Rodenstätt, Norbert von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2216.html
+https://d-nb.info/gnd/11859057X/|Ostwald, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3923.html
+https://d-nb.info/gnd/118590995/|Ovidius Naso, Publius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4079.html
+https://d-nb.info/gnd/116015454/|Pagay, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2232.html
+https://d-nb.info/gnd/133595625/|Pagin, Louise|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3753.html
+https://d-nb.info/gnd/1173197710/|Pallavicini, Alexander Oswald von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12390.html
+https://d-nb.info/gnd/118976435/|Palma, Jacopo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5107.html
+https://d-nb.info/gnd/116019298/|Pálmay, Ilka|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2362.html
+https://d-nb.info/gnd/118739166/|Pannwitz, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12392.html
+https://d-nb.info/gnd/116067144/|Papier, Rosa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4249.html
+https://d-nb.info/gnd/10420852X/|Paracelsus, Theofrastus Bombastus|https://bahrschnitzler.acdh.oeaw.ac.at/pmb42949.html
+https://d-nb.info/gnd/126769567/|Paschkis, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12396.html
+https://d-nb.info/gnd/118739476/|Pater, Walter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3430.html
+https://d-nb.info/gnd/1145492711/|Paul, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5464.html
+https://d-nb.info/gnd/130023728/|Paulsen, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12399.html
+https://d-nb.info/gnd/118739670/|Paumgartner, Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12402.html
+https://d-nb.info/gnd/116069767/|Pausinger, Franz Xaver von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4573.html
+https://d-nb.info/gnd/118592300/|Payer, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4673.html
+https://d-nb.info/gnd/116072237/|Peez, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4246.html
+https://d-nb.info/gnd/116076968/|Pendl, Erwin August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12405.html
+https://d-nb.info/gnd/119148331/|Pernerstorfer, Engelbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12408.html
+https://d-nb.info/gnd/116094028/|Peschkau, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4398.html
+https://d-nb.info/gnd/118593234/|Petrarca, Francesco|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2975.html
+https://d-nb.info/gnd/116133937/|Petri, Lilli|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3335.html
+https://d-nb.info/gnd/118826948/|Pfau, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12411.html
+https://d-nb.info/gnd/118593625/|Pfitzner, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2674.html
+https://d-nb.info/gnd/116174226/|Philipp, Reinhold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4394.html
+https://d-nb.info/gnd/116174382/|Philippi, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12414.html
+https://d-nb.info/gnd/118593862/|Phillipp II. von Spanien|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2176.html
+https://d-nb.info/gnd/118742361/|Pichler, Caroline|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3501.html
+https://d-nb.info/gnd/116184809/|Pierson, Edgar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2595.html
+https://d-nb.info/gnd/141426497/|Pietzner, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2374.html
+https://d-nb.info/gnd/118846116/|Piffl, Friedrich Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12417.html
+https://d-nb.info/gnd/118594427/|Pindaros|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4337.html
+https://d-nb.info/gnd/117688142/|Pineles, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4861.html
+https://d-nb.info/gnd/11620303X/|Pittschau, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4712.html
+https://d-nb.info/gnd/116205725/|Plappart-Leenherr, August von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3028.html
+https://d-nb.info/gnd/118594869/|Platen, August von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12424.html
+https://d-nb.info/gnd/118594893/|Platon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4336.html
+https://d-nb.info/gnd/118594974/|Plautus, Titus Maccius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4083.html
+https://d-nb.info/gnd/1041571119/|Plessner, Elsa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2128.html
+https://d-nb.info/gnd/11859527X/|Poe, Edgar Allan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12428.html
+https://d-nb.info/gnd/118792652/|Poincaré, Raymond|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12431.html
+https://d-nb.info/gnd/118595474/|Polgar, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2989.html
+https://d-nb.info/gnd/13950916X/|Pollaczek, Clara Katharina|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12435.html
+https://d-nb.info/gnd/116268301/|Poppe, Rosa|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4117.html
+https://d-nb.info/gnd/117689866/|Poppenberg, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12441.html
+https://d-nb.info/gnd/118595822/|Popper-Lynkeus, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2135.html
+https://d-nb.info/gnd/1045841935/|Portheim, Paul Porges von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4165.html
+https://d-nb.info/gnd/1089312857/|Poseidippos|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4508.html
+https://d-nb.info/gnd/116250305/|Pötzl, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12460.html
+https://d-nb.info/gnd/119304619/|Preradović, Paula von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4716.html
+https://d-nb.info/gnd/118596330/|Preradović, Petar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4764.html
+https://d-nb.info/gnd/118814125/|Prinzhorn, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12450.html
+https://d-nb.info/gnd/118742108/|Przybyszewski, Stanisław|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2891.html
+https://d-nb.info/gnd/118742116/|Przywara, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3926.html
+https://d-nb.info/gnd/116306351/|Pserhofer, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3747.html
+https://d-nb.info/gnd/118596942/|Puccini, Giacomo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12457.html
+https://d-nb.info/gnd/118597019/|Pückler-Muskau, Hermann von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12463.html
+https://d-nb.info/gnd/118597787/|Raffaello Sanzio da Urbino|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3527.html
+https://d-nb.info/gnd/118597914/|Raimund, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12468.html
+https://d-nb.info/gnd/117700886/|Rainer von Österreich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2516.html
+https://d-nb.info/gnd/1050322517/|Rambousek, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4893.html
+https://d-nb.info/gnd/119038811/|Rampolla del Tindaro, Mariano|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4437.html
+https://d-nb.info/gnd/118598430/|Rathenau, Walther|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12471.html
+https://d-nb.info/gnd/118598538/|Ratzel, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3682.html
+https://d-nb.info/gnd/118598651/|Ravel, Maurice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12474.html
+https://d-nb.info/gnd/118948652/|Rebikov, Vladimir I.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2766.html
+https://d-nb.info/gnd/120849615/|Redlich, Hans Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12478.html
+https://d-nb.info/gnd/118743724/|Redlich, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12481.html
+https://d-nb.info/gnd/118743783/|Rée, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12586.html
+https://d-nb.info/gnd/118598988/|Reger, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12484.html
+https://d-nb.info/gnd/11859902X/|Régnier, Henri de|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12591.html
+https://d-nb.info/gnd/116394382/|Reich, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb9449.html
+https://d-nb.info/gnd/1025055500/|Reichel, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12488.html
+https://d-nb.info/gnd/116398949/|Reicher, Emanuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12491.html
+https://d-nb.info/gnd/118599216/|Reik, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12495.html
+https://d-nb.info/gnd/11641488X/|Reimers, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12498.html
+https://d-nb.info/gnd/123368790/|Reinhard, Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2378.html
+https://d-nb.info/gnd/116420278/|Reinhardt, Edmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2984.html
+https://d-nb.info/gnd/118599380/|Reinhardt, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12504.html
+https://d-nb.info/gnd/139065636/|Reinhardt, Wolfgang|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5082.html
+https://d-nb.info/gnd/116089237/|Reinhold, Babette|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4200.html
+https://d-nb.info/gnd/116449403/|Ress, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3338.html
+https://d-nb.info/gnd/11864193X/|Rétif de la Bretonne, Nicolas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3978.html
+https://d-nb.info/gnd/1014062276/|Reumann, Jakob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12511.html
+https://d-nb.info/gnd/118744712/|Reuter, Gabriele|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12514.html
+https://d-nb.info/gnd/116499745/|Rheinhardt, Emil Alphons|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12518.html
+https://d-nb.info/gnd/116510498/|Richter, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3585.html
+https://d-nb.info/gnd/118744984/|Richter, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12521.html
+https://d-nb.info/gnd/132563894/|Richter, Werner|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4391.html
+https://d-nb.info/gnd/116530499/|Rickelt, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4704.html
+https://d-nb.info/gnd/107146134/|Rie, Therese|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4836.html
+https://d-nb.info/gnd/116538597/|Rieger, Erwin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12524.html
+https://d-nb.info/gnd/116543671/|Riemer, Friedrich Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4138.html
+https://d-nb.info/gnd/1025099605/|Ritscher, Helene|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2303.html
+https://d-nb.info/gnd/118788981/|Rittner, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12530.html
+https://d-nb.info/gnd/116575875/|Robert, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12537.html
+https://d-nb.info/gnd/1016959788/|Robert, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4843.html
+https://d-nb.info/gnd/118790838/|Rod, Édouard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4311.html
+https://d-nb.info/gnd/118790951/|Rohde, Erwin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4084.html
+https://d-nb.info/gnd/127594906/|Rohrer, Rudolf Maria von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4213.html
+https://d-nb.info/gnd/116057513/|Roland, Ida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12540.html
+https://d-nb.info/gnd/118602330/|Rolland, Romain|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12543.html
+https://d-nb.info/gnd/118791036/|Roller, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12548.html
+https://d-nb.info/gnd/1078379629/|Römpler, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12595.html
+https://d-nb.info/gnd/116608943/|Rosé, Arnold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12570.html
+https://d-nb.info/gnd/139242864/|Rosé, Justine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2722.html
+https://d-nb.info/gnd/118602667/|Rosegger, Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12551.html
+https://d-nb.info/gnd/11662177X/|Rosenbaum, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12556.html
+https://d-nb.info/gnd/12374203X/|Rosenberg, Adolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3436.html
+https://d-nb.info/gnd/116628405/|Rosner, Karl Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12564.html
+https://d-nb.info/gnd/116595663/|Rössler, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4858.html
+https://d-nb.info/gnd/1123758778/|Rotenstern, Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2992.html
+https://d-nb.info/gnd/139287604/|Roth, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2394.html
+https://d-nb.info/gnd/133361942/|Roth, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12573.html
+https://d-nb.info/gnd/11664155X/|Rothschild, Albert Salomon von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12576.html
+https://d-nb.info/gnd/11664169X/|Rothschild, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12579.html
+https://d-nb.info/gnd/12244826X/|Rothschild, Nathaniel Meyer von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4554.html
+https://d-nb.info/gnd/116642394/|Rottenburg, Franz Johannes von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3735.html
+https://d-nb.info/gnd/116642483/|Rotter, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb23675.html
+https://d-nb.info/gnd/116642491/|Rotter, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3876.html
+https://d-nb.info/gnd/116673001/|Rückauf, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12598.html
+https://d-nb.info/gnd/118603698/|Rudolf von Österreich-Ungarn|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2519.html
+https://d-nb.info/gnd/116706953/|Rundt, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3183.html
+https://d-nb.info/gnd/116707739/|Runge, Woldemar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2944.html
+https://d-nb.info/gnd/118604449/|Saar, Ferdinand von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12602.html
+https://d-nb.info/gnd/11879390X/|Sabatier, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4238.html
+https://d-nb.info/gnd/118604597/|Sachs, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12605.html
+https://d-nb.info/gnd/115363688/|Sachsen-Weimar, Luise von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb28430.html
+https://d-nb.info/gnd/1052525725/|Sachsen-Weimar-Eisenach, Caroline Luise von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4273.html
+https://d-nb.info/gnd/116743379/|Saenger, Samuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4387.html
+https://d-nb.info/gnd/116566795/|Salburg, Edith von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4561.html
+https://d-nb.info/gnd/116009165X/|Salm-Hoogstraeten, Alfred von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2840.html
+https://d-nb.info/gnd/118840819/|Salten, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2167.html
+https://d-nb.info/gnd/139655441/|Salten, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2922.html
+https://d-nb.info/gnd/116767464/|Salter, Norbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2610.html
+https://d-nb.info/gnd/119222140/|Salus, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12611.html
+https://d-nb.info/gnd/116767820/|Salz, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5091.html
+https://d-nb.info/gnd/116801034/|Sandow, Nina|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3768.html
+https://d-nb.info/gnd/118605429/|Sandrock, Adele|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12618.html
+https://d-nb.info/gnd/116801514/|Sandrock, Christian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2591.html
+https://d-nb.info/gnd/139483780/|Sandrock, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2608.html
+https://d-nb.info/gnd/139483802/|Sandrock, Johanna Simonetta|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2589.html
+https://d-nb.info/gnd/116801468/|Sandrock, Wilhelmine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12621.html
+https://d-nb.info/gnd/118794507/|Santayana, George|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3794.html
+https://d-nb.info/gnd/116806095/|Sarcey, Francisque|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4120.html
+https://d-nb.info/gnd/118845071/|Sarkotić, Stephan von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4649.html
+https://d-nb.info/gnd/118605747/|Sauer, August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12627.html
+https://d-nb.info/gnd/118794663/|Sauer, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2193.html
+https://d-nb.info/gnd/118606360/|Schalk, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12630.html
+https://d-nb.info/gnd/117105988/|Schapira, Vera|https://bahrschnitzler.acdh.oeaw.ac.at/pmb9667.html
+https://d-nb.info/gnd/118606522/|Scharff, Edwin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4740.html
+https://d-nb.info/gnd/117110450/|Scharwenka, Xaver|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12633.html
+https://d-nb.info/gnd/117112712/|Schaumberger, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4498.html
+https://d-nb.info/gnd/117620327/|Schauta, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12637.html
+https://d-nb.info/gnd/117185736/|Scheffer, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4634.html
+https://d-nb.info/gnd/118754351/|Scheidemann, Philipp|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4434.html
+https://d-nb.info/gnd/11875470X/|Scherl, August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3765.html
+https://d-nb.info/gnd/117221279/|Schermann, Rafael|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4427.html
+https://d-nb.info/gnd/117222879/|Scheu, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4209.html
+https://d-nb.info/gnd/11860743X/|Schickele, René|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12640.html
+https://d-nb.info/gnd/118607499/|Schiele, Egon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12645.html
+https://d-nb.info/gnd/11726413X/|Schik, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2420.html
+https://d-nb.info/gnd/139569928/|Schildkraut, Joseph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12648.html
+https://d-nb.info/gnd/117265861/|Schildkraut, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12651.html
+https://d-nb.info/gnd/118607626/|Schiller, Friedrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12654.html
+https://d-nb.info/gnd/11875503X/|Schillings, Max von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12657.html
+https://d-nb.info/gnd/119000032/|Schindler, Emil Jakob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12661.html
+https://d-nb.info/gnd/105204042X/|Schinnerer, Otto Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4412.html
+https://d-nb.info/gnd/118607871/|Schlaf, Johannes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12664.html
+https://d-nb.info/gnd/118607987/|Schlegel, Friedrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12668.html
+https://d-nb.info/gnd/118795112/|Schlenther, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12671.html
+https://d-nb.info/gnd/1146072856/|Schlesinger, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5115.html
+https://d-nb.info/gnd/1142412229/|Schlesinger, Hans Bernhard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb24239.html
+https://d-nb.info/gnd/117326518/|Schlesinger, Sigmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12674.html
+https://d-nb.info/gnd/117455784/|Schmedes, Erik|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4812.html
+https://d-nb.info/gnd/119233460/|Schmerling, Anton von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4657.html
+https://d-nb.info/gnd/1143611071/|Schmidl, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3159.html
+https://d-nb.info/gnd/118608746/|Schmidt, Erich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12678.html
+https://d-nb.info/gnd/104325011/|Schmidt, Friedrich Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4146.html
+https://d-nb.info/gnd/117506567/|Schmidt, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3669.html
+https://d-nb.info/gnd/117538884/|Schmidt, Lothar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12681.html
+https://d-nb.info/gnd/1031155201/|Schmitt-Gasteiger, Felix von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4896.html
+https://d-nb.info/gnd/119328267/|Schmitz, Oscar A. H.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12685.html
+https://d-nb.info/gnd/117644684/|Schmoranz, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10729.html
+https://d-nb.info/gnd/116816902/|Schmutzer, Alice|https://bahrschnitzler.acdh.oeaw.ac.at/pmb9734.html
+https://d-nb.info/gnd/118760017/|Schmutzer, Ferdinand|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12689.html
+https://d-nb.info/gnd/118609807/|Schnitzler, Arthur|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2121.html
+https://d-nb.info/gnd/116848510/|Schnitzler, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12692.html
+https://d-nb.info/gnd/116848669/|Schnitzler, Johann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12695.html
+https://d-nb.info/gnd/116848693/|Schnitzler, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12698.html
+https://d-nb.info/gnd/131362089/|Schnitzler, Lili|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2238.html
+https://d-nb.info/gnd/1141930552/|Schnitzler, Louise|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12701.html
+https://d-nb.info/gnd/116848723/|Schnitzler, Olga|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2173.html
+https://d-nb.info/gnd/130068101/|Schnitzler, Ruth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5960.html
+https://d-nb.info/gnd/116889713/|Schoeppl, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12704.html
+https://d-nb.info/gnd/116895500/|Scholander, Sven|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12707.html
+https://d-nb.info/gnd/123641314/|Scholl, Aurélien|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4869.html
+https://d-nb.info/gnd/135051223/|Scholz, Arthur Johannes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2270.html
+https://d-nb.info/gnd/116859989/|Schönbach, Anton Emanuel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3330.html
+https://d-nb.info/gnd/118610023/|Schönberg, Arnold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12743.html
+https://d-nb.info/gnd/116867272/|Schöne, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12746.html
+https://d-nb.info/gnd/118758926/|Schönherr, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12749.html
+https://d-nb.info/gnd/1032097493/|Schönhoff, Leopold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3390.html
+https://d-nb.info/gnd/11879535X/|Schönlein, Johann Lukas|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2138.html
+https://d-nb.info/gnd/1052277837/|Schott, Werner|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12711.html
+https://d-nb.info/gnd/118759280/|Schratt, Katharina|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2680.html
+https://d-nb.info/gnd/117041009/|Schreiber, Clara|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4329.html
+https://d-nb.info/gnd/118610740/|Schreker, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12718.html
+https://d-nb.info/gnd/117072672/|Schröder, Karl Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4528.html
+https://d-nb.info/gnd/11708204X/|Schrödter, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12726.html
+https://d-nb.info/gnd/118610961/|Schubert, Franz Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12729.html
+https://d-nb.info/gnd/117116955/|Schubin, Ossip|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3853.html
+https://d-nb.info/gnd/1025494024/|Schuchter, Johanna|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4918.html
+https://d-nb.info/gnd/117160113/|Schulbaur, Heinz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10736.html
+https://d-nb.info/gnd/117751472/|Schülein, Julius Wolfgang|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12753.html
+https://d-nb.info/gnd/118611666/|Schumann, Robert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12733.html
+https://d-nb.info/gnd/117310891/|Schupp, Falk|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12737.html
+https://d-nb.info/gnd/118762699/|Schuré, Édouard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5101.html
+https://d-nb.info/gnd/11946747X/|Schurtz, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3686.html
+https://d-nb.info/gnd/130149381/|Schütz, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2583.html
+https://d-nb.info/gnd/13052624X/|Schwarz, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4039.html
+https://d-nb.info/gnd/1014997828/|Schwarzkopf, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12740.html
+https://d-nb.info/gnd/117418536/|Schweninger, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3835.html
+https://d-nb.info/gnd/118612425/|Scribe, Eugène|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12756.html
+https://d-nb.info/gnd/138573018/|Séailles, Gabriel|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4521.html
+https://d-nb.info/gnd/1070181080/|Sealsfield, Charles|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4688.html
+https://d-nb.info/gnd/11744037X/|Seebach, Nikolaus von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12759.html
+https://d-nb.info/gnd/117464929/|Seidler-Feuchtenegg, Ernst von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2530.html
+https://d-nb.info/gnd/11861293X/|Seipel, Ignaz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12762.html
+https://d-nb.info/gnd/117473995/|Seligmann, Adalbert Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12769.html
+https://d-nb.info/gnd/117467979/|Servaes, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12772.html
+https://d-nb.info/gnd/118613510/|Seuse, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4258.html
+https://d-nb.info/gnd/117475114/|Seybel, Georg von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3058.html
+https://d-nb.info/gnd/118613723/|Shakespeare, William|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2412.html
+https://d-nb.info/gnd/118642375/|Shaw, George Bernard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2381.html
+https://d-nb.info/gnd/118613774/|Shelley, Percy Bysshe|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3482.html
+https://d-nb.info/gnd/117355526/|Siebertz, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3831.html
+https://d-nb.info/gnd/117364452/|Sieghart, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12775.html
+https://d-nb.info/gnd/118614436/|Simmel, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12778.html
+https://d-nb.info/gnd/120805537/|Simon, Antoine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4319.html
+https://d-nb.info/gnd/117398454/|Simon, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3186.html
+https://d-nb.info/gnd/129962317/|Simon, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4362.html
+https://d-nb.info/gnd/142518697/|Simon, Josef|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12781.html
+https://d-nb.info/gnd/117394300/|Simon, Richard Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12785.html
+https://d-nb.info/gnd/117398071/|Simons, Rainer|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12787.html
+https://d-nb.info/gnd/115998140X/|Singer, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2581.html
+https://d-nb.info/gnd/117402273/|Singer, Isidor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12790.html
+https://d-nb.info/gnd/117402834/|Singer, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2202.html
+https://d-nb.info/gnd/118797441/|Sitte, Camillo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12793.html
+https://d-nb.info/gnd/11741848X/|Sitte, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3715.html
+https://d-nb.info/gnd/11742482X/|Skowronnek, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2827.html
+https://d-nb.info/gnd/130153729/|Skrein, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12796.html
+https://d-nb.info/gnd/118614916/|Skriabin, Alexandr N.|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3236.html
+https://d-nb.info/gnd/11742613X/|Sladek, Maximilian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4441.html
+https://d-nb.info/gnd/1019642289/|Slezak, Elisabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3077.html
+https://d-nb.info/gnd/118614959/|Slezak, Leo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12800.html
+https://d-nb.info/gnd/117429333/|Smekal, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4012.html
+https://d-nb.info/gnd/118615017/|Smetana, Bedřich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3952.html
+https://d-nb.info/gnd/118883658/|Smyth, Ethel Mary|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12804.html
+https://d-nb.info/gnd/1089729537/|Sokol, Hans Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4826.html
+https://d-nb.info/gnd/118615270/|Sokrates|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3723.html
+https://d-nb.info/gnd/1035228793/|Sonnenfeld, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3109.html
+https://d-nb.info/gnd/119343207/|Sonnenthal, Adolf von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12809.html
+https://d-nb.info/gnd/118798073/|Sorma, Agnes|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2299.html
+https://d-nb.info/gnd/136371906/|Spannring, Luise|https://bahrschnitzler.acdh.oeaw.ac.at/pmb5074.html
+https://d-nb.info/gnd/117481947/|Specht, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2456.html
+https://d-nb.info/gnd/117482609/|Speidel, Albert von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12813.html
+https://d-nb.info/gnd/117482625/|Speidel, Felix|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2646.html
+https://d-nb.info/gnd/117482684/|Speidel, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12816.html
+https://d-nb.info/gnd/116358424/|Speidel-Haeberle, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2642.html
+https://d-nb.info/gnd/1035552752/|Spitzer, Friedrich Viktor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3073.html
+https://d-nb.info/gnd/118867342/|Spitzmüller, Alexander von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4642.html
+https://d-nb.info/gnd/129273104/|Springer, Gustav von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2397.html
+https://d-nb.info/gnd/117201642/|Stägemann, Eugen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12889.html
+https://d-nb.info/gnd/1044196173/|Stauber, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3253.html
+https://d-nb.info/gnd/11875288X/|Stauffer-Bern, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4002.html
+https://d-nb.info/gnd/116299541/|Stauf von der March, Ottokar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12823.html
+https://d-nb.info/gnd/120199939/|Steed, Wickham Henry|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3844.html
+https://d-nb.info/gnd/117225789/|Stefan, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12826.html
+https://d-nb.info/gnd/117243426/|Stein, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12829.html
+https://d-nb.info/gnd/117657654/|Stein, Philipp|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3593.html
+https://d-nb.info/gnd/118617443/|Steiner, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12832.html
+https://d-nb.info/gnd/117263923/|Steinrück, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12837.html
+https://d-nb.info/gnd/117263958/|Steinrück, Elisabeth|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2315.html
+https://d-nb.info/gnd/1057769169/|Steinsieck, Annemarie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12841.html
+https://d-nb.info/gnd/118753444/|Stelzhamer, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3622.html
+https://d-nb.info/gnd/1026780381/|Stern, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3162.html
+https://d-nb.info/gnd/1036555747/|Sternberg, Julian|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3021.html
+https://d-nb.info/gnd/118617958/|Sternheim, Carl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12848.html
+https://d-nb.info/gnd/1036573850/|Stibral, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4890.html
+https://d-nb.info/gnd/117257478/|Stieler, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10733.html
+https://d-nb.info/gnd/118618156/|Stifter, Adalbert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12851.html
+https://d-nb.info/gnd/118618229/|Stinnes, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4676.html
+https://d-nb.info/gnd/117261378/|Stockert-Meynert, Dora von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12855.html
+https://d-nb.info/gnd/118798987/|Stoessl, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12858.html
+https://d-nb.info/gnd/117286842/|Stollberg, Georg|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3365.html
+https://d-nb.info/gnd/117306207/|Strakosch, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10065.html
+https://d-nb.info/gnd/117308668/|Strassni, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2256.html
+https://d-nb.info/gnd/11875582X/|Straus, Oscar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12861.html
+https://d-nb.info/gnd/118755846/|Strauss, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12864.html
+https://d-nb.info/gnd/11861911X/|Strauss, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12870.html
+https://d-nb.info/gnd/129223050/|Strauß, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4458.html
+https://d-nb.info/gnd/11731725X/|Streicher, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12873.html
+https://d-nb.info/gnd/1062244702/|Strial, Alexander|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4833.html
+https://d-nb.info/gnd/118619314/|Strindberg, August|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12877.html
+https://d-nb.info/gnd/118828843/|Strindberg, Frida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb25665.html
+https://d-nb.info/gnd/118799169/|Strnad, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12880.html
+https://d-nb.info/gnd/117348643/|Strunz, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12883.html
+https://d-nb.info/gnd/118619543/|Stuck, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3904.html
+https://d-nb.info/gnd/11861956X/|Stucken, Eduard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12886.html
+https://d-nb.info/gnd/117677957/|Stürgkh, Karl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12896.html
+https://d-nb.info/gnd/119212919/|Südekum, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12909.html
+https://d-nb.info/gnd/116858370/|Sudermann, Clara|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4606.html
+https://d-nb.info/gnd/118619853/|Sudermann, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12899.html
+https://d-nb.info/gnd/104934720X/|Sussin, Mathilde|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4535.html
+https://d-nb.info/gnd/101155891/|Suttner, Arthur Gundaccar von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4149.html
+https://d-nb.info/gnd/118620126/|Suttner, Bertha von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12906.html
+https://d-nb.info/gnd/120148595/|Sylvester, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4911.html
+https://d-nb.info/gnd/11862055X/|Taine, Hippolyte|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12913.html
+https://d-nb.info/gnd/117198102/|Tal, Ernst Peter|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4621.html
+https://d-nb.info/gnd/118620657/|Tandler, Julius|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12917.html
+https://d-nb.info/gnd/127956999/|Tann-Bergler, Ottokar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12920.html
+https://d-nb.info/gnd/139328874/|Taussig, Theodor von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12923.html
+https://d-nb.info/gnd/117254924/|Telmann, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12926.html
+https://d-nb.info/gnd/117273619/|Terofal, Xaver|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3982.html
+https://d-nb.info/gnd/1066602875/|Teubler, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3149.html
+https://d-nb.info/gnd/117295973/|Tewele, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12929.html
+https://d-nb.info/gnd/117296023/|Teweles, Heinrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12932.html
+https://d-nb.info/gnd/117227269/|Thaller, Kathi|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3341.html
+https://d-nb.info/gnd/11729859X/|Thaller, Wilhelm|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12936.html
+https://d-nb.info/gnd/119282062/|Thayer, Scofield|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2276.html
+https://d-nb.info/gnd/118621793/|Theophrast von Eresos|https://bahrschnitzler.acdh.oeaw.ac.at/pmb10739.html
+https://d-nb.info/gnd/118622005/|Thiersch, Friedrich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3504.html
+https://d-nb.info/gnd/118757105/|Thimig, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12939.html
+https://d-nb.info/gnd/118757113/|Thimig, Helene|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12942.html
+https://d-nb.info/gnd/118757121/|Thimig, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12945.html
+https://d-nb.info/gnd/11875713X/|Thimig, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12948.html
+https://d-nb.info/gnd/118622064/|Thoma, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4557.html
+https://d-nb.info/gnd/130163856/|Thomasberger, Kurt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3247.html
+https://d-nb.info/gnd/117353183/|Thorel, Jean|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3966.html
+https://d-nb.info/gnd/130164046/|Thun, Franz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4639.html
+https://d-nb.info/gnd/1063824923/|Thun-Hohenstein, Emmerich von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12951.html
+https://d-nb.info/gnd/10189743X/|Thun-Hohenstein, Jaroslav von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12954.html
+https://d-nb.info/gnd/116968621/|Thun-Hohenstein, Paul von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4051.html
+https://d-nb.info/gnd/12989432X/|Tieck, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4132.html
+https://d-nb.info/gnd/117381845/|Tietze, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12958.html
+https://d-nb.info/gnd/118802259/|Tillier, Claude|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2717.html
+https://d-nb.info/gnd/118622854/|Tintoretto, Jacobo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3173.html
+https://d-nb.info/gnd/11864291X/|Tolstoi, Leo N. von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3739.html
+https://d-nb.info/gnd/117421243/|Tovote, Heinz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12965.html
+https://d-nb.info/gnd/119112418/|Traub, Gottfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3900.html
+https://d-nb.info/gnd/118840150/|Trebitsch, Siegfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12968.html
+https://d-nb.info/gnd/1127365606/|Trebitsch, Sigmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4544.html
+https://d-nb.info/gnd/1077569874/|Trentin, Angelo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3268.html
+https://d-nb.info/gnd/117414719/|Tressler, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12971.html
+https://d-nb.info/gnd/117415294/|Treu, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3015.html
+https://d-nb.info/gnd/117418323/|Triesch, Friedrich Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12974.html
+https://d-nb.info/gnd/117418366/|Triesch, Irene|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12977.html
+https://d-nb.info/gnd/118624024/|Troeltsch, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4907.html
+https://d-nb.info/gnd/118638157/|Tschaikowski, Pjotr Iljitsch|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2540.html
+https://d-nb.info/gnd/117439983/|Tyrolt, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12980.html
+https://d-nb.info/gnd/117249238/|Ubell, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12984.html
+https://d-nb.info/gnd/117268054/|Uhl, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12987.html
+https://d-nb.info/gnd/119505606/|Ullmann, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12990.html
+https://d-nb.info/gnd/1157674712/|Umanskij, Dmitrij|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4736.html
+https://d-nb.info/gnd/118763725/|Unger, Joseph|https://bahrschnitzler.acdh.oeaw.ac.at/pmb54783.html
+https://d-nb.info/gnd/118625527/|Unruh, Fritz von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12993.html
+https://d-nb.info/gnd/117310565/|Untermeyer, Jean|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4451.html
+https://d-nb.info/gnd/1020552328/|Untermeyer, Louis|https://bahrschnitzler.acdh.oeaw.ac.at/pmb12997.html
+https://d-nb.info/gnd/117680680/|Urbantschitsch, Viktor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3018.html
+https://d-nb.info/gnd/117324817/|Vacano, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2957.html
+https://d-nb.info/gnd/118625810/|Vaihinger, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3564.html
+https://d-nb.info/gnd/117341622/|Vallentin, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2235.html
+https://d-nb.info/gnd/118626167/|Varnhagen-Ense, Karl August von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13001.html
+https://d-nb.info/gnd/119228866/|Veidt, Conrad|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13004.html
+https://d-nb.info/gnd/118626426/|Velázquez, Diego Rodríguez de Silva y|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2181.html
+https://d-nb.info/gnd/118804219/|Verlaine, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13011.html
+https://d-nb.info/gnd/119017679/|Vojnović, Ivo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4226.html
+https://d-nb.info/gnd/101888546/|Vojnović, Lujo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4230.html
+https://d-nb.info/gnd/118805681/|Vollmoeller, Karl Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13014.html
+https://d-nb.info/gnd/118627813/|Voltaire, François-Marie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3124.html
+https://d-nb.info/gnd/117450944/|Voss, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13017.html
+https://d-nb.info/gnd/11674748X/|W. Fred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2226.html
+https://d-nb.info/gnd/122390326/|Waerndorfer, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb27882.html
+https://d-nb.info/gnd/118594117/|Wagner, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13024.html
+https://d-nb.info/gnd/118628429/|Wagner, Siegfried|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13027.html
+https://d-nb.info/gnd/117114774/|Wahrmund, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3040.html
+https://d-nb.info/gnd/118628526/|Waissnix, Olga|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2453.html
+https://d-nb.info/gnd/117118524/|Walden, Harry|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3201.html
+https://d-nb.info/gnd/117127396/|Wallner, Susi|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3307.html
+https://d-nb.info/gnd/118764152/|Walser, Karl|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13037.html
+https://d-nb.info/gnd/118628879/|Walter, Bruno|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13041.html
+https://d-nb.info/gnd/117130990/|Walter, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13044.html
+https://d-nb.info/gnd/11876425X/|Walzel, Oskar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13048.html
+https://d-nb.info/gnd/117137642/|Waniek, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3293.html
+https://d-nb.info/gnd/117149136/|Wassermann, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13051.html
+https://d-nb.info/gnd/117149160/|Wassermann, Armin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4540.html
+https://d-nb.info/gnd/118629387/|Wassermann, Jakob|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13055.html
+https://d-nb.info/gnd/117149411/|Wassermann, Julie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13058.html
+https://d-nb.info/gnd/116055774/|Wassermann, Martha|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3227.html
+https://d-nb.info/gnd/117149853/|Waßmann, Hans|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13061.html
+https://d-nb.info/gnd/118629492/|Watteau, Antoine|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4068.html
+https://d-nb.info/gnd/118629867/|Wedekind, Frank|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13068.html
+https://d-nb.info/gnd/107676176/|Wedekind, Pamela|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4404.html
+https://d-nb.info/gnd/133817288/|Weidemann, Friedrich|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3956.html
+https://d-nb.info/gnd/117252700/|Weilen, Alexander von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13071.html
+https://d-nb.info/gnd/11863027X/|Weingartner, Felix von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13075.html
+https://d-nb.info/gnd/118766309/|Weininger, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2630.html
+https://d-nb.info/gnd/117278602/|Weiskirchner, Richard|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13079.html
+https://d-nb.info/gnd/117343536/|Welisch, Ernst|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3653.html
+https://d-nb.info/gnd/118630830/|Wellesz, Egon|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13085.html
+https://d-nb.info/gnd/117572268/|Wendte, Charles William|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4628.html
+https://d-nb.info/gnd/12730648X/|Wengeroff, Pauline|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4510.html
+https://d-nb.info/gnd/119401215/|Wengerowa, Isabella|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3068.html
+https://d-nb.info/gnd/1026090660/|Wengraf, Edmund|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13088.html
+https://d-nb.info/gnd/118993941/|Wenzler, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13091.html
+https://d-nb.info/gnd/118631373/|Werfel, Franz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13094.html
+https://d-nb.info/gnd/117298247/|Werner, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13100.html
+https://d-nb.info/gnd/117306355/|Wertheimer, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2888.html
+https://d-nb.info/gnd/118767267/|Wesendonck, Mathilde|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2266.html
+https://d-nb.info/gnd/11900979X/|Wesendonck, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3600.html
+https://d-nb.info/gnd/130179353/|Weyr, Rudolf|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2391.html
+https://d-nb.info/gnd/118807153/|Whitman, Walt|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13102.html
+https://d-nb.info/gnd/118632302/|Widmann, Joseph Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3557.html
+https://d-nb.info/gnd/11900965X/|Wied, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13107.html
+https://d-nb.info/gnd/117361275/|Wiegler, Paul|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13112.html
+https://d-nb.info/gnd/118632779/|Wilde, Oscar|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13115.html
+https://d-nb.info/gnd/118632841/|Wildgans, Anton|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13122.html
+https://d-nb.info/gnd/118632892/|Wilhelm II. von Preußen|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2566.html
+https://d-nb.info/gnd/117383597/|Wilke, Gisela|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13125.html
+https://d-nb.info/gnd/118643401/|Wilson, Woodrow|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4016.html
+https://d-nb.info/gnd/1026263549/|Winter, Josef von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13129.html
+https://d-nb.info/gnd/118820370/|Winter, Max|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2785.html
+https://d-nb.info/gnd/1026292271/|Winternitz, Jakob von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13132.html
+https://d-nb.info/gnd/121575616/|Winterstein, Alfred von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13136.html
+https://d-nb.info/gnd/117412929/|Wisinger-Florian, Olga|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4569.html
+https://d-nb.info/gnd/1050465652/|Witte-Wild, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13141.html
+https://d-nb.info/gnd/117427179/|Wittmann, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2739.html
+https://d-nb.info/gnd/117446238/|Wlach, Hermann|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13143.html
+https://d-nb.info/gnd/127252339/|Wögerer, Victor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4597.html
+https://d-nb.info/gnd/117457272/|Wohlgemuth, Else|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13149.html
+https://d-nb.info/gnd/118634712/|Wolf, Hugo|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13152.html
+https://d-nb.info/gnd/129294713/|Wolf, Sándor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4342.html
+https://d-nb.info/gnd/104730129/|Wölfel, Dominik|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2503.html
+https://d-nb.info/gnd/11864341X/|Wolfenstein, Alfred|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13156.html
+https://d-nb.info/gnd/142818305/|Wolff, Albert|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4583.html
+https://d-nb.info/gnd/104298170/|Wolff, Ludwig|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13159.html
+https://d-nb.info/gnd/118634844/|Wolff, Theodor|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13163.html
+https://d-nb.info/gnd/11880782X/|Wolter, Charlotte|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13166.html
+https://d-nb.info/gnd/11889028X/|Wolzogen, Ernst von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13169.html
+https://d-nb.info/gnd/116119667/|Wüst, Ida|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3963.html
+https://d-nb.info/gnd/128023325/|Wymetal, Wilhelm von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2725.html
+https://d-nb.info/gnd/118635743/|Wyneken, Gustav|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13173.html
+https://d-nb.info/gnd/1065484380/|Yamagishi, Mitsunobu|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4847.html
+https://d-nb.info/gnd/116946970/|Zacconi, Ermete|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3787.html
+https://d-nb.info/gnd/127282351/|Zavřel, František|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3885.html
+https://d-nb.info/gnd/116983817/|Zeska, Carl von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13180.html
+https://d-nb.info/gnd/116989084/|Ziener, Bruno|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4220.html
+https://d-nb.info/gnd/116992298/|Zillner, Franz Valentin|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3539.html
+https://d-nb.info/gnd/117008664/|Zobeltitz, Hanns von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13186.html
+https://d-nb.info/gnd/117019526/|Zsolnay, Paul von|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4455.html
+https://d-nb.info/gnd/133476251/|Zuckerkandl, Amalie|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3095.html
+https://d-nb.info/gnd/118758160/|Zuckerkandl, Berta|https://bahrschnitzler.acdh.oeaw.ac.at/pmb2312.html
+https://d-nb.info/gnd/117021261/|Zuckerkandl, Emil|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3170.html
+https://d-nb.info/gnd/1068484268/|Zuckerkandl, Fritz|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3115.html
+https://d-nb.info/gnd/1068483555/|Zuckerkandl, Gertrude|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13197.html
+https://d-nb.info/gnd/102722374/|Zuckerkandl, Otto|https://bahrschnitzler.acdh.oeaw.ac.at/pmb3091.html
+https://d-nb.info/gnd/117021954/|Zuloaga, Ignacio|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13200.html
+https://d-nb.info/gnd/118869256/|Zur Mühlen, Hermynia|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13204.html
+https://d-nb.info/gnd/118637452/|Zweig, Arnold|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13208.html
+https://d-nb.info/gnd/118637460/|Zweig, Friderike Maria|https://bahrschnitzler.acdh.oeaw.ac.at/pmb4829.html
+https://d-nb.info/gnd/118637479/|Zweig, Stefan|https://bahrschnitzler.acdh.oeaw.ac.at/pmb13212.html
