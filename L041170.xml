@@ -146,16 +146,6 @@
                   </location>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb416</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041170.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb414">
-                  <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
-                  <desc>
-                     <gloss ana="i12">Hotel</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">47.706537 13.609575</geo>
-                  </location>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb414</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041170.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 22. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041216.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 23. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041357.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 25. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041584.xml"/></linkGrp></event></listEvent></place>
                <place xml:id="pmb213">
                   <placeName>Bad Ischl</placeName>
                   <desc>
@@ -167,6 +157,16 @@
                   <idno type="geonames">https://www.geonames.org/2782052/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb213</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 29. 1. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041134.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041233.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 17. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041551.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 11. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041003.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [24. 7. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041157.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [17.? 7. 1894]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041169.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041170.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 23. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041176.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 21. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041210.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 8. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041211.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 22. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041216.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041352.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 23. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041357.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 8. 8. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041369.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041376.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 20. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041385.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 22. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041386.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 11. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041407.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 6. 8. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041416.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 20. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041448.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, 30. 6. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041504.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 2. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041505.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, 7. 9. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041506.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 9. 9. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041507.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 12. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, 23. 6. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041515.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 1. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hugo von Hofmannsthal, 10. 6. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041528.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 1. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041542.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, [10.] 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041583.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 25. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041584.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Hermann Bahr, 15. 8. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041598.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Hermann Bahr, 17. 8. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 19. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [18. 7. 1894]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041695.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb414">
+                  <placeName>Hotel und Pension Rudolfshöhe (Leopold Petter)</placeName>
+                  <desc>
+                     <gloss ana="i12">Hotel</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">47.706537 13.609575</geo>
+                  </location>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb414</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041170.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 22. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041216.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 23. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041357.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041387.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 25. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041584.xml"/></linkGrp></event></listEvent></place>
                <place xml:id="pmb46000">
                   <placeName>Grundlsee</placeName>
                   <desc>
@@ -179,34 +179,7 @@
                   <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q473229/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb46000</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 8. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041113.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 7. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041375.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041170.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb10815">
+               </listPlace><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -233,6 +206,33 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+               </person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
                </listPerson></back></text>
 </TEI>

@@ -99,54 +99,7 @@
             </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb3499">
-                  <persName>
-                     <surname>Edlinger</surname>
-                     <forename>Anton</forename>
-                  </persName>
-                  <birth>
-                     <date when="1854-01-01">1854</date>
-                  </birth>
-                  <death>
-                     <date when="1919-01-01">1919</date>
-                     <placeName>
-                        <settlement>Innsbruck</settlement>
-                        <idno type="PMB">#pmb867</idno>
-                        <idno type="geonames">https://www.geonames.org/2775216/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/11635626X/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3499</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041440.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb3501">
-                  <persName>
-                     <surname>Pichler</surname>
-                     <forename>Caroline</forename>
-                  </persName>
-                  <birth>
-                     <date when="1769-01-01">1769</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1843-01-01">1843</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>female</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118742361/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3501</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041440.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb3475">
+   <back><listPerson><person xml:id="pmb3475">
                   <persName>
                      <surname>Haberfeld</surname>
                      <forename>Hugo</forename>
@@ -201,6 +154,53 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb3499">
+                  <persName>
+                     <surname>Edlinger</surname>
+                     <forename>Anton</forename>
+                  </persName>
+                  <birth>
+                     <date when="1854-01-01">1854</date>
+                  </birth>
+                  <death>
+                     <date when="1919-01-01">1919</date>
+                     <placeName>
+                        <settlement>Innsbruck</settlement>
+                        <idno type="PMB">#pmb867</idno>
+                        <idno type="geonames">https://www.geonames.org/2775216/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/11635626X/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3499</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041440.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb3501">
+                  <persName>
+                     <surname>Pichler</surname>
+                     <forename>Caroline</forename>
+                  </persName>
+                  <birth>
+                     <date when="1769-01-01">1769</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1843-01-01">1843</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>female</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118742361/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3501</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041440.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb11036">
                   <persName>
                      <surname>Burckhard</surname>

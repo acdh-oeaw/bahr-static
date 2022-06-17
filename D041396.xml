@@ -95,34 +95,7 @@
                <rs type="person" ref="#pmb2121">Schnitzler</rs> bringt mir seine neue Novelle »<rs type="work" ref="#pmb30075">Die Frau des Weisen</rs>« für die »<rs type="org" ref="#pmb29209">Zeit</rs>«. Wir sprechen über die Familie <rs type="person" ref="#pmb12618 pmb12621 pmb2589 pmb2591">Sandrock</rs>. Er empfindet das Wesen der <rs type="person" subtype="implied" ref="#pmb12618">grande comedienne</rs> wie ich in der »Anverbindung vieler Personen an einen Körper«.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb10815">
+   <back><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -149,6 +122,33 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+               </person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
                <person xml:id="pmb12618">
                   <persName>

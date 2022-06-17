@@ -111,21 +111,21 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21378</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2785</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 10. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041083.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
+               <person xml:id="pmb2793">
                   <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
+                     <surname>Hanusch</surname>
+                     <forename>Ferdinand</forename>
                   </persName>
                   <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
+                     <date when="1866-11-08">8. 11. 1866</date>
                      <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <settlement>Vítkov</settlement>
+                        <idno type="PMB">#pmb54887</idno>
+                        <idno type="geonames">https://www.geonames.org/3062811/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
+                     <date when="1923-09-28">28. 9. 1923</date>
                      <placeName>
                         <settlement>Wien</settlement>
                         <idno type="PMB">#pmb50</idno>
@@ -134,10 +134,10 @@
                   </death>
                   <occupation code="Schriftsteller*in"/>
                   <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
+                  <idno type="gnd">https://d-nb.info/gnd/118701460/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15917</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2793</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 10. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041083.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb11646">
                   <persName>
                      <surname>Heller</surname>
@@ -250,6 +250,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2327</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2327</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 4. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041078.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 10. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 19. 7. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041130.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
                <person xml:id="pmb22733">
                   <persName>
                      <surname>Pollak</surname>
@@ -277,33 +304,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb22733</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb22733</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 10. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 7. 2. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041210.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 1. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041368.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 19. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041653.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2793">
-                  <persName>
-                     <surname>Hanusch</surname>
-                     <forename>Ferdinand</forename>
-                  </persName>
-                  <birth>
-                     <date when="1866-11-08">8. 11. 1866</date>
-                     <placeName>
-                        <settlement>Vítkov</settlement>
-                        <idno type="PMB">#pmb54887</idno>
-                        <idno type="geonames">https://www.geonames.org/3062811/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1923-09-28">28. 9. 1923</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118701460/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15917</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2793</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 10. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041083.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listBibl><bibl xml:id="pmb29935">
                   <author role="author">
                      <persName>

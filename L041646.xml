@@ -124,101 +124,7 @@
             </postscript>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="pmb30019">
-                  <author role="author">
-                     <persName>
-                        <surname>Hauptmann</surname>
-                        <forename>Gerhart</forename>
-                     </persName>
-                     <idno type="pmb">pmb11617</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118546937/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15980</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11617</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11617</idno>
-                  </author>
-                  <title>Das Friedensfest</title>
-                  <date from="1890-01-01" from-custom="1890">1890</date>
-                  <gloss type="w1056">Mehraktiges Drama</gloss>
-                  <note>11495</note>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30019</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30019</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 11. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Gerhart Hauptmann, 15. 7. 1899</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb31297">
-                  <author role="author">
-                     <persName>
-                        <surname>Bahr</surname>
-                        <forename>Hermann</forename>
-                     </persName>
-                     <idno type="pmb">pmb10815</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
-                  </author>
-                  <title>Die schamhafte Gräfin</title>
-                  <date from="1891-01-01" from-custom="1891">1891</date>
-                  <gloss type="w1055">Text</gloss>
-                  <note>3013</note>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31297</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb29823">
-                  <author role="author">
-                     <persName>
-                        <surname>Schnitzler</surname>
-                        <forename>Arthur</forename>
-                     </persName>
-                     <idno type="pmb">pmb2121</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-                  </author>
-                  <title>Das Märchen. Schauspiel in drei Aufzügen</title>
-                  <date when="1891-01-01" when-custom="1891">1891</date>
-                  <gloss type="w1056">Mehraktiges Drama</gloss>
-                  <note>6299</note>
-                  <note>8984</note>
-                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1169917/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29823</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29823</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 10. 2. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 28. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 29. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041007.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 3. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041086.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 10. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041094.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 1. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041098.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 3. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 1. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041157.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 20. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 7. 2. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 11. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 17. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041150.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 5. 2. [1896]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 16. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041306.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Theodor Herzl, 10. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041378.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Herzl an Arthur Schnitzler, 8. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041403.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 27. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041413.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [16. 12. 1891]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041499.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [27.? 9. 1895]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041517.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Arthur Schnitzler, [4. 12. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041529.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 1. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041542.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Reicher an Hermann Bahr, 14. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041682.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Reicher an Hermann Bahr, 15. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041683.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Widmungsexemplar Das Märchen, [Mitte Mai] 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041691.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Wiener Brief, [25.–30.] 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das junge Oesterreich. II, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das Märchen, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Liebelei], 12. 10. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mepherl [Hermann Bahr]: Indiscret, 10. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Buchausgaben im gegenseitigen Besitz</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000003.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb30175">
-                  <author role="author">
-                     <persName>
-                        <surname>Bahr</surname>
-                        <forename>Hermann</forename>
-                     </persName>
-                     <idno type="pmb">pmb10815</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
-                  </author>
-                  <title>Russische Reise</title>
-                  <date from="1891-01-01" from-custom="1891">1891</date>
-                  <gloss type="w1164">Reisebericht</gloss>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30175</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30175</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: [Leseliste], [frühestens März 1905]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030052.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb31371">
-                  <author role="author">
-                     <persName>
-                        <surname>David</surname>
-                        <forename>Jakob Julius</forename>
-                     </persName>
-                     <idno type="pmb">pmb2416</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118671103/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14363</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2416</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2416</idno>
-                  </author>
-                  <title>Hagars Sohn. Schauspiel in vier Acten</title>
-                  <date from="1891-06-01" from-custom="1.6.1891" to="1891-07-15" to-custom="15.7.1891">1. 6. 1891–15. 7. 1891</date>
-                  <gloss type="w1056">Mehraktiges Drama</gloss>
-                  <note>3021</note>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb31371</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31371</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl><listPlace><place xml:id="pmb833">
+   <back><listPlace><place xml:id="pmb833">
                   <placeName>Brünn</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>
@@ -252,7 +158,153 @@
                   </location>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb788</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb2416">
+               </listPlace><listOrg><org xml:id="pmb29417">
+                  <orgName>Moderne Dichtung/Moderne Rundschau</orgName>
+                  <desc>
+                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
+                  </desc>
+                  <place corresp="pmb41352">
+                     <placeName>Výstaviště</placeName>
+                     <location>
+                        <geo decls="LatLng">49.188675 16.586983</geo>
+                     </location>
+                  </place>
+                  <place corresp="pmb789">
+                     <placeName>Buchfeldgasse</placeName>
+                     <location>
+                        <geo decls="LatLng">48.210652801032 16.353347167402</geo>
+                     </location>
+                  </place>
+                  <place corresp="pmb790">
+                     <placeName>Tuchlauben</placeName>
+                     <location>
+                        <geo decls="LatLng">48.210369328822 16.370282346864</geo>
+                     </location>
+                  </place>
+                  <place corresp="pmb833">
+                     <placeName>Brünn</placeName>
+                     <location>
+                        <geo decls="LatLng">49.19522 16.60796</geo>
+                     </location>
+                  </place>
+                  <place corresp="pmb50">
+                     <placeName>Wien</placeName>
+                     <location>
+                        <geo decls="LatLng">48.2066 16.37341</geo>
+                     </location>
+                  </place>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29417</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29417</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 17. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041150.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das junge Oesterreich. II, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Brief an Arthur Schnitzler, Mai 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Artur Schnitzler. Nachruf, 25. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030042.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Moderne Kunst in Österreich, Dezember 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 1. Januar [1921], 16. 1. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
+               <org xml:id="pmb29781">
+                  <orgName>Freie Bühne (Verein für modernes Leben)</orgName>
+                  <desc>
+                     <gloss ana="i997">Literarische Vereinigung</gloss>
+                  </desc>
+                  <place corresp="pmb50">
+                     <placeName>Wien</placeName>
+                     <location>
+                        <geo decls="LatLng">48.2066 16.37341</geo>
+                     </location>
+                  </place>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29781</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29781</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
+               </listOrg><listBibl><bibl xml:id="pmb29823">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Das Märchen. Schauspiel in drei Aufzügen</title>
+                  <date when="1891-01-01" when-custom="1891">1891</date>
+                  <gloss type="w1056">Mehraktiges Drama</gloss>
+                  <note>6299</note>
+                  <note>8984</note>
+                  <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q1169917/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29823</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29823</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 10. 2. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 28. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041006.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 29. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041007.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041012.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041027.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 3. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041086.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 10. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041091.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041094.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 1. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041098.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 3. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 1. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041157.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 20. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 7. 2. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 11. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 17. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041150.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 5. 2. [1896]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041181.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 16. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041306.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Theodor Herzl, 10. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041378.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Theodor Herzl an Arthur Schnitzler, 8. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041403.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 27. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041413.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Hermann Bahr, [23./24. 11. 1891]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [16. 12. 1891]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041499.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [27.? 9. 1895]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041517.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Arthur Schnitzler, [4. 12. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041529.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 1. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041542.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Reicher an Hermann Bahr, 14. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041682.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Reicher an Hermann Bahr, 15. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041683.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Widmungsexemplar Das Märchen, [Mitte Mai] 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041691.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Wiener Brief, [25.–30.] 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030008.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das junge Oesterreich. II, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das Märchen, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030010.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Liebelei], 12. 10. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030011.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Mepherl [Hermann Bahr]: Indiscret, 10. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030085.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Buchausgaben im gegenseitigen Besitz</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000003.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb31297">
+                  <author role="author">
+                     <persName>
+                        <surname>Bahr</surname>
+                        <forename>Hermann</forename>
+                     </persName>
+                     <idno type="pmb">pmb10815</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+                  </author>
+                  <title>Die schamhafte Gräfin</title>
+                  <date from="1891-01-01" from-custom="1891">1891</date>
+                  <gloss type="w1055">Text</gloss>
+                  <note>3013</note>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31297</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb31371">
+                  <author role="author">
+                     <persName>
+                        <surname>David</surname>
+                        <forename>Jakob Julius</forename>
+                     </persName>
+                     <idno type="pmb">pmb2416</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118671103/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_14363</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2416</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2416</idno>
+                  </author>
+                  <title>Hagars Sohn. Schauspiel in vier Acten</title>
+                  <date from="1891-06-01" from-custom="1.6.1891" to="1891-07-15" to-custom="15.7.1891">1. 6. 1891–15. 7. 1891</date>
+                  <gloss type="w1056">Mehraktiges Drama</gloss>
+                  <note>3021</note>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb31371</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31371</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb30175">
+                  <author role="author">
+                     <persName>
+                        <surname>Bahr</surname>
+                        <forename>Hermann</forename>
+                     </persName>
+                     <idno type="pmb">pmb10815</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+                  </author>
+                  <title>Russische Reise</title>
+                  <date from="1891-01-01" from-custom="1891">1891</date>
+                  <gloss type="w1164">Reisebericht</gloss>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30175</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30175</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041018.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: [Leseliste], [frühestens März 1905]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030052.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb30019">
+                  <author role="author">
+                     <persName>
+                        <surname>Hauptmann</surname>
+                        <forename>Gerhart</forename>
+                     </persName>
+                     <idno type="pmb">pmb11617</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118546937/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15980</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11617</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11617</idno>
+                  </author>
+                  <title>Das Friedensfest</title>
+                  <date from="1890-01-01" from-custom="1890">1890</date>
+                  <gloss type="w1056">Mehraktiges Drama</gloss>
+                  <note>11495</note>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30019</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30019</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 11. 3. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041097.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Gerhart Hauptmann, 15. 7. 1899</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041390.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event></listEvent></bibl>
+               </listBibl><listPerson><person xml:id="pmb2416">
                   <persName>
                      <surname>David</surname>
                      <forename>Jakob Julius</forename>
@@ -280,34 +332,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2416</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2416</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 11. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041005.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 20. 1. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041084.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 10. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041153.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 14. 9. 1900</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041186.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 15. 9. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041381.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, 22. 4. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041424.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [21. 4. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041426.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Friedrich Michael Fels an Arthur Schnitzler, 6. 11. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041605.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das junge Oesterreich. II, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr, Julius Bauer, J. J. David, Robert Hirschfeld, Felix Salten, Ludwig Speidel: Erklärung, 14. 9. 1900</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030017.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Burckhard und Fulda, 20. 1. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Notizen zu den Wiener Spaziergängen?], [Oktober 1893?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030078.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2563">
-                  <persName>
-                     <surname>Kafka</surname>
-                     <forename>Eduard Michael</forename>
-                  </persName>
-                  <birth>
-                     <date when="1869-03-11">11. 3. 1869</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1893-08-06">6. 8. 1893</date>
-                     <placeName>
-                        <settlement>Brünn</settlement>
-                        <idno type="PMB">#pmb833</idno>
-                        <idno type="geonames">https://www.geonames.org/3078610/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Redakteur*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041411.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Brief an Arthur Schnitzler, Mai 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 1. Januar [1921], 16. 1. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
@@ -390,57 +414,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb28812</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28812</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               </listPerson><listOrg><org xml:id="pmb29417">
-                  <orgName>Moderne Dichtung/Moderne Rundschau</orgName>
-                  <desc>
-                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
-                  </desc>
-                  <place corresp="pmb41352">
-                     <placeName>Výstaviště</placeName>
-                     <location>
-                        <geo decls="LatLng">49.188675 16.586983</geo>
-                     </location>
-                  </place>
-                  <place corresp="pmb789">
-                     <placeName>Buchfeldgasse</placeName>
-                     <location>
-                        <geo decls="LatLng">48.210652801032 16.353347167402</geo>
-                     </location>
-                  </place>
-                  <place corresp="pmb790">
-                     <placeName>Tuchlauben</placeName>
-                     <location>
-                        <geo decls="LatLng">48.210369328822 16.370282346864</geo>
-                     </location>
-                  </place>
-                  <place corresp="pmb833">
-                     <placeName>Brünn</placeName>
-                     <location>
-                        <geo decls="LatLng">49.19522 16.60796</geo>
-                     </location>
-                  </place>
-                  <place corresp="pmb50">
-                     <placeName>Wien</placeName>
-                     <location>
-                        <geo decls="LatLng">48.2066 16.37341</geo>
-                     </location>
-                  </place>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29417</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29417</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 17. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041150.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Das junge Oesterreich. II, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030009.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Brief an Arthur Schnitzler, Mai 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Artur Schnitzler. Nachruf, 25. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030042.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Moderne Kunst in Österreich, Dezember 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030054.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 1. Januar [1921], 16. 1. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
-               <org xml:id="pmb29781">
-                  <orgName>Freie Bühne (Verein für modernes Leben)</orgName>
-                  <desc>
-                     <gloss ana="i997">Literarische Vereinigung</gloss>
-                  </desc>
-                  <place corresp="pmb50">
-                     <placeName>Wien</placeName>
-                     <location>
-                        <geo decls="LatLng">48.2066 16.37341</geo>
-                     </location>
-                  </place>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29781</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29781</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041022.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
-               </listOrg></back></text>
+               <person xml:id="pmb2563">
+                  <persName>
+                     <surname>Kafka</surname>
+                     <forename>Eduard Michael</forename>
+                  </persName>
+                  <birth>
+                     <date when="1869-03-11">11. 3. 1869</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1893-08-06">6. 8. 1893</date>
+                     <placeName>
+                        <settlement>Brünn</settlement>
+                        <idno type="PMB">#pmb833</idno>
+                        <idno type="geonames">https://www.geonames.org/3078610/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Redakteur*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/141477482/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/person_16629</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2563</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2563</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 1. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041001.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 11. 3. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041377.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041411.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>E. M. Kafka an Hermann Bahr, 12. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041646.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Brief an Arthur Schnitzler, Mai 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030030.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 1. Januar [1921], 16. 1. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030083.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               </listPerson></back></text>
 </TEI>

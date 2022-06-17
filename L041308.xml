@@ -105,34 +105,7 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb10815">
+   <back><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -159,6 +132,33 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+               </person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
                <person xml:id="pmb2173">
                   <persName>
@@ -221,17 +221,6 @@
                   <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
                </place>
-               <place xml:id="pmb44246">
-                  <placeName>Rijeka</placeName>
-                  <desc>
-                     <gloss ana="i1415">Land</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">45.32673 14.44241</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/3191648/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44246</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 10. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041549.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 1. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 26. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041308.xml"/></linkGrp></event></listEvent></place>
                <place xml:id="pmb873">
                   <placeName>Triest</placeName>
                   <desc>
@@ -244,6 +233,17 @@
                   <idno type="wikidata">https://www.wikidata.org/wiki/wiki/Q546/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb873</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 8. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041355.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 4. [12.] 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041286.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 26. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041308.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 27. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041310.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb44246">
+                  <placeName>Rijeka</placeName>
+                  <desc>
+                     <gloss ana="i1415">Land</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">45.32673 14.44241</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/3191648/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb44246</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 24. 10. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041549.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 1. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 26. 4. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041308.xml"/></linkGrp></event></listEvent></place>
                </listPlace><listBibl><bibl xml:id="pmb30011">
                   <author role="author">
                      <persName>

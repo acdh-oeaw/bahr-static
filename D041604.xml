@@ -78,34 +78,34 @@
                </del> Abendandacht; schmerzhafter Rosenkranz; dann Lauretanische Litanei.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb10815">
+   <back><listOrg><org xml:id="pmb29708">
+                  <orgName>Die literarische Welt</orgName>
+                  <desc>
+                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
+                  </desc>
+                  <place corresp="pmb168">
+                     <placeName>Berlin</placeName>
+                     <location>
+                        <geo decls="LatLng">52.52437 13.41053</geo>
+                     </location>
+                  </place>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29708</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Persönliche Erinnerungen an Arthur Schnitzler, 6. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030034.xml"/></linkGrp></event></listEvent></org>
+               <org xml:id="pmb29329">
+                  <orgName>Berliner Tageblatt</orgName>
+                  <desc>
+                     <gloss ana="i972">Tageszeitungsredaktion</gloss>
+                  </desc>
+                  <place corresp="pmb168">
+                     <placeName>Berlin</placeName>
+                     <location>
+                        <geo decls="LatLng">52.52437 13.41053</geo>
+                     </location>
+                  </place>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29329</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29329</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 25. 5. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041287.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 10. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 16. 12. [1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041266.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 11. 1. 1928</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Georg Brandes, 8. 10. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Paul Block an Hermann Bahr, 8. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041628.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Berliner Tageblatt: Hermann Bahr über Arthur Schnitzler, 14. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Burckhard und Fulda, 20. 1. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Selbstbildnis], [Mitte Mai? 1923]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
+               </listOrg><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -189,6 +189,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13163</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13163</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 25. 5. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041287.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Der arme Narr?], [Mitte November? 1906]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041493.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041573.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Die Rahl], [Mitte November 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030069.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Stimmen des Bluts], [Mitte Oktober – 8. 11. 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Buch der Jugend], [Anfang Dezember 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Grotesken?], [Januar 1907?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030073.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Selbstbildnis], [Mitte Mai? 1923]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Das österreichische Wunder], [Anfang Juni 1915]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030075.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
                </listPerson><listBibl><bibl xml:id="pmb31845">
                   <author role="author">
                      <persName>
@@ -207,34 +234,7 @@
                   <note>3079</note>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31845</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Persönliche Erinnerungen an Arthur Schnitzler, 6. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030034.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl><listOrg><org xml:id="pmb29329">
-                  <orgName>Berliner Tageblatt</orgName>
-                  <desc>
-                     <gloss ana="i972">Tageszeitungsredaktion</gloss>
-                  </desc>
-                  <place corresp="pmb168">
-                     <placeName>Berlin</placeName>
-                     <location>
-                        <geo decls="LatLng">52.52437 13.41053</geo>
-                     </location>
-                  </place>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb29329</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29329</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 27. 9. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041088.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 25. 5. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041287.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Josef Redlich, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041587.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 10. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041064.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 16. 12. [1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041266.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 11. 1. 1928</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041460.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Georg Brandes, 8. 10. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Paul Block an Hermann Bahr, 8. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041628.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Berliner Tageblatt: Hermann Bahr über Arthur Schnitzler, 14. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030036.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Burckhard und Fulda, 20. 1. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030048.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Selbstbildnis], [Mitte Mai? 1923]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030074.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></org>
-               <org xml:id="pmb29708">
-                  <orgName>Die literarische Welt</orgName>
-                  <desc>
-                     <gloss ana="i973">Zeitschriftenredaktion</gloss>
-                  </desc>
-                  <place corresp="pmb168">
-                     <placeName>Berlin</placeName>
-                     <location>
-                        <geo decls="LatLng">52.52437 13.41053</geo>
-                     </location>
-                  </place>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb29708</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041604.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Persönliche Erinnerungen an Arthur Schnitzler, 6. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030034.xml"/></linkGrp></event></listEvent></org>
-               </listOrg><listPlace><place xml:id="pmb707">
+               </listBibl><listPlace><place xml:id="pmb707">
                   <placeName>Fronleichnamskapelle</placeName>
                   <desc>
                      <gloss ana="i33">Kirche</gloss>

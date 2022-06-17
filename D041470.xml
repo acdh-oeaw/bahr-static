@@ -99,35 +99,17 @@
                <rs type="person" ref="#pmb10860 pmb10863">Beerhofmanns</rs> im <rs type="place" ref="#pmb304">Ottakringerbräu</rs>.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb13024">
-                  <persName>
-                     <surname>Wagner</surname>
-                     <forename>Richard</forename>
-                  </persName>
-                  <birth>
-                     <date when="1813-05-22">22. 5. 1813</date>
-                     <placeName>
-                        <settlement>Leipzig</settlement>
-                        <idno type="PMB">#pmb864</idno>
-                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1883-02-13">13. 2. 1883</date>
-                     <placeName>
-                        <settlement>Venedig</settlement>
-                        <idno type="PMB">#pmb462</idno>
-                        <idno type="geonames">https://www.geonames.org/3164603/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Komponist*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118594117/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21034</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13024</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13024</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 29. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041445.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 7. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041462.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 22. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041386.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Dialog vom Marsyas, Oktober 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: A Letter From Germany, Dezember 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb10815">
+   <back><listPlace><place xml:id="pmb304">
+                  <placeName>Ottakringer Bräu</placeName>
+                  <desc>
+                     <gloss ana="i7">Bierhaus</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.18636 16.30202</geo>
+                  </location>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb304</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 6. 6. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 19. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 17. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler u. a. an Hermann Bahr, 14. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041202.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Gerty von Hofmannsthal, 3. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041493.xml"/></linkGrp></event></listEvent></place>
+               </listPlace><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -155,15 +137,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson><listPlace><place xml:id="pmb304">
-                  <placeName>Ottakringer Bräu</placeName>
-                  <desc>
-                     <gloss ana="i7">Bierhaus</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.18636 16.30202</geo>
-                  </location>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb304</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 6. 6. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041461.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 19. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041464.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 17. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler u. a. an Hermann Bahr, 14. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041202.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Gerty von Hofmannsthal, 3. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041493.xml"/></linkGrp></event></listEvent></place>
-               </listPlace></back></text>
+               <person xml:id="pmb13024">
+                  <persName>
+                     <surname>Wagner</surname>
+                     <forename>Richard</forename>
+                  </persName>
+                  <birth>
+                     <date when="1813-05-22">22. 5. 1813</date>
+                     <placeName>
+                        <settlement>Leipzig</settlement>
+                        <idno type="PMB">#pmb864</idno>
+                        <idno type="geonames">https://www.geonames.org/2879139/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1883-02-13">13. 2. 1883</date>
+                     <placeName>
+                        <settlement>Venedig</settlement>
+                        <idno type="PMB">#pmb462</idno>
+                        <idno type="geonames">https://www.geonames.org/3164603/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Komponist*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118594117/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_21034</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13024</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13024</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 29. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041445.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 7. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041462.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041470.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 22. 6. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041386.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Dialog vom Marsyas, Oktober 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030025.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: A Letter From Germany, Dezember 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030038.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               </listPerson></back></text>
 </TEI>

@@ -125,33 +125,33 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb2362">
                   <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
+                     <surname>Pálmay</surname>
+                     <forename>Ilka</forename>
                   </persName>
                   <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
+                     <date when="1859-09-21">21. 9. 1859</date>
                      <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <settlement>Uzhhorod</settlement>
+                        <idno type="PMB">#pmb47361</idno>
+                        <idno type="geonames">https://www.geonames.org/690548/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
+                     <date when="1944-02-17">17. 2. 1944</date>
                      <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <settlement>Budapest</settlement>
+                        <idno type="PMB">#pmb43471</idno>
+                        <idno type="geonames">https://www.geonames.org/3054638/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
+                  <occupation code="Sänger*in"/>
+                  <sex>female</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116019298/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2362</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2362</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [20. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041149.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 21. 2. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041151.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041411.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -180,33 +180,33 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb2362">
+               <person xml:id="pmb2121">
                   <persName>
-                     <surname>Pálmay</surname>
-                     <forename>Ilka</forename>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
                   </persName>
                   <birth>
-                     <date when="1859-09-21">21. 9. 1859</date>
+                     <date when="1862-05-15">15. 5. 1862</date>
                      <placeName>
-                        <settlement>Uzhhorod</settlement>
-                        <idno type="PMB">#pmb47361</idno>
-                        <idno type="geonames">https://www.geonames.org/690548/</idno>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1944-02-17">17. 2. 1944</date>
+                     <date when="1931-10-21">21. 10. 1931</date>
                      <placeName>
-                        <settlement>Budapest</settlement>
-                        <idno type="PMB">#pmb43471</idno>
-                        <idno type="geonames">https://www.geonames.org/3054638/</idno>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Sänger*in"/>
-                  <sex>female</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/116019298/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2362</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2362</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [20. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041149.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 21. 2. 1892</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041151.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [17. 2. 1892]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041411.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
                </listPerson><listPlace><place xml:id="pmb501">
                   <placeName>Kärntnerring</placeName>
                   <desc>

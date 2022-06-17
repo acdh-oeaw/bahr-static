@@ -127,32 +127,7 @@
             </table>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb3698">
-                  <persName>
-                     <surname>Keppler</surname>
-                     <forename>Paul Wilhelm von</forename>
-                  </persName>
-                  <birth>
-                     <date when="1852-01-01">1852</date>
-                     <placeName>
-                        <settlement>Schwäbisch Gmünd</settlement>
-                        <idno type="PMB">#pmb37000</idno>
-                        <idno type="geonames">https://www.geonames.org/2835482/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1926-01-01">1926</date>
-                     <placeName>
-                        <settlement>Rottenburg</settlement>
-                        <idno type="PMB">#pmb49141</idno>
-                        <idno type="geonames">https://www.geonames.org/2843729/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Bischof"/>
-                  <idno type="gnd">https://d-nb.info/gnd/118777068/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3698</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 12. 1909</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041498.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Druckfehler und Korrekturen der Buchausgabe</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000008.xml"/></linkGrp></event></listEvent></person>
-               </listPerson><listPlace><place xml:id="pmb49141">
+   <back><listPlace><place xml:id="pmb49141">
                   <placeName>Rottenburg</placeName>
                   <desc>
                      <gloss ana="i1412">Besiedelter Ort</gloss>
@@ -178,5 +153,30 @@
                   <gloss type="w1055">Text</gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31209</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 12. 1909</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041498.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Druckfehler und Korrekturen der Buchausgabe</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000008.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl></back></text>
+               </listBibl><listPerson><person xml:id="pmb3698">
+                  <persName>
+                     <surname>Keppler</surname>
+                     <forename>Paul Wilhelm von</forename>
+                  </persName>
+                  <birth>
+                     <date when="1852-01-01">1852</date>
+                     <placeName>
+                        <settlement>Schwäbisch Gmünd</settlement>
+                        <idno type="PMB">#pmb37000</idno>
+                        <idno type="geonames">https://www.geonames.org/2835482/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1926-01-01">1926</date>
+                     <placeName>
+                        <settlement>Rottenburg</settlement>
+                        <idno type="PMB">#pmb49141</idno>
+                        <idno type="geonames">https://www.geonames.org/2843729/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Bischof"/>
+                  <idno type="gnd">https://d-nb.info/gnd/118777068/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3698</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 12. 1909</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041498.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Druckfehler und Korrekturen der Buchausgabe</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000008.xml"/></linkGrp></event></listEvent></person>
+               </listPerson></back></text>
 </TEI>

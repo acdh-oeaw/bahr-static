@@ -78,13 +78,13 @@
             </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb28156">
                   <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
+                     <surname>Angel</surname>
+                     <forename>Dora</forename>
                   </persName>
                   <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
+                     <date when="1889-09-29">29. 9. 1889</date>
                      <placeName>
                         <settlement>Wien</settlement>
                         <idno type="PMB">#pmb50</idno>
@@ -92,19 +92,17 @@
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
+                     <date when="1984-02-26">26. 2. 1984</date>
                      <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                        <settlement>Berlin</settlement>
+                        <idno type="PMB">#pmb168</idno>
+                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
+                  <occupation code="Schauspieler*in"/>
+                  <sex>female</sex>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28156</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 8. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041507.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -133,13 +131,13 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb28156">
+               <person xml:id="pmb2121">
                   <persName>
-                     <surname>Angel</surname>
-                     <forename>Dora</forename>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
                   </persName>
                   <birth>
-                     <date when="1889-09-29">29. 9. 1889</date>
+                     <date when="1862-05-15">15. 5. 1862</date>
                      <placeName>
                         <settlement>Wien</settlement>
                         <idno type="PMB">#pmb50</idno>
@@ -147,17 +145,19 @@
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1984-02-26">26. 2. 1984</date>
+                     <date when="1931-10-21">21. 10. 1931</date>
                      <placeName>
-                        <settlement>Berlin</settlement>
-                        <idno type="PMB">#pmb168</idno>
-                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
                      </placeName>
                   </death>
-                  <occupation code="Schauspieler*in"/>
-                  <sex>female</sex>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28156</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 23. 8. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041507.xml"/></linkGrp></event></listEvent></person>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
                <person xml:id="pmb10818">
                   <persName>
                      <surname>Bahr-Mildenburg</surname>

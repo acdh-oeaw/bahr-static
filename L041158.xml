@@ -111,67 +111,7 @@
             </postscript>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="pmb30069">
-                  <author role="author">
-                     <persName>
-                        <surname>Schnitzler</surname>
-                        <forename>Arthur</forename>
-                     </persName>
-                     <idno type="pmb">pmb2121</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-                  </author>
-                  <title>Amerika</title>
-                  <date from="1889-05-01" from-custom="01.05.1889">1. 5. 1889</date>
-                  <gloss type="w1054">Erzählung</gloss>
-                  <note>2876</note>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30069</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30069</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [12. 8. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041158.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb27693">
-                  <persName>
-                     <surname>?? [Regimentsarzt]</surname>
-                  </persName>
-                  <birth>
-                     <date when="1893-07-02">1893</date>
-                  </birth>
-                  <death>
-                     <date when="1893-07-02">1893</date>
-                  </death>
-                  <occupation code="Regimentsarzt/-ärztin"/>
-                  <sex>male</sex>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb27693</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27693</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [12. 8. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041158.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb10815">
+   <back><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -199,7 +139,67 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson><listPlace><place xml:id="pmb50">
+               <person xml:id="pmb27693">
+                  <persName>
+                     <surname>?? [Regimentsarzt]</surname>
+                  </persName>
+                  <birth>
+                     <date when="1893-07-02">1893</date>
+                  </birth>
+                  <death>
+                     <date when="1893-07-02">1893</date>
+                  </death>
+                  <occupation code="Regimentsarzt/-ärztin"/>
+                  <sex>male</sex>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb27693</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27693</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [12. 8. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041158.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               </listPerson><listBibl><bibl xml:id="pmb30069">
+                  <author role="author">
+                     <persName>
+                        <surname>Schnitzler</surname>
+                        <forename>Arthur</forename>
+                     </persName>
+                     <idno type="pmb">pmb2121</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+                  </author>
+                  <title>Amerika</title>
+                  <date from="1889-05-01" from-custom="01.05.1889">1. 5. 1889</date>
+                  <gloss type="w1054">Erzählung</gloss>
+                  <note>2876</note>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30069</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30069</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [12. 8. 1893]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041158.xml"/></linkGrp></event></listEvent></bibl>
+               </listBibl><listPlace><place xml:id="pmb50">
                   <placeName>Wien</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>

@@ -109,34 +109,47 @@
             </closer>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb2128">
+   <back><listPlace><place xml:id="pmb119">
+                  <placeName>Café Scheidl</placeName>
+                  <desc>
+                     <gloss ana="i20">Kaffeehaus</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.20368 16.37049</geo>
+                  </location>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb50">
+                  <placeName>Wien</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.2066 16.37341</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+               </place>
+               <place xml:id="pmb819">
+                  <placeName>Café Pucher</placeName>
+                  <desc>
+                     <gloss ana="i20">Kaffeehaus</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.208786 16.36743</geo>
+                  </location>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb819</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb820">
+                  <placeName>Fröschelgasse</placeName>
+                  <desc>
+                     <gloss ana="i26">Straße</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.252123207149 16.321191055407</geo>
+                  </location>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
+               </listPlace><listPerson><person xml:id="pmb2128">
                   <persName>
                      <surname>Plessner</surname>
                      <forename>Elsa</forename>
@@ -192,47 +205,34 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               </listPerson><listPlace><place xml:id="pmb50">
-                  <placeName>Wien</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.2066 16.37341</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-               </place>
-               <place xml:id="pmb819">
-                  <placeName>Café Pucher</placeName>
-                  <desc>
-                     <gloss ana="i20">Kaffeehaus</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.208786 16.36743</geo>
-                  </location>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb819</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb820">
-                  <placeName>Fröschelgasse</placeName>
-                  <desc>
-                     <gloss ana="i26">Straße</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.252123207149 16.321191055407</geo>
-                  </location>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb119">
-                  <placeName>Café Scheidl</placeName>
-                  <desc>
-                     <gloss ana="i20">Kaffeehaus</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.20368 16.37049</geo>
-                  </location>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listOrg><org xml:id="pmb29209">
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               </listPerson><listOrg><org xml:id="pmb29209">
                   <orgName>Die Zeit. Wiener Wochenschrift</orgName>
                   <desc>
                      <gloss ana="i973">Zeitschriftenredaktion</gloss>

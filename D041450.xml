@@ -234,163 +234,7 @@
             </p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb12796">
-                  <persName>
-                     <surname>Skrein</surname>
-                     <forename>Stefan</forename>
-                  </persName>
-                  <birth>
-                     <date when="1856-09-14">14. 9. 1856</date>
-                     <placeName>
-                        <settlement>Holešov</settlement>
-                        <idno type="PMB">#pmb38093</idno>
-                        <idno type="geonames">https://www.geonames.org/3075606/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-09-22">22. 9. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/130153729/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20156</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12796</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12796</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb28076">
-                  <persName>
-                     <surname>Ludwig</surname>
-                  </persName>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28076</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 11. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041416.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2202">
-                  <persName>
-                     <surname>Singer</surname>
-                     <forename>Wilhelm</forename>
-                  </persName>
-                  <birth>
-                     <date when="1847-11-26">26. 11. 1847</date>
-                     <placeName>
-                        <settlement>Bzenec</settlement>
-                        <idno type="PMB">#pmb53794</idno>
-                        <idno type="geonames">https://www.geonames.org/3078275/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1917-10-10">10. 10. 1917</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Journalist*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/117402834/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2202</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2202</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 17. 8. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041256.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang Februar 1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041422.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 1[0]. 2. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041424.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041436.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041437.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 21. 6. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041451.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Reiseplanung für Wienaufenthalt], [Februar 1917]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041481.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 15. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041506.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 20. 3. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041207.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [29.] 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041256.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [30. 3. 1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041257.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Redlich an Hermann Bahr, 29. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041568.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Hermann Bahr, 9. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Pötzl an Hermann Bahr, 14. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041592.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Pötzl an Hermann Bahr, 17. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041593.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Die Rahl], [Mitte November 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030069.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Stimmen des Bluts], [Mitte Oktober – 8. 11. 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Buch der Jugend], [Anfang Dezember 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Das österreichische Wunder], [Anfang Juni 1915]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Versandliste Wenn es euch gefällt?], [vor dem 28. 5. 1899?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb27722">
-                  <persName>
-                     <surname>??</surname>
-                  </persName>
-                  <birth>
-                     <date when="1903-01-01">1903</date>
-                  </birth>
-                  <death>
-                     <date when="1903-01-01">1903</date>
-                  </death>
-                  <occupation code="Gemeindediener"/>
-                  <sex>male</sex>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27722</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb3539">
-                  <persName>
-                     <surname>Zillner</surname>
-                     <forename>Franz Valentin</forename>
-                  </persName>
-                  <birth>
-                     <date when="1816-01-01">1816</date>
-                     <placeName>
-                        <settlement>Salzburg</settlement>
-                        <idno type="PMB">#pmb30</idno>
-                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1896-01-01">1896</date>
-                     <placeName>
-                        <settlement>Salzburg</settlement>
-                        <idno type="PMB">#pmb30</idno>
-                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Mediziner*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/116992298/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3539</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               <person xml:id="pmb13682">
-                  <persName>
-                     <surname>Bahr</surname>
-                     <forename>Rosa</forename>
-                  </persName>
-                  <birth>
-                     <date when="1871-10-26">26. 10. 1871</date>
-                     <placeName>
-                        <settlement>Prag</settlement>
-                        <idno type="PMB">#pmb652</idno>
-                        <idno type="geonames">https://www.geonames.org/3067695/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1940-02-17">17. 2. 1940</date>
-                     <placeName>
-                        <settlement>Berlin</settlement>
-                        <idno type="PMB">#pmb168</idno>
-                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schauspieler*in"/>
-                  <sex>female</sex>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13375</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13682</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13682</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 26. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 1. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041130.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 29. 1. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041134.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 5. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041148.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 12. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041204.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 28. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041208.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 19. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041219.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 6. 6. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 19. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041244.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 5. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041271.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, [Partner für Theaterprojekt?], 18. 8. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 10. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041489.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Brieftagebuch von Hermann Bahr, 3. 10. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041495.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 14. 8. 1920</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 4. 4. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041258.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 19. 10. [1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041283.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041352.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041376.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 15. 9. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041381.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [8.–9. 1. 1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Rosa Bahr, 27. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041483.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Redlich an Hermann Bahr, 29. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041568.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Hermann Bahr, 9. 5. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041603.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Emerich von Bukovics an Hermann Bahr, 29. [6.?] 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041629.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Siegfried Trebitsch an Hermann Bahr, 22. 1. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041638.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb27721">
+   <back><listPerson><person xml:id="pmb27721">
                   <persName>
                      <surname>??</surname>
                   </persName>
@@ -404,14 +248,6 @@
                   <sex>male</sex>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27721</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb28184">
-                  <persName>
-                     <surname>no name provided</surname>
-                     <forename>Ferdinand</forename>
-                  </persName>
-                  <occupation code="Dienstbote?"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28184</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 21. 6. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041451.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb11632">
                   <persName>
                      <surname>Heimann</surname>
@@ -440,32 +276,67 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb11632</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb11632</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 2. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041326.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Brahm an Arthur Schnitzler, 12. 7. 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041557.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb3542">
+               <person xml:id="pmb20315">
                   <persName>
-                     <surname>Knackfuß</surname>
-                     <forename>Hermann</forename>
+                     <surname>da Vinci</surname>
+                     <forename>Leonardo</forename>
                   </persName>
                   <birth>
-                     <date when="1848-01-01">1848</date>
+                     <date when="1452-04-15">15. 4. 1452</date>
                      <placeName>
-                        <settlement>Wissen</settlement>
-                        <idno type="PMB">#pmb58737</idno>
-                        <idno type="geonames">https://www.geonames.org/2807440/</idno>
+                        <settlement>Vinci</settlement>
+                        <idno type="PMB">#pmb49641</idno>
+                        <idno type="geonames">https://www.geonames.org/3164074/</idno>
                      </placeName>
                   </birth>
                   <death>
-                     <date when="1915-01-01">1915</date>
+                     <date when="1519-05-02">2. 5. 1519</date>
                      <placeName>
-                        <settlement>Kassel</settlement>
-                        <idno type="PMB">#pmb39640</idno>
-                        <idno type="geonames">https://www.geonames.org/2892518/</idno>
+                        <settlement>Schloss Clos Lucé</settlement>
+                        <idno type="PMB">#pmb20318</idno>
+                        <idno type="geonames"/>
                      </placeName>
                   </death>
                   <occupation code="Maler*in"/>
                   <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118563599/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3542</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17452</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20315</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041421.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 9. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041526.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               <person xml:id="pmb28184">
+                  <persName>
+                     <surname>no name provided</surname>
+                     <forename>Ferdinand</forename>
+                  </persName>
+                  <occupation code="Dienstbote?"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28184</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 21. 6. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041451.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -494,6 +365,147 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb3542">
+                  <persName>
+                     <surname>Knackfuß</surname>
+                     <forename>Hermann</forename>
+                  </persName>
+                  <birth>
+                     <date when="1848-01-01">1848</date>
+                     <placeName>
+                        <settlement>Wissen</settlement>
+                        <idno type="PMB">#pmb58737</idno>
+                        <idno type="geonames">https://www.geonames.org/2807440/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1915-01-01">1915</date>
+                     <placeName>
+                        <settlement>Kassel</settlement>
+                        <idno type="PMB">#pmb39640</idno>
+                        <idno type="geonames">https://www.geonames.org/2892518/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Maler*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118563599/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3542</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb13682">
+                  <persName>
+                     <surname>Bahr</surname>
+                     <forename>Rosa</forename>
+                  </persName>
+                  <birth>
+                     <date when="1871-10-26">26. 10. 1871</date>
+                     <placeName>
+                        <settlement>Prag</settlement>
+                        <idno type="PMB">#pmb652</idno>
+                        <idno type="geonames">https://www.geonames.org/3067695/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1940-02-17">17. 2. 1940</date>
+                     <placeName>
+                        <settlement>Berlin</settlement>
+                        <idno type="PMB">#pmb168</idno>
+                        <idno type="geonames">https://www.geonames.org/2950159/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schauspieler*in"/>
+                  <sex>female</sex>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13375</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb13682</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb13682</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 26. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041000.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 1. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041130.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 29. 1. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041134.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 23. 5. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041148.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 16. 12. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041204.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 28. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041208.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 19. 7. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041219.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 6. 6. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041230.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 19. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041235.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 10. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041244.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 4. 5. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041270.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 5. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041271.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, [Partner für Theaterprojekt?], 18. 8. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041420.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041466.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 10. 1906</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041489.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Brieftagebuch von Hermann Bahr, 3. 10. 1907</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041495.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 14. 8. 1920</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041588.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 4. 4. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041258.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 19. 10. [1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041283.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 27. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041352.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 17. 7. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041376.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 15. 9. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041381.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, [8.–9. 1. 1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041446.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Rosa Bahr, 27. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041483.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Redlich an Hermann Bahr, 29. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041568.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Hermann Bahr, 9. 5. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041603.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Emerich von Bukovics an Hermann Bahr, 29. [6.?] 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041629.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Siegfried Trebitsch an Hermann Bahr, 22. 1. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041638.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb12796">
+                  <persName>
+                     <surname>Skrein</surname>
+                     <forename>Stefan</forename>
+                  </persName>
+                  <birth>
+                     <date when="1856-09-14">14. 9. 1856</date>
+                     <placeName>
+                        <settlement>Holešov</settlement>
+                        <idno type="PMB">#pmb38093</idno>
+                        <idno type="geonames">https://www.geonames.org/3075606/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-09-22">22. 9. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/130153729/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20156</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12796</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12796</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb2202">
+                  <persName>
+                     <surname>Singer</surname>
+                     <forename>Wilhelm</forename>
+                  </persName>
+                  <birth>
+                     <date when="1847-11-26">26. 11. 1847</date>
+                     <placeName>
+                        <settlement>Bzenec</settlement>
+                        <idno type="PMB">#pmb53794</idno>
+                        <idno type="geonames">https://www.geonames.org/3078275/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1917-10-10">10. 10. 1917</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Journalist*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/117402834/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20141</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2202</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2202</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 11. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041220.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 17. 8. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041256.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, [Anfang Februar 1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041422.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 1[0]. 2. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041424.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 30. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041436.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 10. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041437.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 21. 6. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041451.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 28. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041465.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Reiseplanung für Wienaufenthalt], [Februar 1917]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041481.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 15. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041506.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 20. 3. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041207.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [29.] 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041256.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [30. 3. 1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041257.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Josef Redlich an Hermann Bahr, 29. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041568.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Hermann Bahr, 9. 2. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041572.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Pötzl an Hermann Bahr, 14. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041592.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Eduard Pötzl an Hermann Bahr, 17. 3. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041593.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Die Rahl], [Mitte November 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030069.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Stimmen des Bluts], [Mitte Oktober – 8. 11. 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Buch der Jugend], [Anfang Dezember 1908]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030071.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Inventur], [Anfang September 1912]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030072.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Buchversandliste Das österreichische Wunder], [Anfang Juni 1915]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030075.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Versandliste Wenn es euch gefällt?], [vor dem 28. 5. 1899?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030087.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb3539">
+                  <persName>
+                     <surname>Zillner</surname>
+                     <forename>Franz Valentin</forename>
+                  </persName>
+                  <birth>
+                     <date when="1816-01-01">1816</date>
+                     <placeName>
+                        <settlement>Salzburg</settlement>
+                        <idno type="PMB">#pmb30</idno>
+                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1896-01-01">1896</date>
+                     <placeName>
+                        <settlement>Salzburg</settlement>
+                        <idno type="PMB">#pmb30</idno>
+                        <idno type="geonames">https://www.geonames.org/2766818/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Mediziner*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/116992298/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3539</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb28076">
+                  <persName>
+                     <surname>Ludwig</surname>
+                  </persName>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28076</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 11. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041416.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2665">
                   <persName>
                      <surname>Bell</surname>
@@ -520,48 +532,21 @@
                   <idno type="gnd">https://d-nb.info/gnd/1022836978/</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2665</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb20315">
+               <person xml:id="pmb27722">
                   <persName>
-                     <surname>da Vinci</surname>
-                     <forename>Leonardo</forename>
+                     <surname>??</surname>
                   </persName>
                   <birth>
-                     <date when="1452-04-15">15. 4. 1452</date>
-                     <placeName>
-                        <settlement>Vinci</settlement>
-                        <idno type="PMB">#pmb49641</idno>
-                        <idno type="geonames">https://www.geonames.org/3164074/</idno>
-                     </placeName>
+                     <date when="1903-01-01">1903</date>
                   </birth>
                   <death>
-                     <date when="1519-05-02">2. 5. 1519</date>
-                     <placeName>
-                        <settlement>Schloss Clos Lucé</settlement>
-                        <idno type="PMB">#pmb20318</idno>
-                        <idno type="geonames"/>
-                     </placeName>
+                     <date when="1903-01-01">1903</date>
                   </death>
-                  <occupation code="Maler*in"/>
+                  <occupation code="Gemeindediener"/>
                   <sex>male</sex>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17452</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb20315</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 3. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041421.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 9. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041526.xml"/></linkGrp></event></listEvent></person>
-               </listPerson><listBibl><bibl xml:id="pmb31107">
-                  <author role="author">
-                     <persName>
-                        <surname>Zillner</surname>
-                        <forename>Franz Valentin</forename>
-                     </persName>
-                     <idno type="pmb">pmb3539</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/116992298/</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3539</idno>
-                  </author>
-                  <title>Geschichte der Stadt Salzburg</title>
-                  <date from-custom="1885/1890">1885/1890</date>
-                  <gloss type="w1055">Text</gloss>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31107</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb31109">
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27722</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></person>
+               </listPerson><listBibl><bibl xml:id="pmb31109">
                   <author role="editor">
                      <persName>
                         <surname>Knackfuß</surname>
@@ -575,6 +560,28 @@
                   <title>Künstlermonographien</title>
                   <gloss type="w1055">Text</gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31109</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb31111">
+                  <title>Leonardo da Vinci</title>
+                  <date from-custom="1901.01">1901.01</date>
+                  <gloss type="w1055">Text</gloss>
+                  <note>2982</note>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31111</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
+               <bibl xml:id="pmb31107">
+                  <author role="author">
+                     <persName>
+                        <surname>Zillner</surname>
+                        <forename>Franz Valentin</forename>
+                     </persName>
+                     <idno type="pmb">pmb3539</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/116992298/</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb3539</idno>
+                  </author>
+                  <title>Geschichte der Stadt Salzburg</title>
+                  <date from-custom="1885/1890">1885/1890</date>
+                  <gloss type="w1055">Text</gloss>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31107</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
                <bibl xml:id="pmb30105">
                   <author role="author">
@@ -593,14 +600,18 @@
                   <gloss type="w1055">Text</gloss>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30105</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
-               <bibl xml:id="pmb31111">
-                  <title>Leonardo da Vinci</title>
-                  <date from-custom="1901.01">1901.01</date>
-                  <gloss type="w1055">Text</gloss>
-                  <note>2982</note>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb31111</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl><listPlace><place xml:id="pmb336">
+               </listBibl><listPlace><place xml:id="pmb337">
+                  <placeName>Hotel de France</placeName>
+                  <desc>
+                     <date when="1872-07-01" when-custom="1872">1872</date>
+                     <gloss ana="i12">Hotel</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.214527 16.362946</geo>
+                  </location>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb337</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 29. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></place>
+               <place xml:id="pmb336">
                   <placeName>Frick am Graben</placeName>
                   <desc>
                      <gloss ana="i53">Buchhandlung</gloss>
@@ -620,17 +631,6 @@
                   <idno type="geonames">https://www.geonames.org/2766818/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 31. 12. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041016.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 9. 1911</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041070.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 2. 5. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041080.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041237.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041238.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 7. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 10. 9. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041337.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 1. 1. 1920</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041338.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 1. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041341.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 2. 6. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041346.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 12. 1. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041367.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 13. 7. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041375.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 28. 10. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041380.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 11. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041382.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 1. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041430.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 2. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041431.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 5. 8. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041433.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 12. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 21. 6. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041451.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 31. 1. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041458.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 27. 4. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041459.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 20. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041468.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 15. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041506.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 18. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041552.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 15. 9. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041559.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 19. 9. 1920</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041564.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 26. 2. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041566.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 16. 11. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041125.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 18. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041126.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 22. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041127.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2[5]. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041128.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 19. 7. [1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041129.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 19. 7. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041130.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 12. 10. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041133.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 9. 2. 1915</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041134.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 24. 8. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041135.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler an Hermann Bahr, 16. 12. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041138.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler an Anna Bahr-Mildenburg, 24. 3. 1936</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041144.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [17.? 7. 1894]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041169.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler an Anna Bahr-Mildenburg, 24. 1. 1934</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041198.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 22. 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041216.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 5. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041249.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 27. 7. [1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041280.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, [18.?] 8. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041292.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 7. 12. 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041336.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 16. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041337.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 23. 4. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041338.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 20. 7. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041339.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 7. 3. 1914</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041340.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 14. 6. 1914</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041341.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 25. 8. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041343.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 9. 2. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041345.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an S. Fischer, 11. 3. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041346.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 9. 6. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041347.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Alois Bahr, 1. 12. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041356.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 11. 8. 1891</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041407.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 24. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041449.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 29. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Hermann Bahr, [29. 6. 1902?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041478.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Gerty von Hofmannsthal an Hermann Bahr, 6. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041494.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Gerty von Hofmannsthal, 21. 9. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041495.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Richard Beer-Hofmann, 2. 7. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041505.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, [6.] 9. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041509.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 12. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041510.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 1. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041525.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Hermann Bahr, 9. 8. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041526.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Adele Sandrock, [4.] 6. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041533.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Arthur Schnitzler, [5. 8. 1894]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041535.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 1. 7. 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041542.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Hermann Bahr, [6.] 5. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041566.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arno Holz an Hermann Bahr, 18. 1. 1916</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041573.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, [10.] 7. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041583.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Adele Sandrock an Hermann Bahr, 17. 8. 1894</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041599.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Altenberg und Georg Engländer an Hermann Bahr, [Mitte April 1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041607.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Peter Altenberg an Hermann Bahr, [Ende Juni, Anfang Juli 1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041609.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Hermann Bahr, 2. 6. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041610.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Hermann Bahr, 4. 8. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041612.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Arthur Schnitzler, [Ende Mai 1913]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041613.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Stefan Zweig, 25. 5. 1913</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041614.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Arthur Schnitzler, 28. 7. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041615.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Rosa Freudenthal an Arthur Schnitzler, [31. 10. – 3. 11. 1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041625.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Richard Beer-Hofmann, 21. 8. 1905</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041632.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Stefan Zweig an Hermann Bahr, [9. 9. 1914?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041648.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 7. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041652.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 19. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041653.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 29. 8. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041660.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 30. 8. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041661.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 7. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041662.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 13. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041663.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 16. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041664.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 20. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041665.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 23. 9. 1919</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041666.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 22. 3. 1920</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041667.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 21. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041668.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 23. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041669.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 3. 12. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041670.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, [20. 12. 1921]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041671.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 13. 2. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041672.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 26. 4. 1922</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041673.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga an Arthur Schnitzler, 29. 12. 1923</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041676.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Richard Beer-Hofmann an Arthur Schnitzler, [18. 7. 1894]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041695.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Olga Schnitzler: Spiegelbild der Freundschaft, 4. Kapitel, 1962</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030004.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Lebendige Stunden, 7. 5. 1902</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030020.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch. 10. Juni, 6. 11. 1908; mit Anmerkungen von Arthur Schnitzler, [11.–13.] 11. 1908</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030026.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: Tagebuch 10. Januar, 26. 1. 1930</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030033.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler: Max Burckhard, April 1912</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030081.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb337">
-                  <placeName>Hotel de France</placeName>
-                  <desc>
-                     <date when="1872-07-01" when-custom="1872">1872</date>
-                     <gloss ana="i12">Hotel</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.214527 16.362946</geo>
-                  </location>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb337</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 1. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041450.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur an Olga Schnitzler, 29. 11. 1921</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041457.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></place>
                </listPlace><listOrg><org xml:id="pmb29655">
                   <orgName>Brakls Rubinverlag</orgName>
                   <desc>

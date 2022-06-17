@@ -76,7 +76,35 @@
             <p>Las die nun abgeschriebnen <rs type="person" ref="#pmb10815">Bahr</rs>-Briefe, und <rs type="person" ref="#pmb10992">Brandes</rs> Briefe.</p>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb2121">
+   <back><listPerson><person xml:id="pmb10815">
+                  <persName>
+                     <surname>Bahr</surname>
+                     <forename>Hermann</forename>
+                  </persName>
+                  <birth>
+                     <date when="1863-07-19">19. 7. 1863</date>
+                     <placeName>
+                        <settlement>Linz</settlement>
+                        <idno type="PMB">#pmb332</idno>
+                        <idno type="geonames">https://www.geonames.org/2772395/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1934-01-15">15. 1. 1934</date>
+                     <placeName>
+                        <settlement>München</settlement>
+                        <idno type="PMB">#pmb45258</idno>
+                        <idno type="geonames">https://www.geonames.org/2867714/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
+               </person>
+               <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
                      <forename>Arthur</forename>
@@ -172,34 +200,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10992</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10992</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 8. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041163.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 21. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041171.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 3. 7. 1924</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041335.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Kalendereintrag von Hermann Bahr, 2. 11. 1901</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041416.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 5. 11. 1908</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041497.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 30. 7. 1918</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041545.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 8. 10. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041188.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Marie Reinhard, 23. 8. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041383.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, 19. 7. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041427.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Georg Brandes, 9. 12. 1915</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041455.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Georg Brandes, 8. 10. 1896</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041463.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Otto Brahm, 4. 1. 1898</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041540.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Die Korrespondenz Hermann Bahr – Arthur Schnitzler</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000005.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb10815">
-                  <persName>
-                     <surname>Bahr</surname>
-                     <forename>Hermann</forename>
-                  </persName>
-                  <birth>
-                     <date when="1863-07-19">19. 7. 1863</date>
-                     <placeName>
-                        <settlement>Linz</settlement>
-                        <idno type="PMB">#pmb332</idno>
-                        <idno type="geonames">https://www.geonames.org/2772395/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1934-01-15">15. 1. 1934</date>
-                     <placeName>
-                        <settlement>München</settlement>
-                        <idno type="PMB">#pmb45258</idno>
-                        <idno type="geonames">https://www.geonames.org/2867714/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118505955/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_13374</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
-               </person>
                <person xml:id="pmb27549">
                   <persName>
                      <surname>Zuckerkandl</surname>

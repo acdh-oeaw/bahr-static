@@ -98,24 +98,34 @@
             <p>Das illustrieren an dem Falle <rs type="person" ref="#pmb12618">Dilly</rs> – <rs type="person" ref="#pmb2121">Thuri</rs>. Die <anchor type="commentary" xml:id="KD408-1">Bajadere</anchor>. Sie hat von Natur das: nur dem momentanen Triebe folgen; aber sie schämt sich u. ist zerknirscht. Er predigt, daß man sich jedem Gebot der Leidenschaft mit Unschuld, mit gutem Gewissen hingeben soll; und geberdet sich bei der ersten Prüfung wie ein romantischer cocu (Duell usw)</p>
          </div>
       </body>
-   <back><listBibl><bibl xml:id="pmb30283">
-                  <author role="author">
-                     <persName>
-                        <surname>Nietzsche</surname>
-                        <forename>Friedrich</forename>
-                     </persName>
-                     <idno type="pmb">pmb12358</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/118587943/</idno>
-                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18451</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12358</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12358</idno>
-                  </author>
-                  <title>Der Fall Wagner</title>
-                  <date from="1888-01-01" from-custom="1888">1888</date>
-                  <gloss type="w1055">Text</gloss>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30283</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Notiz zu einem Novellenstoff], [Frühjahr 1895?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041408.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl><listPerson><person xml:id="pmb12618">
+   <back><listPerson><person xml:id="pmb2121">
+                  <persName>
+                     <surname>Schnitzler</surname>
+                     <forename>Arthur</forename>
+                  </persName>
+                  <birth>
+                     <date when="1862-05-15">15. 5. 1862</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1931-10-21">21. 10. 1931</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
+               </person>
+               <person xml:id="pmb12618">
                   <persName>
                      <surname>Sandrock</surname>
                      <forename>Adele</forename>
@@ -171,32 +181,22 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb2121">
-                  <persName>
-                     <surname>Schnitzler</surname>
-                     <forename>Arthur</forename>
-                  </persName>
-                  <birth>
-                     <date when="1862-05-15">15. 5. 1862</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1931-10-21">21. 10. 1931</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118609807/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
-               </person>
-               </listPerson></back></text>
+               </listPerson><listBibl><bibl xml:id="pmb30283">
+                  <author role="author">
+                     <persName>
+                        <surname>Nietzsche</surname>
+                        <forename>Friedrich</forename>
+                     </persName>
+                     <idno type="pmb">pmb12358</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/118587943/</idno>
+                     <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_18451</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb12358</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb12358</idno>
+                  </author>
+                  <title>Der Fall Wagner</title>
+                  <date from="1888-01-01" from-custom="1888">1888</date>
+                  <gloss type="w1055">Text</gloss>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30283</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Hermann Bahr: [Notiz zu einem Novellenstoff], [Frühjahr 1895?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041408.xml"/></linkGrp></event></listEvent></bibl>
+               </listBibl></back></text>
 </TEI>

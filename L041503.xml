@@ -94,19 +94,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="pmb50">
-                  <placeName>Wien</placeName>
-                  <desc>
-                     <gloss ana="i14">Besiedelter Ort</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.2066 16.37341</geo>
-                  </location>
-                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
-               </place>
-               </listPlace><listPerson><person xml:id="pmb10863">
+   <back><listPerson><person xml:id="pmb10863">
                   <persName>
                      <surname>Beer-Hofmann</surname>
                      <forename>Richard</forename>
@@ -189,5 +177,17 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               </listPerson></back></text>
+               </listPerson><listPlace><place xml:id="pmb50">
+                  <placeName>Wien</placeName>
+                  <desc>
+                     <gloss ana="i14">Besiedelter Ort</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.2066 16.37341</geo>
+                  </location>
+                  <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                  <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
+               </place>
+               </listPlace></back></text>
 </TEI>
