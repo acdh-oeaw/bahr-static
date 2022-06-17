@@ -146,3 +146,5 @@ desktop.ini
 arche.rdf
 beacon.txt
 Untitled.ipynb
+composer.*
+vendor/

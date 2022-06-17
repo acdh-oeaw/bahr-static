@@ -10,3 +10,6 @@ rm master.zip
 
 echo "add # to @refs"
 find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i -e 's@ref="pmb@ref="#pmb@g'
+
+echo "denormalize indices "
+denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:titleStmt/tei:title[@level='a']/text()" -b pmb10815 pmb2121
