@@ -12,4 +12,7 @@ echo "add # to @refs"
 find ./data/editions/ -type f -name "*.xml"  -print0 | xargs -0 sed -i -e 's@ref="pmb@ref="#pmb@g'
 
 echo "denormalize indices "
-denormalize-indices -f "./data/editions/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:titleStmt/tei:title[@level='a']/text()" -b pmb10815 pmb2121
+denormalize-indices -f "./data/*/*.xml" -i "./data/indices/*.xml" -m ".//*[@ref]/@ref" -x ".//tei:title[@level='a']/text()" -b pmb2121 -b pmb10815 -b pmb50
+
+echo "build typesense index"
+python make_typesense_index.py

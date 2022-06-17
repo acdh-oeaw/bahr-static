@@ -8,7 +8,11 @@ jobs:
     name: Publish Edition as GitHub Pages Website
     runs-on: ubuntu-latest
     env:
-      ANT_OPTS: -Xmx5g
+      ANT_OPTS: -Xmx6g
+      TYPESENSE_HOST: 1ckxuotadbr6fqh3p-1.a1.typesense.net
+      TYPESENSE_PORT: 443
+      TYPESENSE_PROTOCOL: https
+      TYPESENSE_API_KEY: ${{secrets.TYPESENSE_API_KEY}}
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v2
@@ -16,19 +20,12 @@ jobs:
       run: |
         apt-get update && apt-get install openjdk-11-jre-headless ant -y --no-install-recommend
         ./script.sh
-    - name: Install Ant-Contrib
-      run: |
-        wget https://repo1.maven.org/maven2/ant-contrib/ant-contrib/1.0b3/ant-contrib-1.0b3.jar
-        mv ant-contrib-1.0b3.jar /usr/share/ant/lib
     - name: install python things
       run: |
-        pip install acdh-tei-pyutils
+        pip install -r requirements.txt
     - name: Build Static Sites
       run: |
-        ./transform.sh
-    - name: Build Fulltext-Search-Index
-      run: |
-        ./build_index.sh
+        ./fetch_data.sh
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
