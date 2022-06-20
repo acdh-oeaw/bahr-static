@@ -1,6 +1,5 @@
 import glob
 import os
-import typesense
 
 from typesense.api_call import ObjectNotFound
 from acdh_cfts_pyutils import TYPESENSE_CLIENT as client

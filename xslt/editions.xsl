@@ -117,6 +117,34 @@
                             </div>
                         </div>                       
                     </div>
+                    <xsl:for-each select=".//tei:rs[.//tei:rs or contains(@ref, ' ')]">
+                        <xsl:variable name="modalId">
+                            <xsl:value-of select="replace(normalize-space(string-join(.//@ref[starts-with(., '#')], '___')), '#', '')"/>
+                        </xsl:variable>
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
+                            <xsl:attribute name="id">
+                                <xsl:value-of select="$modalId"/>
+                            </xsl:attribute>
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            Multi Modal
+                                        </h5>
+                                        
+                                    </div>
+                                    <div class="modal-body">
+                                        <xsl:for-each select="tokenize($modalId, '___')">
+                                            <li><xsl:value-of select="."/></li>
+                                        </xsl:for-each>
+                                    </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
                     <xsl:for-each select=".//tei:back//tei:org[@xml:id]">
                         
                         <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true">
@@ -202,6 +230,7 @@
                             </div>
                         </div>
                     </xsl:for-each>
+                    
                     <xsl:for-each select=".//tei:back//tei:bibl[@xml:id]">
                         <xsl:variable name="xmlId">
                             <xsl:value-of select="data(./@xml:id)"/>

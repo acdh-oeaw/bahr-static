@@ -64,13 +64,27 @@
         <del><xsl:apply-templates/></del>
     </xsl:template>
     
-    <xsl:template match="tei:rs[@ref or @key]">
+    <xsl:template match="tei:rs[@ref or @key and not(.//tei:rs or contains(@ref, ' '))]">
         <strong>
             <xsl:element name="a">
                 <xsl:attribute name="data-toggle">modal</xsl:attribute>
                 <xsl:attribute name="data-target">
                     <xsl:value-of select="data(@ref)"/>
                     <!-- <xsl:value-of select="concat('#', @key)"/> -->
+                </xsl:attribute>
+                <xsl:value-of select="."/>
+            </xsl:element>
+        </strong>
+    </xsl:template>
+    <xsl:template match="tei:rs[.//tei:rs or contains(@ref, ' ')]">
+        <xsl:variable name="modalId">
+            <xsl:value-of select="replace(normalize-space(string-join(.//@ref[starts-with(., '#')], '___')), '#', '')"/>
+        </xsl:variable>
+        <strong>
+            <xsl:element name="a">
+                <xsl:attribute name="data-toggle">modal</xsl:attribute>
+                <xsl:attribute name="data-target">
+                    <xsl:value-of select="concat('#', $modalId)"/>
                 </xsl:attribute>
                 <xsl:value-of select="."/>
             </xsl:element>
