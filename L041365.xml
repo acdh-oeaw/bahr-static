@@ -110,7 +110,16 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb10815">
+   <back><listPerson><person xml:id="pmb28278">
+                  <persName>
+                     <surname>Mayer</surname>
+                     <forename>M. J.</forename>
+                  </persName>
+                  <occupation code="Medizinstudent*in"/>
+                  <sex>male</sex>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28278</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 15. 9. 189[4?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041365.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -193,15 +202,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb28278">
-                  <persName>
-                     <surname>Mayer</surname>
-                     <forename>M. J.</forename>
-                  </persName>
-                  <occupation code="Medizinstudent*in"/>
-                  <sex>male</sex>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28278</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Felix Salten an Arthur Schnitzler, 15. 9. 189[4?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041365.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listOrg><org xml:id="pmb29207">
                   <orgName>Berliner Neueste Nachrichten</orgName>
                   <desc>

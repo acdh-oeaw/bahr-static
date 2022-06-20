@@ -122,6 +122,57 @@
                   <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_20531</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb25665</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb4798">
+                  <persName>
+                     <surname>Lang</surname>
+                     <forename>Marie</forename>
+                  </persName>
+                  <birth>
+                     <date when="1858-03-08">8. 3. 1858</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1934-10-14">14. 10. 1934</date>
+                     <placeName>
+                        <settlement>Altmünster</settlement>
+                        <idno type="PMB">#pmb47963</idno>
+                        <idno type="geonames">https://www.geonames.org/7873132/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Journalist*in"/>
+                  <sex>female</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/120994429/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17298</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4798</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb4801">
+                  <persName>
+                     <surname>Lang</surname>
+                     <forename>Heinrich</forename>
+                  </persName>
+                  <birth>
+                     <date when="1885-01-01">1885</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1904-08-27">27. 8. 1904</date>
+                     <placeName>
+                        <settlement>Kidderminster</settlement>
+                        <idno type="PMB">#pmb943</idno>
+                        <idno type="geonames">https://www.geonames.org/2645724/</idno>
+                     </placeName>
+                  </death>
+                  <idno type="gnd">https://d-nb.info/gnd/1024091058/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4801</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb28817">
                   <persName>
                      <surname>Lang</surname>
@@ -144,14 +195,6 @@
                      </placeName>
                   </death>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28817</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb28816">
-                  <persName>
-                     <surname>Oberndorfer</surname>
-                     <forename>Ida</forename>
-                  </persName>
-                  <occupation code="Hausgehilfin"/>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28816</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2121">
                   <persName>
@@ -180,57 +223,14 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb4801">
+               <person xml:id="pmb28816">
                   <persName>
-                     <surname>Lang</surname>
-                     <forename>Heinrich</forename>
+                     <surname>Oberndorfer</surname>
+                     <forename>Ida</forename>
                   </persName>
-                  <birth>
-                     <date when="1885-01-01">1885</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1904-08-27">27. 8. 1904</date>
-                     <placeName>
-                        <settlement>Kidderminster</settlement>
-                        <idno type="PMB">#pmb943</idno>
-                        <idno type="geonames">https://www.geonames.org/2645724/</idno>
-                     </placeName>
-                  </death>
-                  <idno type="gnd">https://d-nb.info/gnd/1024091058/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4801</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb4798">
-                  <persName>
-                     <surname>Lang</surname>
-                     <forename>Marie</forename>
-                  </persName>
-                  <birth>
-                     <date when="1858-03-08">8. 3. 1858</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1934-10-14">14. 10. 1934</date>
-                     <placeName>
-                        <settlement>Altmünster</settlement>
-                        <idno type="PMB">#pmb47963</idno>
-                        <idno type="geonames">https://www.geonames.org/7873132/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Journalist*in"/>
-                  <sex>female</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/120994429/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_17298</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4798</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
+                  <occupation code="Hausgehilfin"/>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb28816</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Plan von Arthur Schnitzler zu Das Wort, September 1904</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/texts/T030065.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listBibl><bibl xml:id="pmb30615">
                   <author role="author">
                      <persName>

@@ -111,7 +111,51 @@
             </postscript>
          </div>
       </body>
-   <back><listPerson><person xml:id="pmb10815">
+   <back><listBibl><bibl xml:id="pmb30637">
+                  <author role="author">
+                     <persName>
+                        <surname>Pietzner</surname>
+                        <forename>Carl</forename>
+                     </persName>
+                     <idno type="pmb">pmb2374</idno>
+                     <idno type="gnd">https://d-nb.info/gnd/141426497/</idno>
+                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2374</idno>
+                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2374</idno>
+                  </author>
+                  <title>Arthur Schnitzler</title>
+                  <date from="1903-01-01" from-custom="1903">1903</date>
+                  <gloss type="w1073">Fotografie</gloss>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30637</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30637</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, 27. 9. [1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041444.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 29. 9. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041445.xml"/></linkGrp></event></listEvent></bibl>
+               </listBibl><listPerson><person xml:id="pmb2374">
+                  <persName>
+                     <surname>Pietzner</surname>
+                     <forename>Carl</forename>
+                  </persName>
+                  <birth>
+                     <date when="1853-04-09">9. 4. 1853</date>
+                     <placeName>
+                        <settlement>Wriezen</settlement>
+                        <idno type="PMB">#pmb47363</idno>
+                        <idno type="geonames">https://www.geonames.org/2805999/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1927-11-25">25. 11. 1927</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Fotograf*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/141426497/</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2374</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2374</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041002.xml"/></linkGrp></event></listEvent></person>
+               <person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -139,33 +183,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
-               <person xml:id="pmb2374">
-                  <persName>
-                     <surname>Pietzner</surname>
-                     <forename>Carl</forename>
-                  </persName>
-                  <birth>
-                     <date when="1853-04-09">9. 4. 1853</date>
-                     <placeName>
-                        <settlement>Wriezen</settlement>
-                        <idno type="PMB">#pmb47363</idno>
-                        <idno type="geonames">https://www.geonames.org/2805999/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1927-11-25">25. 11. 1927</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Fotograf*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/141426497/</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2374</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2374</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041002.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb2121">
                   <persName>
                      <surname>Schnitzler</surname>
@@ -215,22 +232,5 @@
                   </location>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb302</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hermann Bahr an Arthur Schnitzler, 19. 10. [1904]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041283.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listBibl><bibl xml:id="pmb30637">
-                  <author role="author">
-                     <persName>
-                        <surname>Pietzner</surname>
-                        <forename>Carl</forename>
-                     </persName>
-                     <idno type="pmb">pmb2374</idno>
-                     <idno type="gnd">https://d-nb.info/gnd/141426497/</idno>
-                     <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2374</idno>
-                     <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2374</idno>
-                  </author>
-                  <title>Arthur Schnitzler</title>
-                  <date from="1903-01-01" from-custom="1903">1903</date>
-                  <gloss type="w1073">Fotografie</gloss>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb30637</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb30637</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 2. 12. 1893</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041002.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Hugo von Hofmannsthal an Arthur Schnitzler, 27. 9. [1903]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041444.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hugo von Hofmannsthal, 29. 9. 1903</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041445.xml"/></linkGrp></event></listEvent></bibl>
-               </listBibl></back></text>
+               </listPlace></back></text>
 </TEI>

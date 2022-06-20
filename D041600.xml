@@ -137,6 +137,32 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb4631">
+                  <persName>
+                     <surname>Brandenburg</surname>
+                     <forename>Hans</forename>
+                  </persName>
+                  <birth>
+                     <date when="1885-01-01">1885</date>
+                     <placeName>
+                        <settlement>Wuppertal</settlement>
+                        <idno type="PMB">#pmb989</idno>
+                        <idno type="geonames">https://www.geonames.org/2805753/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1968-01-01">1968</date>
+                     <placeName>
+                        <settlement>Bingen am Rhein</settlement>
+                        <idno type="PMB">#pmb45630</idno>
+                        <idno type="geonames">https://www.geonames.org/2948825/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>male</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/118514318/</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4631</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 22. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041585.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 25. 2. 1927</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041600.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 5. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041605.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10818">
                   <persName>
                      <surname>Bahr-Mildenburg</surname>
@@ -192,32 +218,6 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb4631">
-                  <persName>
-                     <surname>Brandenburg</surname>
-                     <forename>Hans</forename>
-                  </persName>
-                  <birth>
-                     <date when="1885-01-01">1885</date>
-                     <placeName>
-                        <settlement>Wuppertal</settlement>
-                        <idno type="PMB">#pmb989</idno>
-                        <idno type="geonames">https://www.geonames.org/2805753/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1968-01-01">1968</date>
-                     <placeName>
-                        <settlement>Bingen am Rhein</settlement>
-                        <idno type="PMB">#pmb45630</idno>
-                        <idno type="geonames">https://www.geonames.org/2948825/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>male</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/118514318/</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb4631</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 22. 10. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041585.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 25. 2. 1927</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041600.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Aufzeichnung von Hermann Bahr, 5. 11. 1931</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041605.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listPlace><place xml:id="pmb669">
                   <placeName>Bayerische Staatsoper</placeName>
                   <desc>

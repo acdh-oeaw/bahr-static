@@ -137,17 +137,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="pmb680">
-                  <placeName>Kaiser-Franz-Ring</placeName>
-                  <desc>
-                     <gloss ana="i26">Straße</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.010973 16.241925</geo>
-                  </location>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb680</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, [20. 9. 1896?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041008.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb50">
                   <placeName>Wien</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>
@@ -159,6 +149,16 @@
                   <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
                </place>
+               <place xml:id="pmb680">
+                  <placeName>Kaiser-Franz-Ring</placeName>
+                  <desc>
+                     <gloss ana="i26">Straße</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.010973 16.241925</geo>
+                  </location>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb680</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, [20. 9. 1896?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041008.xml"/></linkGrp></event></listEvent></place>
                </listPlace><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
@@ -187,6 +187,21 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb10815</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb10815</idno>
                </person>
+               <person xml:id="pmb27696">
+                  <persName>
+                     <surname>?? [Hausmeisterin von Arthur Schnitzler]</surname>
+                  </persName>
+                  <birth>
+                     <date when="1896-07-01">1896</date>
+                  </birth>
+                  <death>
+                     <date when="1896-07-01">1896</date>
+                  </death>
+                  <occupation code="Hausmeister*in"/>
+                  <sex>female</sex>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb27696</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27696</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, [20. 9. 1896?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041008.xml"/></linkGrp></event></listEvent></person>
                <person xml:id="pmb10863">
                   <persName>
                      <surname>Beer-Hofmann</surname>
@@ -242,20 +257,5 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
-               <person xml:id="pmb27696">
-                  <persName>
-                     <surname>?? [Hausmeisterin von Arthur Schnitzler]</surname>
-                  </persName>
-                  <birth>
-                     <date when="1896-07-01">1896</date>
-                  </birth>
-                  <death>
-                     <date when="1896-07-01">1896</date>
-                  </death>
-                  <occupation code="Hausmeister*in"/>
-                  <sex>female</sex>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb27696</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb27696</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, [20. 9. 1896?]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041008.xml"/></linkGrp></event></listEvent></person>
                </listPerson></back></text>
 </TEI>

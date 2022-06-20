@@ -109,16 +109,7 @@
             </closer>
          </div>
       </body>
-   <back><listPlace><place xml:id="pmb119">
-                  <placeName>Café Scheidl</placeName>
-                  <desc>
-                     <gloss ana="i20">Kaffeehaus</gloss>
-                  </desc>
-                  <location>
-                     <geo decls="LatLng">48.20368 16.37049</geo>
-                  </location>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb50">
+   <back><listPlace><place xml:id="pmb50">
                   <placeName>Wien</placeName>
                   <desc>
                      <gloss ana="i14">Besiedelter Ort</gloss>
@@ -130,6 +121,15 @@
                   <idno type="gnd">https://d-nb.info/gnd/4066009-6/</idno>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb50</idno>
                </place>
+               <place xml:id="pmb820">
+                  <placeName>Fröschelgasse</placeName>
+                  <desc>
+                     <gloss ana="i26">Straße</gloss>
+                  </desc>
+                  <location>
+                     <geo decls="LatLng">48.252123207149 16.321191055407</geo>
+                  </location>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
                <place xml:id="pmb819">
                   <placeName>Café Pucher</placeName>
                   <desc>
@@ -140,44 +140,16 @@
                   </location>
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb819</idno>
                <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               <place xml:id="pmb820">
-                  <placeName>Fröschelgasse</placeName>
+               <place xml:id="pmb119">
+                  <placeName>Café Scheidl</placeName>
                   <desc>
-                     <gloss ana="i26">Straße</gloss>
+                     <gloss ana="i20">Kaffeehaus</gloss>
                   </desc>
                   <location>
-                     <geo decls="LatLng">48.252123207149 16.321191055407</geo>
+                     <geo decls="LatLng">48.20368 16.37049</geo>
                   </location>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
-               </listPlace><listPerson><person xml:id="pmb2128">
-                  <persName>
-                     <surname>Plessner</surname>
-                     <forename>Elsa</forename>
-                  </persName>
-                  <birth>
-                     <date when="1875-08-22">22. 8. 1875</date>
-                     <placeName>
-                        <settlement>Wien</settlement>
-                        <idno type="PMB">#pmb50</idno>
-                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
-                     </placeName>
-                  </birth>
-                  <death>
-                     <date when="1932-05-01">1. 5. 1932</date>
-                     <placeName>
-                        <settlement>Alicante</settlement>
-                        <idno type="PMB">#pmb49185</idno>
-                        <idno type="geonames">https://www.geonames.org/2521978/</idno>
-                     </placeName>
-                  </death>
-                  <occupation code="Schriftsteller*in"/>
-                  <sex>female</sex>
-                  <idno type="gnd">https://d-nb.info/gnd/1041571119/</idno>
-                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15435</idno>
-                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2128</idno>
-                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2128</idno>
-               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 22. 4. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, [22. 4. 1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041678.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
-               <person xml:id="pmb10815">
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Tagebuch von Arthur Schnitzler, 11. 11. 1895</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/diaries/D041155.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event></listEvent></place>
+               </listPlace><listPerson><person xml:id="pmb10815">
                   <persName>
                      <surname>Bahr</surname>
                      <forename>Hermann</forename>
@@ -232,6 +204,34 @@
                   <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2121</idno>
                   <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2121</idno>
                </person>
+               <person xml:id="pmb2128">
+                  <persName>
+                     <surname>Plessner</surname>
+                     <forename>Elsa</forename>
+                  </persName>
+                  <birth>
+                     <date when="1875-08-22">22. 8. 1875</date>
+                     <placeName>
+                        <settlement>Wien</settlement>
+                        <idno type="PMB">#pmb50</idno>
+                        <idno type="geonames">https://www.geonames.org/2761369/</idno>
+                     </placeName>
+                  </birth>
+                  <death>
+                     <date when="1932-05-01">1. 5. 1932</date>
+                     <placeName>
+                        <settlement>Alicante</settlement>
+                        <idno type="PMB">#pmb49185</idno>
+                        <idno type="geonames">https://www.geonames.org/2521978/</idno>
+                     </placeName>
+                  </death>
+                  <occupation code="Schriftsteller*in"/>
+                  <sex>female</sex>
+                  <idno type="gnd">https://d-nb.info/gnd/1041571119/</idno>
+                  <idno type="schnitzler-tagebuch">https://schnitzler-tagebuch.acdh.oeaw.ac.at/entity/person_15435</idno>
+                  <idno type="schnitzler-briefe">https://schnitzler-briefe.acdh.oeaw.ac.at/pages/hits.html?searchkey=pmb2128</idno>
+                  <idno type="bahrschnitzler">https://bahrschnitzler.acdh.oeaw.ac.at/entity/pmb2128</idno>
+               <listEvent><event type="mentioned"><p>erwähnt in <title>Arthur Schnitzler an Hermann Bahr, 22. 4. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041013.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, [22. 4. 1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041678.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 15. 5. 1897</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041679.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 30. 5. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041680.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Elsa Plessner an Arthur Schnitzler, 7. 8. [1897]</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/letters/L041681.xml"/></linkGrp></event><event type="mentioned"><p>erwähnt in <title>Nachwort</title></p><linkGrp><link type="ARCHE" target="https://id.acdh.oeaw.ac.at/schnitzler/bahrschnitzler/meta/E000002.xml"/></linkGrp></event></listEvent></person>
                </listPerson><listOrg><org xml:id="pmb29209">
                   <orgName>Die Zeit. Wiener Wochenschrift</orgName>
                   <desc>
