@@ -202,6 +202,31 @@
                             </div>
                         </div>
                     </xsl:for-each>
+                    <xsl:for-each select=".//tei:back//tei:bibl[@xml:id]">
+                        <xsl:variable name="xmlId">
+                            <xsl:value-of select="data(./@xml:id)"/>
+                        </xsl:variable>
+                        
+                        <div class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" id="{$xmlId}">
+                            <div class="modal-dialog" role="document">
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title">
+                                            <xsl:value-of select="normalize-space(string-join(./tei:title[1]/text()))"/>
+                                            <xsl:text> </xsl:text>
+                                            <a href="{concat($xmlId, '.html')}">
+                                                <i class="fas fa-external-link-alt"></i>
+                                            </a>
+                                        </h5>
+                                    </div>
+                                    
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Schließen</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </xsl:for-each>
                     <xsl:call-template name="html_footer"/>
                 </div>
             </body>
